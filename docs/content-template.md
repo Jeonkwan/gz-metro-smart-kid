@@ -26,6 +26,11 @@ Use this structure for both English and Chinese files.
 
 <1 short paragraph explaining why this line matters.>
 
+## Challenges Along the Way
+- <Challenge 1>: <What made this difficult, explained simply>
+- <Challenge 2>: <What made this difficult, explained simply>
+- <Challenge 3>: <What made this difficult, explained simply>
+
 ## Route Snapshot
 - Start area: <...>
 - End area: <...>
@@ -72,6 +77,7 @@ Use this structure for both English and Chinese files.
 - Prefer vivid but factual phrasing.
 - Avoid overloaded number-heavy lines.
 - Use narrative voice in `Story Time`, but keep all major claims source-backed.
+- Use `Challenges Along the Way` to explain why the work was hard, not to repeat the timeline.
 
 ## Mini Style Example (Placeholder)
 ```markdown
@@ -84,6 +90,10 @@ It connects to many other lines.
 Before Line <X>, some trips across the city were slower and more crowded.
 People wanted a faster way to move through busy neighborhoods.
 When the line opened, it changed how many families traveled.
+
+## Challenges Along the Way
+- Builders had to work under busy streets without causing too much trouble above ground.
+- Underground work can be difficult because the soil, water, and space are not always easy to manage.
 
 ## Word Helper
 - Interchange: A station where you can switch lines.

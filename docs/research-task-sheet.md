@@ -14,6 +14,7 @@ Fill this before writing or rewriting line content.
 - City problem or travel need before the line opened:
 - Why this line was planned or built:
 - Construction/opening details suitable for Story Time:
+- Line-specific construction, engineering, policy, or situational challenges:
 - Official opening date:
 - Major extension dates:
 - Route role in city:
@@ -53,6 +54,7 @@ Simple explanations:
 - Story angle for children:
 - Story Time opening scene idea:
 - Story Time problem-solution arc:
+- Best challenges to explain for children:
 - Most memorable timeline moments:
 - Best stations for engagement:
 - Candidate memory-check questions:

@@ -44,6 +44,7 @@ This skill supports two tasks:
 3. Drafting
 - Use `assets/line-content-template.md` structure.
 - Add a `Story Time` section that gives background, context, and a child-friendly narrative arc.
+- Add a `Challenges Along the Way` section that explains real project difficulties in simple language.
 - Draft English first with short, child-friendly sentences.
 - Draft Chinese with matching facts and section order.
 
@@ -65,10 +66,12 @@ This skill supports two tasks:
 - Every edit to metro line markdown requires a fact-check review pass.
 - If only one reliable source exists for a changed core claim, mark it as single-source in research notes.
 - `Story Time` may be vivid and warm, but it must stay factual.
+- `Challenges Along the Way` must describe verified line-specific difficulties, not generic guesses.
 
 ## Writing Rules
 - 2 to 4 lines in Quick Intro.
 - Use `Story Time` to explain the city's need, the line's background, and why the opening mattered.
+- Use `Challenges Along the Way` to explain what made the project hard, using simple examples children can understand.
 - Keep one idea per sentence when possible.
 - Prefer concrete examples children can imagine.
 - Add Memory Check questions to reinforce key facts.
@@ -85,4 +88,5 @@ A task is done only if:
 - Both EN and ZH files are updated.
 - Section order is complete and consistent.
 - `Story Time` adds meaningful background context rather than repeating the timeline.
+- `Challenges Along the Way` adds real project difficulty context without speculation.
 - QA checklist passes with no open blockers.

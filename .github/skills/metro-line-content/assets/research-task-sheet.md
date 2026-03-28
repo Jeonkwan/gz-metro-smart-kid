@@ -11,6 +11,7 @@
 - City problem or travel need before the line opened:
 - Why the line was planned or built:
 - Construction/opening details suitable for Story Time:
+- Line-specific construction, engineering, policy, or situational challenges:
 - Opening date and milestones:
 - Route role:
 - Start and end area:
@@ -40,9 +41,15 @@ List any claims that currently have only one reliable source.
 - Why the line mattered when it opened:
 - Why it still matters now:
 
+## Challenges Planning
+- Challenge 1 to explain simply:
+- Challenge 2 to explain simply:
+- Challenge 3 to explain simply:
+
 ## Pre-Draft Gate
 - [ ] Core facts gathered
 - [ ] Source links saved
 - [ ] Difficult terms prepared
 - [ ] EN/ZH naming choices aligned
 - [ ] Story Time facts are supported
+- [ ] Challenges facts are supported

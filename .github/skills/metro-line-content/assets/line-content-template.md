@@ -24,6 +24,11 @@
 
 <Short paragraph about why this line matters.>
 
+## Challenges Along the Way
+- <Challenge 1>: <What made this difficult, explained simply>
+- <Challenge 2>: <What made this difficult, explained simply>
+- <Challenge 3>: <What made this difficult, explained simply>
+
 ## Route Snapshot
 - Start area: <...>
 - End area: <...>
