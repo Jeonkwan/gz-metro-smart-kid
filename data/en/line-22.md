@@ -2,7 +2,7 @@
 
 > 🚀 **Fun Fact:** Line 22 is another **express line** that rockets you from Guangzhou South all the way to Nansha in super-quick time! It's like a jet plane underground!
 
-## �� Quick Facts
+## 🚉 Quick Facts
 | | |
 |---|---|
 | 🎨 Color | Red-Orange |
