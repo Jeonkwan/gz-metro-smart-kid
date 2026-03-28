@@ -614,7 +614,15 @@ async function showLine(line) {
     contentArea.innerHTML = marked.parse(md);
     wrapMarkdownTables(contentArea);
   } catch (e) {
-    contentArea.innerHTML = `<div class="error-msg">😢 Couldn't load content.<br><small>${e.message}</small></div>`;
+    const errorMsg = e instanceof Error ? e.message : String(e);
+    const errorBox = document.createElement('div');
+    const detailMsg = document.createElement('small');
+    errorBox.className = 'error-msg';
+    errorBox.textContent = `😢 Couldn't load content.`;
+    errorBox.appendChild(document.createElement('br'));
+    detailMsg.textContent = errorMsg;
+    errorBox.appendChild(detailMsg);
+    contentArea.replaceChildren(errorBox);
   }
 }
 
