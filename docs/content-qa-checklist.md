@@ -5,6 +5,8 @@ Use this checklist before publishing each line pair.
 ## A. Facts and Sources
 - [ ] No invented facts
 - [ ] Every changed or newly added claim was re-checked during this edit
+- [ ] Story Time claims are source-backed
+- [ ] Challenges Along the Way claims are source-backed
 - [ ] Opening timeline facts are source-backed
 - [ ] Route and station claims are source-backed
 - [ ] At least two reliable sources used for core facts when possible
@@ -13,12 +15,17 @@ Use this checklist before publishing each line pair.
 ## B. Child-Friendly Writing
 - [ ] Sentences are short and clear
 - [ ] Paragraphs are short for read-aloud pacing
+- [ ] Story Time has a clear beginning, problem, and why-it-matters arc
+- [ ] Challenges are explained simply, without dense jargon
 - [ ] Difficult terms are explained in Word Helper
+- [ ] Important hard terms are explained inline when first introduced
 - [ ] Tone is friendly and educational
 - [ ] Content is engaging, not dry
 
 ## C. Structure Compliance
 - [ ] Uses all required sections in required order
+- [ ] Includes Story Time section
+- [ ] Includes Challenges Along the Way section
 - [ ] Includes 3 to 6 important stations
 - [ ] Includes 3 to 8 fun facts
 - [ ] Includes 3 to 5 memory check questions

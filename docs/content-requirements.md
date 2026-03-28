@@ -23,13 +23,32 @@ Each line must have exactly two files:
 
 ## Section Framework (Required Order)
 1. Quick Intro
-2. Time Story
-3. Route Snapshot
-4. Important Stations for Kids
-5. Fun Facts
-6. Word Helper
-7. Memory Check
-8. Sources
+2. Story Time
+3. Time Story
+4. Challenges Along the Way
+5. Route Snapshot
+6. Important Stations for Kids
+7. Fun Facts
+8. Word Helper
+9. Memory Check
+10. Sources
+
+## Story Time Rules
+- Use this section to explain the background in a vivid, child-friendly way.
+- Include the city problem or travel need before the line was built.
+- Explain why people wanted the line.
+- Include 1 to 2 source-backed construction or opening details.
+- End with a short sentence about why the line still matters today.
+- Narrative tone is allowed, but fiction is not.
+- Do not invent nicknames, dialogue, feelings, or scenes unless supported by sources.
+
+## Challenges Along the Way Rules
+- Use this section to explain what made the project difficult.
+- Challenges may include engineering difficulty, underground conditions, crowded city environment, river crossings, relocation work, policy limits, budget pressure, or construction staging.
+- Only include challenges that can be tied to reliable sources for that specific line.
+- Separate verified line-specific challenges from general metro-building knowledge.
+- Explain each challenge in simple child-friendly language.
+- Focus on 2 to 4 meaningful challenges, not a long technical list.
 
 ## Source Quality Rules
 Preferred priority:
@@ -57,3 +76,5 @@ A line is complete only when:
 - Draft follows template
 - QA checklist passes
 - Sources are present and valid
+- Story Time is informative, engaging, and source-backed
+- Challenges Along the Way is factual, clear, and not speculative

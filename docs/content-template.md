@@ -8,12 +8,28 @@ Use this structure for both English and Chinese files.
 ## Quick Intro
 <2 to 4 short sentences.>
 
+## Story Time
+<A short story-style section that explains the background of this line.>
+
+<What problem did the city have before this line?>
+
+<Why did people want to build it?>
+
+<What was exciting or important about the construction or opening?>
+
+<Why does this line still matter today?>
+
 ## Time Story
 - <Year>: <What happened>
 - <Year>: <What happened>
 - <Year>: <What happened>
 
 <1 short paragraph explaining why this line matters.>
+
+## Challenges Along the Way
+- <Challenge 1>: <What made this difficult, explained simply>
+- <Challenge 2>: <What made this difficult, explained simply>
+- <Challenge 3>: <What made this difficult, explained simply>
 
 ## Route Snapshot
 - Start area: <...>
@@ -57,8 +73,11 @@ Use this structure for both English and Chinese files.
 - Keep one main idea per sentence.
 - Keep paragraphs short.
 - Explain difficult terms as soon as they appear.
+- Explain important terms briefly inline when they first appear.
 - Prefer vivid but factual phrasing.
 - Avoid overloaded number-heavy lines.
+- Use narrative voice in `Story Time`, but keep all major claims source-backed.
+- Use `Challenges Along the Way` to explain why the work was hard, not to repeat the timeline.
 
 ## Mini Style Example (Placeholder)
 ```markdown
@@ -66,6 +85,15 @@ Use this structure for both English and Chinese files.
 Line <X> is an important line in Guangzhou.
 It helps families travel across busy areas.
 It connects to many other lines.
+
+## Story Time
+Before Line <X>, some trips across the city were slower and more crowded.
+People wanted a faster way to move through busy neighborhoods.
+When the line opened, it changed how many families traveled.
+
+## Challenges Along the Way
+- Builders had to work under busy streets without causing too much trouble above ground.
+- Underground work can be difficult because the soil, water, and space are not always easy to manage.
 
 ## Word Helper
 - Interchange: A station where you can switch lines.

@@ -6,12 +6,28 @@
 ## Quick Intro
 <2 to 4 short sentences.>
 
+## Story Time
+<A short story-style section that explains the background of this line.>
+
+<What problem did the city have before this line?>
+
+<Why did people want to build it?>
+
+<What was exciting or important about the construction or opening?>
+
+<Why does this line still matter today?>
+
 ## Time Story
 - <Year>: <What happened>
 - <Year>: <What happened>
 - <Year>: <What happened>
 
 <Short paragraph about why this line matters.>
+
+## Challenges Along the Way
+- <Challenge 1>: <What made this difficult, explained simply>
+- <Challenge 2>: <What made this difficult, explained simply>
+- <Challenge 3>: <What made this difficult, explained simply>
 
 ## Route Snapshot
 - Start area: <...>
