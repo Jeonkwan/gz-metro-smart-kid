@@ -691,10 +691,11 @@ function pickBestVoice(langTag) {
     // Prefer voices whose lang exactly matches
     const langMatch = v.lang.toLowerCase().startsWith(tag.slice(0, 2)) ? 2 : 0;
     // Prefer neural / natural / enhanced / premium voices.
+    // "siri" catches "Siri Voice 1/2" on devices where Apple exposes them.
     // Also check voiceURI for Apple's "-premium" bundle (e.g. com.apple.ttsbundle.Tingting-premium)
     // which surfaces on iOS/iPadOS/macOS Safari where the display name may not include "Enhanced".
-    const quality = /neural|natural|enhanced|premium|wavenet|studio/.test(name) ||
-                    /premium/.test(uri) ? 4 : 0;
+    const quality = /neural|natural|enhanced|premium|wavenet|studio|siri/.test(name) ||
+                    /premium|siri/.test(uri) ? 4 : 0;
     // Well-known high-quality providers: Google / Microsoft by name;
     // Apple by voiceURI prefix (com.apple) on Safari / iOS / macOS.
     const provider = /google|microsoft/.test(name) ||
@@ -772,13 +773,26 @@ function readAloud() {
 
   const text = cleanTextForSpeech(raw);
 
-  // Voices may not be loaded yet (async in Chrome); wait if needed
+  // Voices may not be loaded yet (async in Chrome); wait if needed.
+  // onvoiceschanged is unreliable on iOS Safari (may never fire), so
+  // also poll every 100 ms as a fallback and give up after ~2 s (20 × 100 ms).
+  // A shared `fired` flag prevents _doSpeak being called twice if both
+  // the event and the polling interval fire in the same tick.
   const voices = window.speechSynthesis.getVoices();
   if (voices.length === 0) {
-    window.speechSynthesis.onvoiceschanged = () => {
+    let fired = false;
+    let retries = 0;
+    const startSpeak = () => {
+      if (fired) return;
+      fired = true;
+      clearInterval(poll);
       window.speechSynthesis.onvoiceschanged = null;
       _doSpeak(text);
     };
+    const poll = setInterval(() => {
+      if (window.speechSynthesis.getVoices().length > 0 || retries++ >= 20) startSpeak();
+    }, 100);
+    window.speechSynthesis.onvoiceschanged = startSpeak;
   } else {
     _doSpeak(text);
   }
