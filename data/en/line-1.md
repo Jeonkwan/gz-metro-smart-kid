@@ -38,7 +38,7 @@ It gave the city a faster way to travel from west to east and helped shape later
 ### 1) Chen Clan Academy (陈家祠)
 
 This station is next to the famous Chen Clan Academy.
-The academy was built between 1888 and 1894 by the Chen clans of Guangdong.
+The academy was built in the late Qing dynasty by the Chen clans of Guangdong.
 Today it is the Guangdong Folk Art Museum.
 Children can see carved wood, carved stone, and colorful roof decorations there.
 
@@ -82,5 +82,6 @@ It is a good example of how one station can connect many kinds of transport.
 - Line 1 (Guangzhou Metro) - Wikipedia: https://en.wikipedia.org/wiki/Line_1_(Guangzhou_Metro)
 - Transportation Deployment Casebook - Guangzhou Metro: https://en.wikibooks.org/wiki/Transportation_Deployment_Casebook/Guangzhou_Metro
 - Chen Clan Ancestral Hall - Wikipedia: https://en.wikipedia.org/wiki/Chen_Clan_Ancestral_Hall
+- TravelChinaGuide - Chen Family Ancestral Temple: https://www.travelchinaguide.com/attraction/guangdong/guangzhou/chen_family.htm
 - Guangzhou East Railway Station - TravelChinaGuide: https://www.travelchinaguide.com/china-trains/guangzhou-east-station.htm
 - Gongyuanqian station - Wikipedia: https://en.wikipedia.org/wiki/Gongyuanqian_Station

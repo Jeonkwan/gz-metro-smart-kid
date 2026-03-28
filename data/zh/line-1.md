@@ -38,7 +38,7 @@
 ### 1）陈家祠站
 
 这个站旁边就是有名的陈家祠。
-陈家祠由广东陈氏宗族在1888年至1894年间修建。
+陈家祠由广东陈氏宗族在清朝晚期修建。
 今天，这里是广东民间工艺博物馆。
 小朋友可以看到木雕、石雕和色彩丰富的屋顶装饰。
 
@@ -82,5 +82,6 @@
 - 维基百科 - 广州地铁1号线：https://en.wikipedia.org/wiki/Line_1_(Guangzhou_Metro)
 - 维基教科书 - 广州地铁案例：https://en.wikibooks.org/wiki/Transportation_Deployment_Casebook/Guangzhou_Metro
 - 维基百科 - 陈家祠：https://en.wikipedia.org/wiki/Chen_Clan_Ancestral_Hall
+- TravelChinaGuide - 陈氏书院：https://www.travelchinaguide.com/attraction/guangdong/guangzhou/chen_family.htm
 - TravelChinaGuide - 广州东站：https://www.travelchinaguide.com/china-trains/guangzhou-east-station.htm
 - 维基百科 - 公园前站：https://en.wikipedia.org/wiki/Gongyuanqian_Station
