@@ -1,70 +1,87 @@
-# 🟡 Guangzhou Metro Line 1 — The Trailblazer!
+# 🟡 Guangzhou Metro Line 1 — The First Underground Adventure!
 
 ## Quick Intro
 
-Line 1 is the very first metro line in Guangzhou.
-It opened in 1997 and runs like a yellow ribbon from west to east across the city.
-Guangzhou was the first city in all of South China to have a metro — and Line 1 started it all!
+Line 1 is Guangzhou's first metro line.
+The first section opened on June 28, 1997, making Guangzhou the first mainland city in southern China to open a metro line.
+On June 28, 1999, the full line opened from Xilang to Guangzhou East Railway Station.
+Today, Line 1 is still a busy east–west line with 16 stations.
+
+## Story Time
+
+Before Line 1, many people crossed Guangzhou on buses and busy roads.
+As the city grew, those surface trips could be slow and crowded.
+City planners wanted a fast rail line that could carry many people through the middle of town.
+Construction began on December 28, 1993.
+When the first section opened in 1997, it showed that Guangzhou could build and run a modern metro.
+When the full line opened in 1999, it linked old neighborhoods, shopping areas, and a major railway station.
+Line 1 still matters today because it helped teach Guangzhou how to build the bigger metro network that came later.
 
 ## Time Story
 
-- **1993**: On December 28, workers broke ground and began building Line 1 underground.
-- **1997**: On June 28, the first part of the line opened. People in South China rode a metro for the very first time!
-- **1999**: On June 28, the full line opened, stretching all the way from Xilang to Guangzhou East Railway Station.
+- **1993**: Construction started on December 28.
+- **1997**: The first section from Xilang to Huangsha opened on June 28.
+- **1999**: The full line from Xilang to Guangzhou East Railway Station opened on June 28.
 
-Line 1 made it possible for millions of people to cross the city in minutes. Every new metro line that came after it learned from Line 1!
+Line 1 became the starting point for Guangzhou's whole metro story.
+It gave the city a faster way to travel from west to east and helped shape later lines.
 
 ## Route Snapshot
 
-- **Start area**: Xilang (西塱), in the west of the city
-- **End area**: Guangzhou East Railway Station (广州东站), in the east
-- **Route role**: East–west backbone through the heart of Guangzhou
-- **Transfer value**: Connects to many other metro lines, including Line 2, Line 3, Line 5, Line 6, and Line 8
+- **Start area**: Xilang (西塱), in the southwest part of Guangzhou
+- **End area**: Guangzhou East Railway Station (广州东站), in Tianhe to the east
+- **Route role**: A main east–west trunk line across important city districts
+- **Transfer value**: It links with several later lines, including Line 2 at Gongyuanqian, Line 3 at Tiyu Xilu and Guangzhou East Railway Station, and Line 6 at Huangsha and Dongshankou
 
 ## Important Stations for Kids
 
 ### 1) Chen Clan Academy (陈家祠)
 
-Step off the train and you are right next to a real ancient palace!
-The Chen Clan Academy was built over 100 years ago so that Chen family students could study for the imperial exam — a very important test that decided who would become a government official.
-Today it is a museum full of dragon carvings, painted fans, and colourful rooftop animals.
-Look up — you might spot a magical fish on the roof that legend says protects the whole building! 🐟
+This station is next to the famous Chen Clan Academy.
+The academy was built in the late Qing dynasty by the Chen clans of Guangdong.
+Today it is the Guangdong Folk Art Museum.
+Children can see carved wood, carved stone, and colorful roof decorations there.
 
 ### 2) Gongyuanqian (公园前)
 
-This station sits right under a park in the old city centre.
-It was the very first station in Guangzhou where you could switch from one metro line to another.
-That makes it a super-important meeting point underground! 🔀
+Gongyuanqian sits under People's Park in the old city center.
+It is one of the busiest stations in Guangzhou.
+It became the metro system's first big interchange station when Line 2 joined Line 1 here.
+That makes it like a giant underground crossroads.
 
 ### 3) Guangzhou East Railway Station (广州东站)
 
-This is the last stop on Line 1.
-Right above the station is a big railway station where you can board fast trains to cities like Shenzhen or Hong Kong.
-It is like a giant transport hub that connects the metro to the rest of the country! 🚄
+This is the eastern end of Line 1.
+It connects the metro with a major railway station and a bus hub.
+From here, travelers can continue toward Shenzhen and many other cities.
+It is a good example of how one station can connect many kinds of transport.
 
 ## Fun Facts
 
-- Guangzhou was the **first city in South China** to open a metro, and Line 1 led the way in 1997.
-- The line is about **18.5 kilometres** long — nearly as long as 185 football fields placed end to end!
-- More than **1 million people** ride Line 1 every single day.
-- Two stations — Xilang and Kengkou — are **above ground**, while all the others are hidden underground.
+- Line 1 is about **18.5 kilometers** long.
+- It has **16 stations** in total.
+- **14 stations are underground** and **2 stations are above ground**.
+- The first section opened in **1997**, and the full line opened in **1999**.
 
 ## Word Helper
 
-- **Metro**: An underground train that runs through a city to help people travel quickly.
-- **Transfer station**: A station where you can change from one metro line to another.
-- **Imperial exam**: An ancient test in China that people took in order to become a government official.
+- **Trunk line**: A main route that carries lots of people across a city.
+- **Interchange station**: A station where you can switch to another metro line.
+- **Folk art**: Traditional art made by local people, such as carvings, pottery, and embroidery.
 
 ## Memory Check
 
-1. What year did Line 1 first open?
-2. Which station on Line 1 has a museum with ancient dragon carvings nearby?
-3. What is special about Gongyuanqian station?
+1. Which year did the first part of Line 1 open?
+2. What museum can you visit near Chen Clan Academy station?
+3. Why is Gongyuanqian Station important in the metro network?
 
 ## Sources
 
-- Wikipedia – Line 1 (Guangzhou Metro): https://en.wikipedia.org/wiki/Line_1_(Guangzhou_Metro)
-- MetroMan – Guangzhou Metro Line 1: https://www.metroman.cn/en/cities/guangzhou/lines/line-1
-- Baidu Baike – 广州地铁1号线: https://baike.baidu.com/item/%E5%B9%BF%E5%B7%9E%E5%9C%B0%E9%93%811%E5%8F%B7%E7%BA%BF/5185293
-- Wikipedia – Gongyuanqian Station: https://en.wikipedia.org/wiki/Gongyuanqian_Station
-- China Highlights – Chen Clan Ancestral Hall: https://www.chinahighlights.com/guangzhou/attraction/chen-ancestral-shrine.htm
+- Guangzhou Metro official English site map: https://www.gzmtr.com/en/site-map.html
+- Guangzhou Metro official Line 1 page: https://www.gzmtr.com/service/lines/line1/
+- Line 1 (Guangzhou Metro) - Wikipedia: https://en.wikipedia.org/wiki/Line_1_(Guangzhou_Metro)
+- Transportation Deployment Casebook - Guangzhou Metro: https://en.wikibooks.org/wiki/Transportation_Deployment_Casebook/Guangzhou_Metro
+- Chen Clan Ancestral Hall - Wikipedia: https://en.wikipedia.org/wiki/Chen_Clan_Ancestral_Hall
+- TravelChinaGuide - Chen Family Ancestral Temple: https://www.travelchinaguide.com/attraction/guangdong/guangzhou/chen_family.htm
+- Guangzhou East Railway Station - TravelChinaGuide: https://www.travelchinaguide.com/china-trains/guangzhou-east-station.htm
+- Gongyuanqian Station - Wikipedia: https://en.wikipedia.org/wiki/Gongyuanqian_Station
