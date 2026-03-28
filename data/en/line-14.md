@@ -12,7 +12,7 @@
 ## ⭐ Famous Stations
 - 🏙️ **Xinhe** — Transfer point in the eastern suburbs!
 - 🌲 **Conghua** — Gateway to beautiful mountain scenery!
-- 🧪 **Knowledge City** — A high-tech science and innovation zone! |
+- 🧪 **Knowledge City** — A high-tech science and innovation zone!
 
 ## 🌟 Something Special
 The **Knowledge City (知识城)** branch of Line 14 goes to a brand-new science city being built in the northeast — it's where technology companies, universities, and research labs are all being built together! The city of the future! 🔬🚀

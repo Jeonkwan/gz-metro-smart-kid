@@ -7,7 +7,14 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&display=swap" rel="stylesheet" />
-  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="marked.min.js"></script>
+  <script>
+    if (typeof marked === 'undefined') {
+      const s = document.createElement('script');
+      s.src = 'https://cdn.jsdelivr.net/npm/marked/marked.min.js';
+      document.head.appendChild(s);
+    }
+  </script>
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -79,6 +86,7 @@
     /* ── Language toggle ── */
     #lang-btn {
       position: absolute;
+      z-index: 10;
       top: 18px; right: 18px;
       background: rgba(255,255,255,0.18);
       color: #fff;
@@ -429,6 +437,10 @@ function hexLuminance(hex) {
 function textColorFor(hex) {
   return hexLuminance(hex) > 0.35 ? '#1a1a2e' : '#ffffff';
 }
+function iconBtnBgFor(textColor) {
+  const isLight = textColor === '#ffffff';
+  return isLight ? 'rgba(255,255,255,0.18)' : 'rgba(0,0,0,0.18)';
+}
 
 /* ─────────────────────────────────────────
    SPARKLE BACKGROUND
@@ -493,7 +505,7 @@ async function showLine(line) {
   header.style.color = fg;
   // Make icon buttons match header
   document.querySelectorAll('.detail-header .icon-btn').forEach(b => {
-    b.style.background = `rgba(${fg==='#ffffff'?'255,255,255':'0,0,0'},0.18)`;
+    b.style.background = iconBtnBgFor(fg);
     b.style.color = fg;
   });
 

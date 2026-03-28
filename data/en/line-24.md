@@ -10,7 +10,7 @@
 | 📏 Direction | Running through northern Guangzhou |
 
 ## ⭐ Famous Stations
-- 🔄 **Jiaokou** — Transfer station connecting to other lines!
+- 🔄 **Tangxi** — Transfer station connecting to other lines!
 - 🏘️ **Longkeng** — "Dragon's Pit" — sounds exciting! 🐉
 
 ## 🌟 Something Special
@@ -21,6 +21,6 @@ Building a metro line under a city is one of the **hardest construction jobs** i
 
 ## 🗺️ Where Does It Go?
 ```
-Jiaokou → ... → Longkeng → ... (and growing! ✨)
+Tangxi → ... → Longkeng → ... (and growing! ✨)
 ```
 Cream-colored like a blank page — this line's story is still being written!
