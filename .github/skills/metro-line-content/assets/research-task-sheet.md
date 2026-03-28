@@ -8,6 +8,9 @@
 - Date:
 
 ## Core Claims to Verify
+- City problem or travel need before the line opened:
+- Why the line was planned or built:
+- Construction/opening details suitable for Story Time:
 - Opening date and milestones:
 - Route role:
 - Start and end area:
@@ -31,8 +34,15 @@ List any claims that currently have only one reliable source.
 - Hard term 2 -> child explanation:
 - Hard term 3 -> child explanation:
 
+## Story Planning
+- Story opening scene idea:
+- Problem before the line existed:
+- Why the line mattered when it opened:
+- Why it still matters now:
+
 ## Pre-Draft Gate
 - [ ] Core facts gathered
 - [ ] Source links saved
 - [ ] Difficult terms prepared
 - [ ] EN/ZH naming choices aligned
+- [ ] Story Time facts are supported

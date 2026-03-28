@@ -23,13 +23,23 @@ Each line must have exactly two files:
 
 ## Section Framework (Required Order)
 1. Quick Intro
-2. Time Story
-3. Route Snapshot
-4. Important Stations for Kids
-5. Fun Facts
-6. Word Helper
-7. Memory Check
-8. Sources
+2. Story Time
+3. Time Story
+4. Route Snapshot
+5. Important Stations for Kids
+6. Fun Facts
+7. Word Helper
+8. Memory Check
+9. Sources
+
+## Story Time Rules
+- Use this section to explain the background in a vivid, child-friendly way.
+- Include the city problem or travel need before the line was built.
+- Explain why people wanted the line.
+- Include 1 to 2 source-backed construction or opening details.
+- End with a short sentence about why the line still matters today.
+- Narrative tone is allowed, but fiction is not.
+- Do not invent nicknames, dialogue, feelings, or scenes unless supported by sources.
 
 ## Source Quality Rules
 Preferred priority:
@@ -57,3 +67,4 @@ A line is complete only when:
 - Draft follows template
 - QA checklist passes
 - Sources are present and valid
+- Story Time is informative, engaging, and source-backed

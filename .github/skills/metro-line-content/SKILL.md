@@ -10,6 +10,7 @@ Create or rewrite metro line markdown content that is:
 - Accurate and source-backed
 - Child-friendly for around age 6
 - Read-aloud friendly
+- Story-rich without fictionalizing facts
 - Bilingual and fact-consistent
 
 ## Scope
@@ -42,6 +43,7 @@ This skill supports two tasks:
 
 3. Drafting
 - Use `assets/line-content-template.md` structure.
+- Add a `Story Time` section that gives background, context, and a child-friendly narrative arc.
 - Draft English first with short, child-friendly sentences.
 - Draft Chinese with matching facts and section order.
 
@@ -58,12 +60,15 @@ This skill supports two tasks:
 - Never invent information.
 - If a fact is uncertain, do not present it as certain.
 - Explain difficult terms before continuing.
+- Explain important hard terms briefly when they first appear.
 - Keep paragraphs short for text-to-speech pacing.
 - Every edit to metro line markdown requires a fact-check review pass.
 - If only one reliable source exists for a changed core claim, mark it as single-source in research notes.
+- `Story Time` may be vivid and warm, but it must stay factual.
 
 ## Writing Rules
 - 2 to 4 lines in Quick Intro.
+- Use `Story Time` to explain the city's need, the line's background, and why the opening mattered.
 - Keep one idea per sentence when possible.
 - Prefer concrete examples children can imagine.
 - Add Memory Check questions to reinforce key facts.
@@ -79,4 +84,5 @@ A task is done only if:
 - All newly added or changed claims were re-validated against sources.
 - Both EN and ZH files are updated.
 - Section order is complete and consistent.
+- `Story Time` adds meaningful background context rather than repeating the timeline.
 - QA checklist passes with no open blockers.

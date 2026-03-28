@@ -6,6 +6,17 @@
 ## Quick Intro
 <2 to 4 short sentences.>
 
+## Story Time
+<A short story-style section that explains the background of this line.>
+
+<What problem did the city have before this line?>
+
+<Why did people want to build it?>
+
+<What was exciting or important about the construction or opening?>
+
+<Why does this line still matter today?>
+
 ## Time Story
 - <Year>: <What happened>
 - <Year>: <What happened>
