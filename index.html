@@ -244,14 +244,18 @@
       color: #555;
     }
     .md-content blockquote p { margin: 0; }
+    .md-table-wrap {
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      margin: 12px 0 18px;
+    }
     .md-content table {
-       display: block;
-       width: 100%; border-collapse: collapse;
-       margin: 12px 0 18px;
-       font-size: 1rem;
-       overflow-x: auto;
-       -webkit-overflow-scrolling: touch;
-     }
+      width: max-content;
+      min-width: 100%;
+      border-collapse: collapse;
+      margin: 0;
+      font-size: 1rem;
+    }
     .md-content th, .md-content td {
       border: 2px solid #e0e7ff;
       padding: 10px 14px;
@@ -563,6 +567,16 @@ function buildGrids() {
   });
 }
 
+function wrapMarkdownTables(root) {
+  root.querySelectorAll('table').forEach(table => {
+    if (table.parentElement && table.parentElement.classList.contains('md-table-wrap')) return;
+    const wrapper = document.createElement('div');
+    wrapper.className = 'md-table-wrap';
+    table.parentNode.insertBefore(wrapper, table);
+    wrapper.appendChild(table);
+  });
+}
+
 /* ─────────────────────────────────────────
    SHOW LINE DETAIL
 ───────────────────────────────────────── */
@@ -599,6 +613,7 @@ async function showLine(line) {
     if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
     const md   = await resp.text();
     contentArea.innerHTML = marked.parse(md);
+    wrapMarkdownTables(contentArea);
   } catch (e) {
     contentArea.innerHTML = `<div class="error-msg">😢 Couldn't load content.<br><small>${e.message}</small></div>`;
   }
