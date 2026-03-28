@@ -219,7 +219,7 @@
 
     /* ── Markdown content styles ── */
     .md-content {
-      overflow-wrap: anywhere;
+      overflow-wrap: break-word;
     }
     .md-content h1 { display: none; } /* title already in header */
     .md-content h2 {
@@ -250,7 +250,7 @@
       margin: 12px 0 18px;
     }
     .md-content table {
-      /* Fill the card when possible, but stay scrollable if future tables are wider. */
+      /* Keep simple tables full-width, but let wider markdown tables scroll inside the wrapper. */
       width: max-content;
       min-width: 100%;
       border-collapse: collapse;
@@ -370,7 +370,7 @@
       }
       .detail-body { padding: 18px 16px 28px; }
       .detail-actions {
-        justify-content: space-between;
+        justify-content: flex-end;
       }
       #lang-btn { top: 12px; right: 12px; padding: 6px 12px; font-size: 0.85rem; }
       footer {
