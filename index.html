@@ -687,12 +687,18 @@ function pickBestVoice(langTag) {
   // Score a voice: higher = better quality
   function score(v) {
     const name = v.name.toLowerCase();
+    const uri  = (v.voiceURI || '').toLowerCase();
     // Prefer voices whose lang exactly matches
     const langMatch = v.lang.toLowerCase().startsWith(tag.slice(0, 2)) ? 2 : 0;
-    // Prefer neural / natural / enhanced / premium voices
-    const quality = /neural|natural|enhanced|premium|wavenet|studio/.test(name) ? 4 : 0;
-    // Slightly prefer well-known high-quality TTS providers
-    const provider = /google|microsoft/.test(name) ? 1 : 0;
+    // Prefer neural / natural / enhanced / premium voices.
+    // Also check voiceURI for Apple's "-premium" bundle (e.g. com.apple.ttsbundle.Tingting-premium)
+    // which surfaces on iOS/iPadOS/macOS Safari where the display name may not include "Enhanced".
+    const quality = /neural|natural|enhanced|premium|wavenet|studio/.test(name) ||
+                    /premium/.test(uri) ? 4 : 0;
+    // Well-known high-quality providers: Google / Microsoft by name;
+    // Apple by voiceURI prefix (com.apple) on Safari / iOS / macOS.
+    const provider = /google|microsoft/.test(name) ||
+                     /com\.apple/.test(uri) ? 1 : 0;
     return langMatch + quality + provider;
   }
 
