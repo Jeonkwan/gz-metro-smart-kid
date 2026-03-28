@@ -3,9 +3,9 @@
 ## 快速介绍
 
 1号线是广州的第一条地铁线路。
-1997年6月28日，首通段开通，广州也成为华南地区第一个拥有地铁的城市。
+1997年6月28日，首通段开通，广州也成为华南地区第一个开通地铁的内地城市。
 1999年6月28日，全线从西塱通到广州东站。
-直到今天，1号线仍然是一条拥有16座车站的重要东西向线路。
+直到今天，1号线仍然是一条设有16座车站的重要东西向线路。
 
 ## 故事时间
 
@@ -77,11 +77,11 @@
 
 ## 来源
 
-- 广州地铁英文官网线路图：https://www.gzmtr.com/en/site-map.html
+- 广州地铁英文官网站点地图（网站地图）：https://www.gzmtr.com/en/site-map.html
 - 广州地铁1号线官方页面：https://www.gzmtr.com/service/lines/line1/
-- 维基百科 - 广州地铁1号线：https://en.wikipedia.org/wiki/Line_1_(Guangzhou_Metro)
+- 英文维基百科 - 广州地铁1号线：https://en.wikipedia.org/wiki/Line_1_(Guangzhou_Metro)
 - 维基教科书 - 广州地铁案例：https://en.wikibooks.org/wiki/Transportation_Deployment_Casebook/Guangzhou_Metro
-- 维基百科 - 陈家祠：https://en.wikipedia.org/wiki/Chen_Clan_Ancestral_Hall
+- 英文维基百科 - 陈家祠：https://en.wikipedia.org/wiki/Chen_Clan_Ancestral_Hall
 - TravelChinaGuide - 陈氏书院：https://www.travelchinaguide.com/attraction/guangdong/guangzhou/chen_family.htm
 - TravelChinaGuide - 广州东站：https://www.travelchinaguide.com/china-trains/guangzhou-east-station.htm
-- 维基百科 - 公园前站：https://en.wikipedia.org/wiki/Gongyuanqian_Station
+- 英文维基百科 - 公园前站：https://en.wikipedia.org/wiki/Gongyuanqian_Station

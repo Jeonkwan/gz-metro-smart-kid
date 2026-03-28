@@ -3,7 +3,7 @@
 ## Quick Intro
 
 Line 1 is Guangzhou's first metro line.
-The first section opened on June 28, 1997, so Guangzhou became the first city in South China with a metro.
+The first section opened on June 28, 1997, making Guangzhou the first mainland city in southern China to open a metro line.
 On June 28, 1999, the full line opened from Xilang to Guangzhou East Railway Station.
 Today, Line 1 is still a busy east–west line with 16 stations.
 
@@ -73,7 +73,7 @@ It is a good example of how one station can connect many kinds of transport.
 
 1. Which year did the first part of Line 1 open?
 2. What museum can you visit near Chen Clan Academy station?
-3. Why is Gongyuanqian station important in the metro network?
+3. Why is Gongyuanqian Station important in the metro network?
 
 ## Sources
 
@@ -84,4 +84,4 @@ It is a good example of how one station can connect many kinds of transport.
 - Chen Clan Ancestral Hall - Wikipedia: https://en.wikipedia.org/wiki/Chen_Clan_Ancestral_Hall
 - TravelChinaGuide - Chen Family Ancestral Temple: https://www.travelchinaguide.com/attraction/guangdong/guangzhou/chen_family.htm
 - Guangzhou East Railway Station - TravelChinaGuide: https://www.travelchinaguide.com/china-trains/guangzhou-east-station.htm
-- Gongyuanqian station - Wikipedia: https://en.wikipedia.org/wiki/Gongyuanqian_Station
+- Gongyuanqian Station - Wikipedia: https://en.wikipedia.org/wiki/Gongyuanqian_Station
