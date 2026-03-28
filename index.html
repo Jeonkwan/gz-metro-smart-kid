@@ -511,6 +511,7 @@ const ui = {
 let lang = 'en';
 let currentLine = null;
 let isSpeaking = false;
+let voiceLoadPending = false;  // prevents multiple poll intervals on repeated taps
 
 /* ─────────────────────────────────────────
    LUMINANCE HELPER
@@ -688,8 +689,9 @@ function pickBestVoice(langTag) {
   function score(v) {
     const name = v.name.toLowerCase();
     const uri  = (v.voiceURI || '').toLowerCase();
-    // Prefer voices whose lang exactly matches
-    const langMatch = v.lang.toLowerCase().startsWith(tag.slice(0, 2)) ? 2 : 0;
+    // Exact locale match (e.g. en-US) scores higher than same-language (e.g. en-GB)
+    const langMatch = v.lang.toLowerCase() === tag ? 4
+                    : v.lang.toLowerCase().startsWith(tag.slice(0, 2)) ? 2 : 0;
     // Prefer neural / natural / enhanced / premium voices.
     // "siri" catches "Siri Voice 1/2" on devices where Apple exposes them.
     // Also check voiceURI for Apple's "-premium" bundle (e.g. com.apple.ttsbundle.Tingting-premium)
@@ -718,7 +720,7 @@ function pickBestVoice(langTag) {
  */
 function cleanTextForSpeech(raw) {
   return raw
-    .replace(/#{1,6}\s*/g, '')                    // headings: ### Title → Title
+    .replace(/^\s*#{1,6}\s*/gm, '')               // headings: ### Title → Title
     .replace(/\*{1,3}([^*]+)\*{1,3}/g, '$1')      // **bold** / *italic*
     .replace(/_{1,2}([^_]+)_{1,2}/g, '$1')        // __bold__ / _italic_
     .replace(/`{3}[\s\S]*?`{3}/g, '')             // fenced code blocks (multiline)
@@ -769,27 +771,36 @@ function readAloud() {
   if (isSpeaking) { stopSpeech(); return; }
 
   const raw = document.getElementById('content-area').innerText;
-  if (!raw || raw.length < 5) return;
+  if (!raw) return;
 
   const text = cleanTextForSpeech(raw);
+  if (!text || text.length < 5) return;
 
   // Voices may not be loaded yet (async in Chrome); wait if needed.
   // onvoiceschanged is unreliable on iOS Safari (may never fire), so
   // also poll every 100 ms as a fallback and give up after ~2 s (20 × 100 ms).
+  // voiceLoadPending prevents multiple polling intervals if the button is
+  // tapped repeatedly before voices finish loading.
   // A shared `fired` flag prevents _doSpeak being called twice if both
   // the event and the polling interval fire in the same tick.
   const voices = window.speechSynthesis.getVoices();
   if (voices.length === 0) {
+    if (voiceLoadPending) return;
+    voiceLoadPending = true;
     let fired = false;
     let retries = 0;
     const startSpeak = () => {
       if (fired) return;
       fired = true;
+      voiceLoadPending = false;
       clearInterval(poll);
       window.speechSynthesis.onvoiceschanged = null;
       _doSpeak(text);
     };
     const poll = setInterval(() => {
+      // When voices load OR after the timeout, call startSpeak.
+      // On timeout (retries >= 20) voices may still be empty; _doSpeak handles
+      // that gracefully — pickBestVoice returns null and the browser uses its default.
       if (window.speechSynthesis.getVoices().length > 0 || retries++ >= 20) startSpeak();
     }, 100);
     window.speechSynthesis.onvoiceschanged = startSpeak;
