@@ -24,6 +24,7 @@
       --text: #1a1a2e;
       --shadow: 0 4px 18px rgba(0,0,0,0.13);
       --radius: 20px;
+      --header-toggle-space: 88px;
     }
 
     body {
@@ -61,7 +62,7 @@
     header {
       background: linear-gradient(135deg, #1565c0 0%, #283593 60%, #4a148c 100%);
       color: #fff;
-      padding: 28px 88px 20px 24px;
+      padding: 28px var(--header-toggle-space) 20px 24px;
       text-align: center;
       box-shadow: 0 4px 20px rgba(0,0,0,0.25);
       position: relative;
@@ -219,7 +220,6 @@
     /* ── Markdown content styles ── */
     .md-content {
       overflow-wrap: anywhere;
-      word-break: break-word;
     }
     .md-content h1 { display: none; } /* title already in header */
     .md-content h2 {
@@ -250,6 +250,7 @@
       margin: 12px 0 18px;
     }
     .md-content table {
+      /* Fill the card when possible, but stay scrollable if future tables are wider. */
       width: max-content;
       min-width: 100%;
       border-collapse: collapse;
@@ -569,7 +570,7 @@ function buildGrids() {
 
 function wrapMarkdownTables(root) {
   root.querySelectorAll('table').forEach(table => {
-    if (table.parentElement && table.parentElement.classList.contains('md-table-wrap')) return;
+    if (table.closest('.md-table-wrap')) return;
     const wrapper = document.createElement('div');
     wrapper.className = 'md-table-wrap';
     table.parentNode.insertBefore(wrapper, table);
