@@ -24,12 +24,26 @@ Each line must have exactly two files:
 ## Section Framework (Required Order)
 1. Quick Intro
 2. Time Story
-3. Route Snapshot
-4. Important Stations for Kids
-5. Fun Facts
-6. Word Helper
-7. Memory Check
-8. Sources
+3. Story Moment
+4. Route Snapshot
+5. Important Stations for Kids
+6. Construction Challenges
+7. Fun Facts
+8. Word Helper
+9. Memory Check
+10. Sources
+
+## Story Moment Rules
+- Tell a short story (3 to 6 sentences) from the perspective of a child or a family riding or seeing the line for the first time.
+- Tie the story to a real, verifiable event or milestone in the line's history.
+- Keep language simple, vivid, and emotional enough to hold a child's attention.
+- Do not invent characters or events.
+
+## Construction Challenges Rules
+- Describe 2 to 4 real engineering or planning difficulties faced when building the line.
+- Prefer concrete examples children can picture (crossing a river, digging under a busy road, dealing with rain).
+- Each challenge should be one or two short sentences.
+- Link challenges to verified sources whenever possible.
 
 ## Source Quality Rules
 Preferred priority:

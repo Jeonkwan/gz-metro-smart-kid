@@ -13,6 +13,9 @@
 
 <Short paragraph about why this line matters.>
 
+## Story Moment
+<A short story told from a child's or family's point of view — 3 to 6 sentences. Tie it to a real event or opening milestone. Keep it vivid and simple.>
+
 ## Route Snapshot
 - Start area: <...>
 - End area: <...>
@@ -28,6 +31,11 @@
 
 ### 3) <Station Name>
 <Child-friendly explanation>
+
+## Construction Challenges
+- <Challenge 1: what made this part of the build difficult, in one or two simple sentences.>
+- <Challenge 2: what made this part of the build difficult, in one or two simple sentences.>
+- <Challenge 3: optional — add only if verified.>
 
 ## Fun Facts
 - <Verified fact 1>

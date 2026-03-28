@@ -50,6 +50,8 @@ Simple explanations:
 - Story angle for children:
 - Most memorable timeline moments:
 - Best stations for engagement:
+- Story Moment event or milestone to anchor the narrative:
+- Construction challenges to highlight (2 to 4):
 - Candidate memory-check questions:
 
 ## 7. Ready-to-Write Gate

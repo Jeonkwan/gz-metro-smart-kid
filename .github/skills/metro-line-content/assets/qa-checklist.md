@@ -12,6 +12,8 @@
 
 ## Structure
 - [ ] Required sections all present
+- [ ] Story Moment section present and tied to a verified event
+- [ ] Construction Challenges section present with 2 to 4 items
 - [ ] Memory Check section present
 - [ ] Sources section present
 

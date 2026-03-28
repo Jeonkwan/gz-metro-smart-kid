@@ -13,6 +13,8 @@
 - Start and end area:
 - Interchange significance:
 - Station highlights for children:
+- Story Moment event or milestone to anchor the narrative:
+- Construction challenges (2 to 4, with sources):
 - Fun facts candidates:
 
 ## Claim-to-Source Table

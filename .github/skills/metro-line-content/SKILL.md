@@ -66,6 +66,8 @@ This skill supports two tasks:
 - 2 to 4 lines in Quick Intro.
 - Keep one idea per sentence when possible.
 - Prefer concrete examples children can imagine.
+- Story Moment must tie to a verified real event or milestone; 3 to 6 sentences.
+- Construction Challenges must use simple, visual language a child can picture.
 - Add Memory Check questions to reinforce key facts.
 
 ## Assets

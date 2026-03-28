@@ -19,6 +19,8 @@ Use this checklist before publishing each line pair.
 
 ## C. Structure Compliance
 - [ ] Uses all required sections in required order
+- [ ] Story Moment section present and ties to a verified event
+- [ ] Construction Challenges section present with 2 to 4 source-backed items
 - [ ] Includes 3 to 6 important stations
 - [ ] Includes 3 to 8 fun facts
 - [ ] Includes 3 to 5 memory check questions
