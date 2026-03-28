@@ -24,7 +24,8 @@
       --text: #1a1a2e;
       --shadow: 0 4px 18px rgba(0,0,0,0.13);
       --radius: 20px;
-      --header-toggle-space: 88px;
+      --header-lang-btn-space: 88px;
+      --mobile-header-top-padding: 78px;
     }
 
     body {
@@ -62,7 +63,7 @@
     header {
       background: linear-gradient(135deg, #1565c0 0%, #283593 60%, #4a148c 100%);
       color: #fff;
-      padding: 28px var(--header-toggle-space) 20px 24px;
+      padding: 28px var(--header-lang-btn-space) 20px 24px;
       text-align: center;
       box-shadow: 0 4px 20px rgba(0,0,0,0.25);
       position: relative;
@@ -317,7 +318,7 @@
     /* ── Mobile ── */
     @media (max-width: 768px) {
       header {
-        padding: 78px 18px 18px;
+        padding: var(--mobile-header-top-padding) 18px 18px;
       }
       #lang-btn {
         top: 14px;
@@ -369,9 +370,6 @@
         padding: 16px 16px 12px;
       }
       .detail-body { padding: 18px 16px 28px; }
-      .detail-actions {
-        justify-content: flex-end;
-      }
       #lang-btn { top: 12px; right: 12px; padding: 6px 12px; font-size: 0.85rem; }
       footer {
         font-size: 0.8rem;
