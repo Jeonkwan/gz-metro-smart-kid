@@ -9,11 +9,17 @@
   <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&display=swap" rel="stylesheet" />
   <script src="marked.min.js"></script>
   <script>
-    if (typeof marked === 'undefined') {
-      const s = document.createElement('script');
-      s.src = 'https://cdn.jsdelivr.net/npm/marked/marked.min.js';
-      document.head.appendChild(s);
-    }
+    window.markedReady = typeof marked !== 'undefined'
+      ? Promise.resolve(marked)
+      : new Promise((resolve, reject) => {
+          const s = document.createElement('script');
+          s.src = 'https://cdn.jsdelivr.net/npm/marked/marked.min.js';
+          s.onload = () => typeof marked !== 'undefined'
+            ? resolve(marked)
+            : reject(new Error('Markdown renderer did not initialize.'));
+          s.onerror = () => reject(new Error('Failed to load markdown renderer.'));
+          document.head.appendChild(s);
+        });
   </script>
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -608,10 +614,11 @@ async function showLine(line) {
   document.body.style.overflow = 'hidden';
 
   try {
+    const renderer = await window.markedReady;
     const resp = await fetch(`data/${lang}/${line.id}.md`);
     if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
     const md   = await resp.text();
-    contentArea.innerHTML = marked.parse(md);
+    contentArea.innerHTML = renderer.parse(md);
     wrapMarkdownTables(contentArea);
   } catch (e) {
     const errorMsg = e instanceof Error ? e.message : String(e);
