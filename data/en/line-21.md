@@ -64,13 +64,13 @@ Think of it as the neighbourhood where clever people invent things and build the
 This is the eastern end of Phase 1.
 "Zhicheng" (知城) means "Knowledge City" in Chinese.
 It is a brand-new town being built for working, studying, and living — all in one modern place.
-It was built with help from both China and Singapore, which is a country in Southeast Asia.
+It was built as a joint project between China and Singapore.
 
 ## Fun Facts
 
 - Line 21 Phase 1 opened on December 28, 2017 — just a few days before the New Year!
 - The line colour is dark blue, like the deep evening sky over the eastern hills.
-- Zhongxin Zhicheng (中新知城) was built as a joint project between China and Singapore — two countries working together to create a Knowledge City.
+- Zhongxin Zhicheng (中新知城) was developed as a joint project between China and Singapore, creating a Knowledge City from the ground up.
 
 ## Word Helper
 
