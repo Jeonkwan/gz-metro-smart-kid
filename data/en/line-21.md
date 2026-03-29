@@ -1,27 +1,92 @@
-# 🌙 Line 21 — The Eastern Star!
+# 🌑 Guangzhou Metro Line 21 — The Eastern Express!
 
-> 🌙 **Fun Fact:** Line 21 stretches out to the **eastern suburbs** of Guangzhou, connecting exciting areas like the exhibition island of Pazhou to the modern eastern edge of the city!
+## Quick Intro
 
-## 🚉 Quick Facts
-| | |
-|---|---|
-| 🎨 Color | Dark Blue / Indigo |
-| 🔢 Stations | **13 stations** |
-| 📏 Direction | West → East |
+Line 21 travels far to the east of Guangzhou.
+It connects Tianhe District in the city centre to the eastern suburbs, including the Zengcheng area.
+Phase 1 opened on December 28, 2017, with 13 stations.
+It made the long eastern journey much faster for hundreds of thousands of people.
 
-## ⭐ Famous Stations
-- 🎪 **Pazhou** — Home of the famous Canton Fair exhibition halls — massive, like a mini-city!
-- 🌳 **Tianhe Park** — Beautiful park in the middle of the city!
-- 🏙️ **Zhujiang New Town** — The ultra-modern downtown district!
+## Story Time
 
-## 🌟 Something Special
-**Pazhou Island** 🏝️ is where the Canton Fair (广交会) takes place — the biggest trade fair in the world! Twice a year, hundreds of thousands of business people from over 200 countries come here to buy and sell things. Imagine the whole world shopping in one place!
+Before Line 21, the eastern parts of Guangzhou felt very far from the city centre.
+Zengcheng — a large area in the east — had only slow bus routes connecting it to the rest of Guangzhou.
+A bus trip could take more than an hour.
+Zengcheng became a district of Guangzhou in 2014, so the city needed a fast link to bring it closer.
 
-## 🎈 A Fun Fact for You!
-Tianhe Park (天河公园) has a **beautiful rose garden** 🌹 with hundreds of different kinds of roses! In the spring, the whole park smells amazing. It's a perfect place for a walk after a long metro journey.
+Along the route, a place called Science City in Huangpu District was growing into a major technology hub.
+Companies and researchers were moving there, but the journey from the city centre was still slow.
 
-## 🗺️ Where Does It Go?
-```
-Zhujiang New Town (West) → Tianhe Park → ... → Pazhou → ... → East
-```
-Dark indigo like a clear night sky — dreamy and adventurous!
+City planners decided to build Line 21 as an eastern corridor metro.
+Construction crews tunneled through the hilly and complex terrain between Tianhe and Zengcheng.
+When Phase 1 opened on December 28, 2017, the journey from Tianhe Park to Zhongxin Zhicheng — a brand-new knowledge and science town in the east — became much quicker.
+
+Line 21 still matters today because thousands of workers, students, and families in the eastern suburbs use it every day to reach the city centre.
+
+## Time Story
+
+- **2014**: Zengcheng officially becomes a district of Guangzhou City.
+- **2017**: Line 21 Phase 1 opens on December 28 — Tianhe Park to Zhongxin Zhicheng, 13 stations.
+
+Line 21 turned a slow, tiring bus journey into a smooth metro ride.
+It helped connect Guangzhou's newer eastern districts to its busy city centre.
+
+## Challenges Along the Way
+
+- **Long distance through hilly ground**: Line 21 had to stretch across one of the longest routes in the eastern suburbs. The terrain between Tianhe and Zengcheng includes hills and harder rock, which made tunneling more difficult than in the flat city centre.
+- **Crossing through busy districts**: Much of the route runs beneath busy roads and residential areas in Huangpu District. Workers had to tunnel carefully to avoid disrupting homes, roads, and existing underground pipes above the tunnels.
+- **Building a new terminus in an undeveloped area**: The eastern end of Phase 1 — Zhongxin Zhicheng — was still being developed when the line opened. Engineers had to build the station and depot at the same time as the new town was being constructed around it.
+
+## Route Snapshot
+
+- **Start area**: Tianhe Park (天河公园), Tianhe District — western end
+- **End area**: Zhongxin Zhicheng (中新知城), eastern Guangzhou near Zengcheng — eastern end of Phase 1
+- **Route role**: Eastern corridor express connecting the city centre to the growing eastern suburbs and Science City
+- **Transfer value**: Connects with other lines at Tianhe Park station at the western end
+
+## Important Stations for Kids
+
+### 1) Tianhe Park (天河公园)
+
+This is the western end of Line 21.
+Tianhe Park is a large, green park in the heart of Guangzhou.
+Many families come here on weekends to walk, play, and enjoy nature.
+After your metro ride, you can go for a stroll in the park!
+
+### 2) Science City Area (科学城)
+
+Along the middle of the route, the line passes through Guangzhou's Science City in Huangpu District.
+This is a special zone where technology companies, universities, and researchers work together.
+Think of it as the neighbourhood where clever people invent things and build the future!
+
+### 3) Zhongxin Zhicheng (中新知城)
+
+This is the eastern end of Phase 1.
+"Zhicheng" (知城) means "Knowledge City" in Chinese.
+It is a brand-new town being built for working, studying, and living — all in one modern place.
+It was built with help from both China and Singapore, which is a country in Southeast Asia.
+
+## Fun Facts
+
+- Line 21 Phase 1 opened on December 28, 2017 — just a few days before the New Year!
+- The line colour is dark blue, like the deep evening sky over the eastern hills.
+- Zhongxin Zhicheng (中新知城) was built as a joint project between China and Singapore — two countries working together to create a Knowledge City.
+
+## Word Helper
+
+- **Phase**: One part of a big project. Builders finish one phase, then continue with the next phase.
+- **Corridor**: A corridor is a path connecting two places, like a hallway connects two rooms.
+- **Knowledge City (知城)**: A specially planned area with offices, schools, and research centres all in one place.
+
+## Memory Check
+
+1. Which city area does Line 21 connect to in the east?
+2. When did Line 21 Phase 1 open?
+3. What does "Zhicheng" (知城) mean in English?
+
+## Sources
+
+- Guangzhou Metro official website: https://www.gzmtr.com
+- Line 21 (Guangzhou Metro) — Wikipedia: https://en.wikipedia.org/wiki/Line_21_(Guangzhou_Metro)
+- Sino-Singapore Guangzhou Knowledge City official site: https://www.ssgkc.com
+- Guangzhou Huangpu District Science City overview — Huangpu government: https://www.huangpu.gov.cn
