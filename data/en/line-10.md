@@ -1,28 +1,91 @@
-# 💙 Line 10 — The City Loop Connector!
+# Guangzhou Metro Line 10 — The Diagonal Connector!
 
-> 🏙️ **Fun Fact:** Line 10 is a shorter inner-city line that helps connect different parts of central Guangzhou — like a little bridge between the bigger lines!
+## Quick Intro
 
-## 🚉 Quick Facts
-| | |
-|---|---|
-| 🎨 Color | Steel Blue |
-| 🔢 Stations | **11 stations** |
-| 📏 Direction | East ↔ West in northern Guangzhou |
+Line 10 is a metro line that cuts diagonally through the heart of Guangzhou.
+It opened on June 29, 2025, linking four important central districts.
+It is Guangzhou's first metro line to run fully without a driver.
+The line has 12 stations and is about 17.2 kilometers long.
 
-## ⭐ Famous Stations
-- 🔄 **Jiahe Wanggang** — Transfer hub connecting to Lines 2 and 14!
-- 🌉 **Xicun** — Near the old port area!
-- 🌊 **Donghu** — By the beautiful East Lake!
-- 🏘️ **Wuyang Xincheng** — A modern urban neighborhood!
+## Story Time
 
-## 🌟 Something Special
-Even though Line 10 is one of the shorter lines, it passes by **Donghu (East Lake)** — a lovely park with a peaceful lake where people go jogging and doing tai chi in the morning! 🌅🧘
+Before Line 10, Guangzhou's metro network had many lines going north, south, east, and west.
+But there was no metro line cutting diagonally across the city's central districts.
+To travel from the southwest to the northeast, passengers had to make several transfers at busy stations.
+City planners designed Line 10 to fill this gap.
+The new line would form part of an "X-shaped" backbone for the whole metro network.
+Construction required years of careful underground work through the city's most crowded areas.
+When Line 10 opened in June 2025, Guangzhou welcomed its very first fully driverless metro line — a big step for the city's technology.
 
-## 🎈 A Fun Fact for You!
-The steel-blue color of Line 10 matches the calm color of a lake on a clear day! 💧 If you close your eyes and imagine a peaceful blue lake — that's the spirit of Line 10!
+## Time Story
 
-## 🗺️ Where Does It Go?
-```
-Jiahe Wanggang (West) → Xicun → ... → Donghu → Wuyang Xincheng (East)
-```
-Short and sweet — perfect for zipping around the northern part of the city!
+- **2016**: Underground construction work began.
+- **June 29, 2025**: The first section from Xilang to Yangji East opened.
+- **December 2025**: One extra station (Sun Yat-sen University South Gate) is planned to open.
+
+Line 10 completed the diagonal in Guangzhou's "X-shaped" metro network.
+Passengers can now move between the southwest and northeast without passing through multiple crowded city-center transfers.
+
+## Challenges Along the Way
+
+- **Crossing the Pearl River twice**: Engineers had to dig tunnels under the Pearl River — not once, but twice. Tunneling under a wide river is risky because water can seep in. Workers used advanced methods to keep the tunnels safe and dry.
+- **Working under 317 buildings and 12 metro lines**: The route passed under hundreds of buildings and 12 metro lines that were running passengers every day. Teams had to work with great care so that buildings above and trains below would not be disturbed.
+- **Xilang Station — night work only**: Renovating Xilang Station was so tricky that workers could only dig from 1:30 AM to 4:30 AM — just three hours a night. Four other metro lines use the same area, and work could not disrupt them during the day.
+- **The deep pit at Donghu Station**: Workers had to dig a pit about 42 meters deep under Dongshan Lake Park. That is like going down 14 floors underground. The station became one of the largest and deepest in the whole Guangzhou metro system.
+
+## Route Snapshot
+
+- **Start area**: Xilang (西塱), in the southwest (Liwan District)
+- **End area**: Yangji East (杨箕东), in the east (Tianhe District)
+- **Route role**: A diagonal line connecting Liwan, Haizhu, Yuexiu, and Tianhe districts
+- **Transfer value**: Connects to Lines 1, 22, and the Guangfo Line at Xilang; Line 2 at Dongxiao South; Line 11 at Wufeng; Lines 6 and 12 at Donghu; Line 5 at Wuyangcun
+
+## Important Stations for Kids
+
+### 1) Donghu Station (东湖站)
+
+This station sits under Dongshan Lake Park — a popular park where families come to relax.
+Workers had to dig a pit about 42 meters deep to build this station.
+That makes it one of the deepest stations in Guangzhou.
+Standing on the platform, you are very far below the park above you.
+
+### 2) Xilang Station (西塱站)
+
+Xilang is where Line 10 begins.
+Here you can switch to three other metro lines: Line 1, Line 22, and the Guangfo Line.
+Because so many lines meet here, building the new part of the station was extremely tricky.
+Workers could only work during a short window in the middle of the night.
+
+### 3) Wufeng Station (五凤站)
+
+Wufeng Station is close to the famous Zhongda Jiangnan Textile Market.
+This is one of Asia's largest fabric and textile trading areas — a huge place full of colorful cloth.
+At this station, you can also transfer to Line 11, the golden ring line.
+
+## Fun Facts
+
+- Line 10 is Guangzhou's **first fully driverless metro line** (GoA4 level), meaning trains run automatically with no driver on board.
+- During construction, workers had to cross under the Pearl River **twice**.
+- The line runs under **317 buildings** and **12 other operating metro lines**.
+- Donghu Station has a foundation pit about **42 meters** deep.
+- Each district's stations have a different design color: sunrise orange for Tianhe, vintage gold for Yuexiu, Canton Embroidery blue for Haizhu, and eco-green for Liwan.
+
+## Word Helper
+
+- **GoA4**: The top level of automatic train operation. Trains run safely with no driver inside.
+- **Diagonal**: Going at an angle — not straight north-south or east-west.
+- **Infill station**: A station that is added between existing stations after the line is already open.
+
+## Memory Check
+
+1. What year did Line 10 open its first section?
+2. Why could workers only build at Xilang Station at night?
+3. What is special about how Line 10 trains operate?
+
+## Sources
+
+- Line 10 (Guangzhou Metro) - Wikipedia: https://en.wikipedia.org/wiki/Line_10_(Guangzhou_Metro)
+- Guangzhou Metro Line 10 set to open in 2025 — Guangzhou government: http://www.eguangzhou.gov.cn/gzlatest/content/post_31699.html
+- Guangzhou's First Metro Line with GoA4-Level Fully Automated Operation Commences Service: https://www.financialcontent.com/article/marketersmedia-2025-6-30-guangzhous-first-metro-line-with-goa4-level-fully-automated-operation-commences-service-completing-the-urban-x-shaped-diagonal-transportation-network
+- Guangzhou Metro Line 10 Overview — MetroMan: https://www.metroman.cn/en/cities/guangzhou/lines/line-10
+- Guangzhou Metro Line 10 set to open in 2025 — GDToday: https://www.newsgd.com/node_99363c4f3b/f298236cee.shtml
