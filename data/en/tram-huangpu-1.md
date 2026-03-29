@@ -1,27 +1,70 @@
-# 🏭 Huangpu Tram Line 1 — The Industrial Pioneer!
+# Huangpu Tram Line 1 — Connecting Guangzhou's Technology Heart
 
-> 🏭 **Fun Fact:** Huangpu District is one of Guangzhou's most important industrial areas — it's where lots of factories, ports, and technology parks are built! The tram helps workers and visitors get around!
+## Quick Intro
+Huangpu Tram Line 1 is a modern tram line in Huangpu District, eastern Guangzhou.
+It runs about 14.3 kilometres and has 20 stations built, with 19 currently open.
+The first section opened on July 1, 2020, and the full line opened on December 28, 2020.
+The tram connects workers, students, and residents across one of Guangzhou's busiest technology and industrial zones.
 
-## 🚉 Quick Facts
-| | |
-|---|---|
-| 🎨 Color | Red |
-| 🔢 Stations | **5 stations** |
-| 🚋 Type | Light Rail Tram |
-| 📍 Area | Huangpu District |
+## Story Time
+Huangpu District is one of Guangzhou's most important economic areas.
+It holds technology parks, research institutes, and industrial facilities that create many jobs.
+Before the tram opened in 2020, many workers in the Changlingju and Longhu areas had limited transit options.
+The area was growing fast, but bus services alone could not keep up.
 
-## ⭐ Famous Stations
-- 🏙️ **Kaihuangguangchang** — Kaihuang Square — the center of the tram network!
-- 🌊 **Dasha** — By the river in Huangpu!
+Planners decided a modern tram would serve the long north-south corridor, connecting people to the metro at both ends — including Metro Line 6 at Xiangxue Station in the north.
+When the first section opened in July 2020, it was a milestone for eastern Guangzhou.
+The full line opening in December 2020 gave residents along 14 kilometres of new tram track a reliable daily ride.
+Today, students walk to their stops, workers board for their morning commute, and the district keeps growing alongside its tram.
 
-## 🌟 Something Special
-Huangpu is one of the **oldest trading ports** in China! Over 2,000 years ago, the ancient Maritime Silk Road started here — ships would carry silk, tea, and porcelain from Guangzhou to countries all over the world. You're riding a tram through history! ⛵🌏
+## Time Story
+- 2020 (July 1): The first section of Huangpu Tram Line 1 opens between Xiangxue Subway Station and Shuixi Subway Station.
+- 2020 (December 28): The full line opens, running from Xiangxue Subway Station all the way to Xinfeng Lu.
+- Today: The tram operates with 19 active stations out of 20 built, serving students, workers, and residents across Huangpu District.
 
-## 🎈 A Fun Fact for You!
-The old name for Huangpu (黄埔) has been used for over **400 years**! There's even a famous **Huangpu Military Academy** (黄埔军校) here — where China's famous generals learned how to lead armies. Talk about an action-packed district! ⚔️🏫
+## Challenges Along the Way
+- **Serving a diverse corridor:** The route passes through industrial zones, technology parks, residential areas, and school zones — all with different needs. Planners worked carefully to choose station locations that would help the most people.
+- **Multiple metro connections:** Linking the tram to existing metro lines at Xiangxue (Line 6), Shuixi, and Changping required precise engineering at each interchange point.
+- **Building while the area kept growing:** Huangpu District was actively adding new schools and businesses during construction. The tram project had to plan for future growth while serving current residents at the same time.
 
-## 🗺️ Where Does It Go?
-```
-Kaihuangguangchang → ... → Dasha 🌊
-```
-Short but historically rich — every stop tells a story!
+## Route Snapshot
+- Start area: Xiangxue Subway Station (香雪站), northern terminus — transfer to Metro Line 6
+- End area: Xinfeng Lu (新丰路), southern terminus
+- Route role: North-south tram corridor through Huangpu's technology parks and residential zones
+- Transfer value: Connects to Metro Line 6 at Xiangxue, and to metro lines at Shuixi and Changping stations
+
+## Important Stations for Kids
+
+### 1) Xiangxue Subway Station (香雪站)
+This is the northern starting point of the tram.
+Here you can transfer to Metro Line 6 to reach other parts of Guangzhou.
+"Xiangxue" (香雪) means "fragrant snow" — it is named after the beautiful white plum blossoms that bloom in the fields nearby every winter!
+
+### 2) BNU Experimental School (北师大实验学校)
+This stop is right next to a school!
+Many students use this station every day to get to class.
+It shows how the tram helps children in Huangpu get to school safely and easily.
+
+### 3) Changping Subway Station (长平站)
+This station connects the tram to another metro line.
+It makes it much easier for people to travel from Huangpu to other parts of Guangzhou.
+
+## Fun Facts
+- Huangpu Tram Line 1 is about 14.3 kilometres long, making it one of the longest modern tram lines in the Guangzhou region.
+- The tram uses low-floor, energy-storage vehicles — passengers can step on board without climbing big steps.
+- Huangpu District is also home to the historic Huangpu Military Academy (黄埔军校), where many of China's famous military leaders trained over a century ago.
+
+## Word Helper
+- **Tram:** A rail vehicle that runs on tracks laid in the street, usually powered by electricity.
+- **Terminus:** The first or last stop on a transport line — the end of the journey.
+- **Interchange:** A station where you can switch from one transport line to another.
+
+## Memory Check
+1. When did the full Huangpu Tram Line 1 open?
+2. At which station can you transfer to Metro Line 6?
+3. About how many kilometres long is the tram line from end to end?
+
+## Sources
+- Line 1 (Guangzhou Huangpu Tram) - Wikipedia: https://en.wikipedia.org/wiki/Line_1_%28Guangzhou_Huangpu_Tram%29
+- MetroMan — Tram Huangpu Line 1: https://www.metroman.cn/en/cities/guangzhou/lines/tram-huangpu-line-1
+- Seetao — Guangzhou Huangpu Tram Line 1 fully operational: https://www.seetao.com/details/54756.html
