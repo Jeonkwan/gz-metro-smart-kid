@@ -30,7 +30,7 @@ Together with Line 10, it forms a giant "X" shape across Guangzhou.
 ## Time Story
 
 - **2017**: Government approves Line 12 as part of Guangzhou's third railway building plan.
-- **18 November 2018**: Full-line construction officially begins.
+- **19 November 2018**: Full-line construction officially begins.
 - **2025, June 29**: West section and east section open together — 18 stations start running.
 - **2026, February 13**: Chigang station opens, bringing more passengers on board.
 - **Future**: The central section is still being built and will connect the two halves when it is ready.
