@@ -11,6 +11,7 @@ Conghua is far from the city center, and traveling there by car or bus could tak
 As Guangzhou grew bigger, more people moved to Conghua and the northeastern parts of the city.
 Getting to work or school in the center became a real challenge.
 The city decided to build Line 14 so that everyone could travel faster and more easily.
+Construction started in 2013.
 
 The Knowledge City Branch opened first, on December 28, 2017.
 It served the Sino-Singapore Guangzhou Knowledge City — a brand-new area where companies from Singapore and China work together to build a high-tech future.
@@ -20,11 +21,12 @@ For the first time, people could ride a metro all the way into the mountains.
 Today, Line 14 helps residents of Conghua, Huangpu, and Baiyun reach the heart of Guangzhou in about one hour.
 
 ## Time Story
+- 2013: Construction of Line 14 began.
 - 2017: The Knowledge City Branch opened on December 28, connecting Xinhe to Zhenlong.
 - 2018: The main line opened on December 28, connecting Jiahewanggang to Dongfeng and reaching Conghua District.
 - Today: Line 14 continues to help more and more people travel between the mountains and the city.
 
-Building a long railway through changing landscapes took many years of planning and hard work.
+Building a long railway through changing landscapes took about five years of hard work, from 2013 to 2018.
 
 ## Challenges Along the Way
 - Rocky mountain ground: Near Conghua, builders had to tunnel through hard mountain rock and unstable stone layers. This made digging much harder than tunneling through flat city ground.
