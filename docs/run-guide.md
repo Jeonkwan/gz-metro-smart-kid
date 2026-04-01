@@ -18,6 +18,12 @@ python3 -m http.server 8000
 ```
 Open `http://localhost:8000`.
 
+### Perl server helper
+```bash
+perl server.pl
+```
+Open `http://localhost:8080`.
+
 ### VS Code
 Use the `Open Metro Explorer` configuration from `.vscode/launch.json` — it starts the Python server and opens the browser automatically.
 
@@ -31,9 +37,21 @@ Use the `Open Metro Explorer` configuration from `.vscode/launch.json` — it st
 | `HTTPS_PORT` | `8443` | HTTPS serving port |
 | `ACME_EMAIL` | — | Let's Encrypt registration email (required in HTTPS mode) |
 
-Copy `.env.example` to `.env` and adjust for your deployment.
+Use `.env.example` as a reference for `docker run` or to create your own env file for `--env-file`.
 
 ## Building the image
+
+Repo helper script:
+
+```bash
+scripts/ops/docker-build-push.sh \
+	--image jeonkwan/gz-metro-smart-kid \
+	--tag latest \
+	--platform linux/amd64 \
+	--extra-tag $(date +%Y%m%d)
+```
+
+Equivalent raw Docker commands:
 
 ```bash
 docker buildx build --builder desktop-linux --platform linux/amd64 --load \
@@ -49,15 +67,6 @@ docker tag jeonkwan/gz-metro-smart-kid:latest jeonkwan/gz-metro-smart-kid:$(date
 docker push jeonkwan/gz-metro-smart-kid:$(date +%Y%m%d)
 ```
 
-Repo helper script:
-```bash
-scripts/ops/docker-build-push.sh \
-	--image jeonkwan/gz-metro-smart-kid \
-	--tag latest \
-	--platform linux/amd64 \
-	--extra-tag $(date +%Y%m%d)
-```
-
 ## Server deployment with Ansible
 
 Requires Ansible locally with the `community.docker` collection:
@@ -65,12 +74,20 @@ Requires Ansible locally with the `community.docker` collection:
 ansible-galaxy collection install -r ansible/requirements.yml
 ```
 
-Deploy:
+Preferred repo helper:
+```bash
+scripts/ops/redeploy-server.sh \
+	--inventory ansible/inventory/hosts.ini \
+	--playbook ansible/playbooks/deploy.yml \
+	--limit gz-metro
+```
+
+Direct Ansible command:
 ```bash
 ansible-playbook -i ansible/inventory/hosts.ini ansible/playbooks/deploy.yml
 ```
 
-Repo helper script:
+Optional standalone preflight:
 ```bash
 scripts/ops/redeploy-preflight.sh \
 	--ssh-host 54.254.63.109 \
@@ -92,17 +109,22 @@ The playbook:
 5. Starts with HTTPS mode on port `8443`, ACME HTTP-01 validation on port `80`
 6. Health-checks the HTTPS endpoint and reports status
 
+The helper script wraps that flow and also supports `--image-tag`, `--image-source`, `--skip-preflight`, and `--skip-galaxy`.
+
 If the published image is missing a compatible target-platform manifest, the playbook also supports a remote-build fallback via `-e image_source=build`. Keep that as fallback only.
 
 ### Rollback
 ```bash
-# Edit ansible/group_vars/all.yml: set image_tag to the date of the target release
-ansible-playbook -i ansible/inventory/hosts.ini ansible/playbooks/deploy.yml
+scripts/ops/redeploy-server.sh \
+	--inventory ansible/inventory/hosts.ini \
+	--playbook ansible/playbooks/deploy.yml \
+	--limit gz-metro \
+	--image-tag 20260401
 ```
 
 ## Content updates
 
-Edit `data/en/*.md` or `data/zh/*.md`, rebuild the image, push, and re-run the Ansible playbook. The container will be replaced with the new image within seconds.
+Edit `data/en/*.md` or `data/zh/*.md` and refresh locally for development. To publish those changes to the server, rebuild the image, push it, and re-run the redeploy helper or Ansible playbook. The container will be replaced with the new image within seconds.
 
 ## Copilot Skills
 
