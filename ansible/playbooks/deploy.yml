@@ -10,7 +10,7 @@
     - ../group_vars/all.yml
 
   vars:
-    image_source: "{{ image_source | default('pull') }}"
+    deploy_image_source: "{{ image_source | default('pull') }}"
     local_repo_root: "{{ playbook_dir }}/../.."
     local_build_archive: "/tmp/gz-metro-smart-kid-build.tar.gz"
     remote_build_root: "/tmp/gz-metro-smart-kid-build"
@@ -83,7 +83,7 @@
         name: "{{ docker_image }}:{{ image_tag }}"
         source: pull
         force_source: true
-      when: image_source == 'pull'
+      when: deploy_image_source == 'pull'
 
     # ── 2b. Optional remote build from current repo ───────────────
     - name: Remove stale local build archive
@@ -92,7 +92,7 @@
         state: absent
       delegate_to: localhost
       become: false
-      when: image_source == 'build'
+      when: deploy_image_source == 'build'
 
     - name: Create local build archive from current repo
       ansible.builtin.command:
@@ -110,34 +110,34 @@
       delegate_to: localhost
       become: false
       changed_when: true
-      when: image_source == 'build'
+      when: deploy_image_source == 'build'
 
     - name: Recreate remote build directory
       ansible.builtin.file:
         path: "{{ remote_build_root }}"
         state: absent
-      when: image_source == 'build'
+      when: deploy_image_source == 'build'
 
     - name: Create remote build directory
       ansible.builtin.file:
         path: "{{ remote_build_root }}"
         state: directory
         mode: '0755'
-      when: image_source == 'build'
+      when: deploy_image_source == 'build'
 
     - name: Upload build archive to remote host
       ansible.builtin.copy:
         src: "{{ local_build_archive }}"
         dest: "{{ remote_build_root }}/repo.tar.gz"
         mode: '0644'
-      when: image_source == 'build'
+      when: deploy_image_source == 'build'
 
     - name: Unpack build archive on remote host
       ansible.builtin.unarchive:
         src: "{{ remote_build_root }}/repo.tar.gz"
         dest: "{{ remote_build_root }}"
         remote_src: true
-      when: image_source == 'build'
+      when: deploy_image_source == 'build'
 
     - name: Build Docker image on remote host
       community.docker.docker_image:
@@ -147,7 +147,7 @@
         build:
           path: "{{ remote_build_root }}"
           pull: true
-      when: image_source == 'build'
+      when: deploy_image_source == 'build'
 
     # ── 3. Remove old container (idempotent) ─────────────────────
     - name: Remove existing container if present
@@ -222,10 +222,10 @@
         state: absent
       delegate_to: localhost
       become: false
-      when: image_source == 'build'
+      when: deploy_image_source == 'build'
 
     - name: Remove remote build directory
       ansible.builtin.file:
         path: "{{ remote_build_root }}"
         state: absent
-      when: image_source == 'build'
+      when: deploy_image_source == 'build'
