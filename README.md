@@ -63,6 +63,17 @@ Customise `ansible/group_vars/all.yml` to change hostname, ports, image tag, or 
 
 **To roll back** to a previous release, set `image_tag` in `group_vars/all.yml` to the target date tag (e.g., `20260401`) and re-run the playbook.
 
+## Copilot Workflow Skills
+
+This repo now includes reusable Copilot skills for operations workflows:
+- `.github/skills/docker-build-push-image/` for confirming build and push inputs before publishing a container image
+- `.github/skills/redeploy-server/` for confirming deployment inputs before running the Ansible redeploy workflow
+
+Supporting scripts live under `scripts/ops/`:
+- `scripts/ops/docker-build-push.sh`
+- `scripts/ops/redeploy-preflight.sh`
+- `scripts/ops/redeploy-server.sh`
+
 ## 📝 Updating Content
 Each metro line has two Markdown files:
 - `data/en/<line-id>.md` — English content

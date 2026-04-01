@@ -46,6 +46,14 @@ docker tag jeonkwan/gz-metro-smart-kid:latest jeonkwan/gz-metro-smart-kid:$(date
 docker push jeonkwan/gz-metro-smart-kid:$(date +%Y%m%d)
 ```
 
+Repo helper script:
+```bash
+scripts/ops/docker-build-push.sh \
+	--image jeonkwan/gz-metro-smart-kid \
+	--tag latest \
+	--extra-tag $(date +%Y%m%d)
+```
+
 ## Server deployment with Ansible
 
 Requires Ansible locally with the `community.docker` collection:
@@ -56,6 +64,20 @@ ansible-galaxy collection install -r ansible/requirements.yml
 Deploy:
 ```bash
 ansible-playbook -i ansible/inventory/hosts.ini ansible/playbooks/deploy.yml
+```
+
+Repo helper script:
+```bash
+scripts/ops/redeploy-preflight.sh \
+	--ssh-host 54.254.63.109 \
+	--mode https \
+	--site-host gzmetro.mokamaker.space \
+	--https-port 8443
+
+scripts/ops/redeploy-server.sh \
+	--inventory ansible/inventory/hosts.ini \
+	--playbook ansible/playbooks/deploy.yml \
+	--limit gz-metro
 ```
 
 The playbook:
@@ -75,3 +97,12 @@ ansible-playbook -i ansible/inventory/hosts.ini ansible/playbooks/deploy.yml
 ## Content updates
 
 Edit `data/en/*.md` or `data/zh/*.md`, rebuild the image, push, and re-run the Ansible playbook. The container will be replaced with the new image within seconds.
+
+## Copilot Skills
+
+This repo includes two workflow skills for these operations:
+- `.github/skills/docker-build-push-image/`
+- `.github/skills/redeploy-server/`
+
+Both skills are designed to confirm every required input before running build, push, or remote deployment commands.
+The redeploy workflow also includes a preflight check script for SSH reachability and current site health.
