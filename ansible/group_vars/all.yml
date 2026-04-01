@@ -1,0 +1,25 @@
+# ── Docker image ──────────────────────────────────────────────
+docker_image: jeonkwan/gz-metro-smart-kid
+image_tag: latest
+
+# ── Container name ────────────────────────────────────────────
+container_name: gz-metro-smart-kid
+
+# ── Deployment mode ───────────────────────────────────────────
+# DEPLOY_MODE: http  → plain HTTP, no TLS
+#              https → auto TLS via Let's Encrypt ACME HTTP-01
+deploy_mode: https
+
+# ── Site host (required for https mode) ───────────────────────
+site_host: gzmetro.mokamaker.space
+
+# ── Ports ─────────────────────────────────────────────────────
+# http_port: port used when deploy_mode=http
+# https_port: port the app serves HTTPS on
+# acme_port:  must be 80 for HTTP-01 ACME validation (open on VM)
+http_port: 8080
+https_port: 8443
+acme_port: 80
+
+# ── ACME / Let's Encrypt ───────────────────────────────────────
+acme_email: jeonkwan@gmail.com

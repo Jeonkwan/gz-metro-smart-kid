@@ -1,0 +1,143 @@
+---
+- name: Deploy gz-metro-smart-kid
+  hosts: web
+  become: true
+
+  vars_files:
+    - ../group_vars/all.yml
+
+  tasks:
+
+    # ── 0. Pre-flight DNS check ───────────────────────────────────
+    - name: Resolve site hostname
+      ansible.builtin.command:
+        cmd: "dig +short {{ site_host }}"
+      register: dns_result
+      changed_when: false
+      delegate_to: localhost
+      become: false
+      when: deploy_mode == 'https'
+
+    - name: Warn if DNS does not resolve to this host
+      ansible.builtin.debug:
+        msg: "WARNING: {{ site_host }} resolved to {{ dns_result.stdout | trim }} — expected {{ ansible_host }}"
+      when:
+        - deploy_mode == 'https'
+        - dns_result.stdout | trim != ansible_host
+
+    # ── 1. Ensure Docker is present ───────────────────────────────
+    - name: Check if Docker is already installed
+      ansible.builtin.command: docker --version
+      register: docker_check
+      changed_when: false
+      failed_when: false
+
+    - name: Repair any interrupted dpkg state before installing
+      ansible.builtin.command: dpkg --configure -a
+      changed_when: false
+      when:
+        - ansible_pkg_mgr == 'apt'
+        - docker_check.rc != 0
+
+    - name: Install Docker and python3-docker when not present
+      ansible.builtin.apt:
+        name:
+          - docker.io
+          - python3-docker
+        state: present
+        update_cache: true
+      when:
+        - ansible_pkg_mgr == 'apt'
+        - docker_check.rc != 0
+
+    - name: Ensure Docker service is running
+      ansible.builtin.service:
+        name: docker
+        state: started
+        enabled: true
+
+    # ── 2. Pull latest image ──────────────────────────────────────
+    # ── 1b. Ensure named volumes exist for cert persistence ──────
+    - name: Create caddy_data volume
+      community.docker.docker_volume:
+        name: caddy_data
+        state: present
+
+    - name: Create caddy_config volume
+      community.docker.docker_volume:
+        name: caddy_config
+        state: present
+
+    # ── 2. Pull latest image ──────────────────────────────────────
+    - name: Pull Docker image
+      community.docker.docker_image:
+        name: "{{ docker_image }}:{{ image_tag }}"
+        source: pull
+        force_source: true
+
+    # ── 3. Remove old container (idempotent) ─────────────────────
+    - name: Remove existing container if present
+      community.docker.docker_container:
+        name: "{{ container_name }}"
+        state: absent
+        force_kill: true
+
+    # ── 4. Start new container ────────────────────────────────────
+    - name: Start container (https mode)
+      community.docker.docker_container:
+        name: "{{ container_name }}"
+        image: "{{ docker_image }}:{{ image_tag }}"
+        state: started
+        restart_policy: unless-stopped
+        ports:
+          - "{{ acme_port }}:80"
+          - "{{ https_port }}:8443"
+        volumes:
+          - caddy_data:/data
+          - caddy_config:/config
+        env:
+          DEPLOY_MODE: "{{ deploy_mode }}"
+          SITE_HOST: "{{ site_host }}"
+          HTTPS_PORT: "{{ https_port | string }}"
+          ACME_EMAIL: "{{ acme_email }}"
+      when: deploy_mode == 'https'
+
+    - name: Start container (http mode)
+      community.docker.docker_container:
+        name: "{{ container_name }}"
+        image: "{{ docker_image }}:{{ image_tag }}"
+        state: started
+        restart_policy: unless-stopped
+        ports:
+          - "{{ http_port }}:8080"
+        env:
+          DEPLOY_MODE: http
+          HTTP_PORT: "{{ http_port | string }}"
+      when: deploy_mode == 'http'
+
+    # ── 5. Health check ───────────────────────────────────────────
+    - name: Wait for service to become reachable
+      ansible.builtin.uri:
+        url: >-
+          {% if deploy_mode == 'https' %}
+          https://{{ site_host }}:{{ https_port }}
+          {% else %}
+          http://{{ ansible_host }}:{{ http_port }}
+          {% endif %}
+        validate_certs: "{{ deploy_mode == 'https' }}"
+        status_code: 200
+        timeout: 30
+      register: health
+      retries: 6
+      delay: 10
+      until: health.status == 200
+      ignore_errors: true
+
+    - name: Report health check result
+      ansible.builtin.debug:
+        msg: >-
+          {% if health.status is defined and health.status == 200 %}
+          Service is healthy at {{ health.url }}
+          {% else %}
+          WARNING: health check did not return 200 — check container logs
+          {% endif %}
