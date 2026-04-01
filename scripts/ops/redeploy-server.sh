@@ -40,10 +40,9 @@ read_first_yaml_value() {
     $1 == wanted_key {
       value = $2
       sub(/[[:space:]]+#.*$/, "", value)
+      sub(/^[[:space:]]+/, "", value)
+      sub(/[[:space:]]+$/, "", value)
       gsub(/^"|"$/, "", value)
-      gsub(/^'
-"'"'"'|'
-"'"'"'$/, "", value)
       print value
       exit
     }
@@ -58,9 +57,9 @@ read_inventory_host_value() {
     /^[[:space:]]*\[/ { next }
     NF == 0 { next }
     {
-      for (index = 1; index <= NF; index++) {
-        if ($index ~ /^ansible_host=/) {
-          split($index, parts, "=")
+      for (field_index = 1; field_index <= NF; field_index++) {
+        if ($field_index ~ /^ansible_host=/) {
+          split($field_index, parts, "=")
           print parts[2]
           exit
         }
