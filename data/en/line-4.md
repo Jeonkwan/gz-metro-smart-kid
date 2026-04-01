@@ -88,6 +88,27 @@ This station connects the metro all the way to the sea!
 2. Why did students need Line 4?
 3. Where does Line 4 end in the south, and what can you do there?
 
+
+## Photos
+
+### Photo 1
+
+[![Guangzhou Metro Line 4 CRRC Sifang L5-Train](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20Line%204%20CRRC%20Sifang%20L5-Train.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20Line%204%20CRRC%20Sifang%20L5-Train.jpg)
+
+- Caption: Guangzhou Metro Line 4 CRRC Sifang L5-Train.
+- Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guangzhou%20Metro%20Line%204%20CRRC%20Sifang%20L5-Train.jpg)
+- Photographer/Author: See Wikimedia Commons file page.
+- Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
+
+### Photo 2
+
+[![Guangzhou Metro Line 4 CSR Sifang L1-Train](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20Line%204%20CSR%20Sifang%20L1-Train.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20Line%204%20CSR%20Sifang%20L1-Train.jpg)
+
+- Caption: Guangzhou Metro Line 4 CSR Sifang L1-Train.
+- Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guangzhou%20Metro%20Line%204%20CSR%20Sifang%20L1-Train.jpg)
+- Photographer/Author: See Wikimedia Commons file page.
+- Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
+
 ## Sources
 
 - Line 4 (Guangzhou Metro) - Wikipedia: https://en.wikipedia.org/wiki/Line_4_(Guangzhou_Metro)

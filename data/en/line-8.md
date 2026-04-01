@@ -81,6 +81,18 @@ It is a busy hub connecting different parts of the city.
 2. Which station gives you access to the famous Canton Fair venue?
 3. What can you transfer to at Wanshengwei station?
 
+
+## Photos
+
+### Photo 1
+
+[![An A6 train at Chisha Depot](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20A6%20train%20at%20Chisha%20Depot.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20A6%20train%20at%20Chisha%20Depot.jpg)
+
+- Caption: An A6 train at Chisha Depot.
+- Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guangzhou_Metro_A6_train_at_Chisha_Depot.jpg)
+- Photographer/Author: See Wikimedia Commons file page.
+- Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
+
 ## Sources
 
 - Line 8 (Guangzhou Metro) - Wikipedia: https://en.wikipedia.org/wiki/Line_8_(Guangzhou_Metro)

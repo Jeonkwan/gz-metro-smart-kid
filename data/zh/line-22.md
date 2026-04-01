@@ -86,6 +86,36 @@
 2. 22号线是普通地铁还是快线？
 3. 在22号线南端的哪里可以乘坐前往香港或澳门的渡轮？
 
+
+## 照片
+
+### 照片1
+
+[![广州地铁22号线相关列车外观照片1](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20D%20train(Line22)%20at%20Dazhou%20Depot.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20D%20train(Line22)%20at%20Dazhou%20Depot.jpg)
+
+- 说明：Guangzhou Metro D train(Line22) at Dazhou Depot。
+- 来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guangzhou%20Metro%20D%20train(Line22)%20at%20Dazhou%20Depot.jpg)
+- 摄影师/作者：请查看 Wikimedia Commons 文件页。
+- 风险说明：低。来源为Wikimedia Commons开放授权资源，但外部链接可用性仍可能变化。
+
+### 照片2
+
+[![2022年3月31日开通日报道中的广州地铁22号线列车](http://inews.gtimg.com/newsapp_bt/0/14690388932/1000)](http://inews.gtimg.com/newsapp_bt/0/14690388932/1000)
+
+- 说明：2022年3月31日开通日报道中的广州地铁22号线列车。
+- 来源：[腾讯新闻](https://news.qq.com/rain/a/20220331A09GEE00)
+- 摄影师/作者：南方Plus。
+- 风险说明：中。图片来自公开网页，页面未清楚说明可再利用授权，且外部链接可用性仍可能变化。
+
+### 照片3
+
+[![2020年10月4日完成组装并停放在中车广州南洲厂的广州地铁22号线列车](http://www.trainnets.com/wp-content/uploads/2020/12/panxingtianlu-1221-21.jpg)](http://www.trainnets.com/wp-content/uploads/2020/12/panxingtianlu-1221-21.jpg)
+
+- 说明：2020年10月4日。广州地铁22号线列车完成组装停放在中车广州南洲厂。
+- 来源：[TrainNets](https://www.trainnets.com/archives/48377)
+- 摄影师/作者：盼行天路。
+- 风险说明：中。图片来自公开网页，页面未清楚说明可再利用授权，且外部链接可用性仍可能变化。
+
 ## 来源
 
 - 广州地铁官方网站：https://www.gzmtr.com

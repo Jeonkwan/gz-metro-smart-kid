@@ -84,6 +84,26 @@
 2. 中山纪念堂站旁边有什么著名的地标建筑？
 3. 2号线全线是哪一年完整开通的？
 
+## 照片
+
+### 照片1
+
+[![广州地铁2号线，中国第一条采用DC1500V刚性悬挂接触网供电的地铁线路](https://bjqcc.com/storage/posts/2007/081594195562974357.png)](https://bjqcc.com/storage/posts/2007/081594195562974357.png)
+
+- 说明：广州地铁2号线，中国第一条采用DC1500V刚性悬挂接触网供电的地铁线路。
+- 来源：[中铁高铁电气装备股份有限公司](https://bjqcc.com/default/detail/417)
+- 摄影师/作者：来源页未注明。
+- 风险说明：中。图片来自公开网页，页面未清楚说明可再利用授权，且外部链接可用性仍可能变化。
+
+### 照片2
+
+[![于广交会展馆陈列展示的08x213](https://commons.wikimedia.org/wiki/Special:FilePath/Exterior%20of%20A8%20Train%20(08x213),%20Guangzhou%20Metro%2020230701-A.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/Exterior%20of%20A8%20Train%20(08x213),%20Guangzhou%20Metro%2020230701-A.jpg)
+
+- 说明：于广交会展馆陈列展示的08x213。
+- 来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Exterior%20of%20A8%20Train%20(08x213),%20Guangzhou%20Metro%2020230701-A.jpg)
+- 摄影师/作者：请查看 Wikimedia Commons 文件页。
+- 风险说明：低。来源为Wikimedia Commons开放授权资源，但外部链接可用性仍可能变化。
+
 ## 来源
 
 - 维基百科 - 广州地铁2号线：https://en.wikipedia.org/wiki/Line_2_(Guangzhou_Metro)

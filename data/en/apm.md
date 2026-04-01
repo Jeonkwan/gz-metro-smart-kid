@@ -93,6 +93,44 @@ The APM connects the tower area to the rest of the CBD, making it easy to visit.
 2. What important event took place at Haixinsha in November 2010?
 3. Name one reason why building the APM was especially difficult for engineers.
 
+## Photos
+
+### Photo 1
+
+[![The first Guangzhou Metro APM train entering the Canton Tower depot on 20 March 2010](https://media.nfnews.com/media-nfh/image/202406/17/e28b3a928a0741c1864ae84c77976534.png)](https://media.nfnews.com/media-nfh/image/202406/17/e28b3a928a0741c1864ae84c77976534.png)
+
+- Caption: The first Guangzhou Metro APM train entering the Canton Tower depot on 20 March 2010.
+- Source: [Nanfang Plus](https://pc.nfnews.com/3392/8997870.html)
+- Photographer/Author: Li Shihui.
+- Risk note: Medium. Public web image from Nanfang Plus; licensing or reuse terms are not clearly stated on the page, and external link availability may change.
+
+### Photo 2
+
+[![A Guangzhou Metro APM train shown in a November 2025 report about domestic tire localization](https://global-img.bitauto.com/usercenter/yhzx/20251110/253/w1200_yichecar_275505425325446.jpg)](https://global-img.bitauto.com/usercenter/yhzx/20251110/253/w1200_yichecar_275505425325446.jpg)
+
+- Caption: A Guangzhou Metro APM train shown in a November 2025 report about domestic tire localization.
+- Source: [Bitauto](https://www.bitauto.com/article/1003105026848/)
+- Photographer/Author: Source account Che Yu Lun Zhuan Ye Ce Shi; photographer not credited on page.
+- Risk note: Medium. Public web image from Bitauto; licensing or reuse terms are not clearly stated on the page, and external link availability may change.
+
+### Photo 3
+
+[![A Guangzhou Metro APM train shown in an August 2019 service disruption report](http://5b0988e595225.cdn.sohucs.com/images/20190815/a02a8178c9254ce59f0d36b99cf6d234.jpeg)](http://5b0988e595225.cdn.sohucs.com/images/20190815/a02a8178c9254ce59f0d36b99cf6d234.jpeg)
+
+- Caption: A Guangzhou Metro APM train shown in an August 2019 service disruption report.
+- Source: [Sohu](https://www.sohu.com/a/333791706_180330)
+- Photographer/Author: Source account Rail World; photographer not credited on page.
+- Risk note: Medium. Public web image from Sohu; licensing or reuse terms are not clearly stated on the page, and external link availability may change.
+
+### Photo 4
+
+[![Guangzhou Metro APM train](https://upload.wikimedia.org/wikipedia/commons/8/88/APM_train.JPG)](https://upload.wikimedia.org/wikipedia/commons/8/88/APM_train.JPG)
+
+- Caption: Guangzhou Metro APM train.
+- Source: [Wikimedia Commons](https://zh-yue.wikipedia.org/wiki/File:APM_train.JPG)
+- Photographer/Author: Gzdavidwong.
+- Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
+
 ## Sources
 
 - Zhujiang New Town Automated People Mover System — Wikipedia: https://en.wikipedia.org/wiki/Zhujiang_New_Town_Automated_People_Mover_System

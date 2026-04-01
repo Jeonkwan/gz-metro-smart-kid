@@ -75,6 +75,35 @@ It is a good example of how one station can connect many kinds of transport.
 2. What museum can you visit near Chen Clan Academy station?
 3. Why is Gongyuanqian Station important in the metro network?
 
+## Photos
+
+### Photo 1
+
+[![A1 Train (1x25-26) leaving Kengkou Station, Guangzhou Metro 20191013-A](https://commons.wikimedia.org/wiki/Special:FilePath/A1%20Train%20(1x25-26)%20leaving%20Kengkou%20Station,%20Guangzhou%20Metro%2020191013-A.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/A1%20Train%20(1x25-26)%20leaving%20Kengkou%20Station,%20Guangzhou%20Metro%2020191013-A.jpg)
+
+- Caption: A1 Train (1x25-26) leaving Kengkou Station, Guangzhou Metro 20191013-A.
+- Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A1%20Train%20(1x25-26)%20leaving%20Kengkou%20Station,%20Guangzhou%20Metro%2020191013-A.jpg)
+- Photographer/Author: See Wikimedia Commons file page.
+- Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
+
+### Photo 2
+
+[![A1 Train at Huadiwan Station, Guangzhou Metro 20191013](https://commons.wikimedia.org/wiki/Special:FilePath/A1%20Train%20at%20Huadiwan%20Station,%20Guangzhou%20Metro%2020191013.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/A1%20Train%20at%20Huadiwan%20Station,%20Guangzhou%20Metro%2020191013.jpg)
+
+- Caption: A1 Train at Huadiwan Station, Guangzhou Metro 20191013.
+- Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A1%20Train%20at%20Huadiwan%20Station,%20Guangzhou%20Metro%2020191013.jpg)
+- Photographer/Author: See Wikimedia Commons file page.
+- Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
+
+### Photo 3
+
+[![Guangzhou Metro A1 Train Leaving Xilang Station (8814180948)](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20A1%20Train%20Leaving%20Xilang%20Station%20(8814180948).jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20A1%20Train%20Leaving%20Xilang%20Station%20(8814180948).jpg)
+
+- Caption: Guangzhou Metro A1 Train Leaving Xilang Station (8814180948).
+- Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guangzhou%20Metro%20A1%20Train%20Leaving%20Xilang%20Station%20(8814180948).jpg)
+- Photographer/Author: See Wikimedia Commons file page.
+- Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
+
 ## Sources
 
 - Guangzhou Metro official English site map: https://www.gzmtr.com/en/site-map.html

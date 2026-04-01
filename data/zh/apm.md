@@ -93,6 +93,44 @@ APM将塔区与整个CBD连为一体，让参观变得十分方便。
 2. 2010年11月，海心沙发生了什么大事？
 3. 说出一个让建造APM对工程师来说特别困难的原因。
 
+## 照片
+
+### 照片1
+
+[![APM线相关列车外观照片1](https://media.nfnews.com/media-nfh/image/202406/17/e28b3a928a0741c1864ae84c77976534.png)](https://media.nfnews.com/media-nfh/image/202406/17/e28b3a928a0741c1864ae84c77976534.png)
+
+- 说明：2010年3月20日，第一列广州地铁APM线列车进入广州塔停车场。
+- 来源：[南方Plus](https://pc.nfnews.com/3392/8997870.html)
+- 摄影师/作者：李施慧。
+- 风险说明：中。图片来自公开网页，页面未清楚说明可再利用授权，且外部链接可用性仍可能变化。
+
+### 照片2
+
+[![APM线相关列车外观照片2](https://global-img.bitauto.com/usercenter/yhzx/20251110/253/w1200_yichecar_275505425325446.jpg)](https://global-img.bitauto.com/usercenter/yhzx/20251110/253/w1200_yichecar_275505425325446.jpg)
+
+- 说明：2025年11月关于APM线轮胎国产化报道中的广州地铁APM列车。
+- 来源：[Bitauto](https://www.bitauto.com/article/1003105026848/)
+- 摄影师/作者：来源账号“车与轮专业测试”；页面未注明摄影师。
+- 风险说明：中。图片来自公开网页，页面未清楚说明可再利用授权，且外部链接可用性仍可能变化。
+
+### 照片3
+
+[![APM线相关列车外观照片3](http://5b0988e595225.cdn.sohucs.com/images/20190815/a02a8178c9254ce59f0d36b99cf6d234.jpeg)](http://5b0988e595225.cdn.sohucs.com/images/20190815/a02a8178c9254ce59f0d36b99cf6d234.jpeg)
+
+- 说明：2019年8月APM线设备故障延误报道中的广州地铁APM列车。
+- 来源：[搜狐](https://www.sohu.com/a/333791706_180330)
+- 摄影师/作者：来源账号“轨道世界”；页面未注明摄影师。
+- 风险说明：中。图片来自公开网页，页面未清楚说明可再利用授权，且外部链接可用性仍可能变化。
+
+### 照片4
+
+[![APM线相关列车外观照片4](https://upload.wikimedia.org/wikipedia/commons/8/88/APM_train.JPG)](https://upload.wikimedia.org/wikipedia/commons/8/88/APM_train.JPG)
+
+- 说明：广州地铁APM线列车。
+- 来源：[Wikimedia Commons](https://zh-yue.wikipedia.org/wiki/File:APM_train.JPG)
+- 摄影师/作者：Gzdavidwong。
+- 风险说明：低。来源为Wikimedia Commons开放授权资源，但外部链接可用性仍可能变化。
+
 ## 来源
 
 - 英文维基百科 - 珠江新城旅客自动输送系统：https://en.wikipedia.org/wiki/Zhujiang_New_Town_Automated_People_Mover_System

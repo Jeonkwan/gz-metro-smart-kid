@@ -87,6 +87,27 @@
 2. 3号线在哪个站分成两条路线？
 3. 3号线北端通往哪座机场？
 
+
+## 照片
+
+### 照片1
+
+[![广州地铁3号线相关列车外观照片1](https://commons.wikimedia.org/wiki/Special:FilePath/CSR%20Zhuzhou-Siemens%20train%20of%20Line%203,%20Guangzhou%20Metro.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/CSR%20Zhuzhou-Siemens%20train%20of%20Line%203,%20Guangzhou%20Metro.jpg)
+
+- 说明：CSR Zhuzhou-Siemens train of Line 3, Guangzhou Metro。
+- 来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:CSR%20Zhuzhou-Siemens%20train%20of%20Line%203,%20Guangzhou%20Metro.jpg)
+- 摄影师/作者：请查看 Wikimedia Commons 文件页。
+- 风险说明：低。来源为Wikimedia Commons开放授权资源，但外部链接可用性仍可能变化。
+
+### 照片2
+
+[![广州地铁3号线相关列车外观照片2](https://commons.wikimedia.org/wiki/Special:FilePath/03x131-132%20at%20Xiajiao%20Depot.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/03x131-132%20at%20Xiajiao%20Depot.jpg)
+
+- 说明：03x131-132 at Xiajiao Depot。
+- 来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:03x131-132%20at%20Xiajiao%20Depot.jpg)
+- 摄影师/作者：请查看 Wikimedia Commons 文件页。
+- 风险说明：低。来源为Wikimedia Commons开放授权资源，但外部链接可用性仍可能变化。
+
 ## 来源
 
 - 维基百科 - 广州地铁3号线：https://en.wikipedia.org/wiki/Line_3_(Guangzhou_Metro)

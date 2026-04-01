@@ -60,6 +60,35 @@
 2. 在哪一站可以换乘地铁6号线？
 3. 这条电车线路全长大约多少公里？
 
+## 照片
+
+### 照片1
+
+[![黄埔有轨电车1号线相关列车外观照片1](https://commons.wikimedia.org/wiki/Special:FilePath/THP1%20105%20at%20Changping%20Subway%20Station.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/THP1%20105%20at%20Changping%20Subway%20Station.jpg)
+
+- 说明：THP1 105 at Changping Subway Station。
+- 来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:THP1%20105%20at%20Changping%20Subway%20Station.jpg)
+- 摄影师/作者：请查看 Wikimedia Commons 文件页。
+- 风险说明：低。来源为Wikimedia Commons开放授权资源，但外部链接可用性仍可能变化。
+
+### 照片2
+
+[![黄埔有轨电车1号线相关列车外观照片2](https://commons.wikimedia.org/wiki/Special:FilePath/THP1%20106%20at%20Qiangdong%20Station,%20Guangzhou%20Tram%2020220625.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/THP1%20106%20at%20Qiangdong%20Station,%20Guangzhou%20Tram%2020220625.jpg)
+
+- 说明：THP1 106 at Qiangdong Station, Guangzhou Tram 20220625。
+- 来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:THP1%20106%20at%20Qiangdong%20Station,%20Guangzhou%20Tram%2020220625.jpg)
+- 摄影师/作者：请查看 Wikimedia Commons 文件页。
+- 风险说明：低。来源为Wikimedia Commons开放授权资源，但外部链接可用性仍可能变化。
+
+### 照片3
+
+[![黄埔有轨电车1号线相关列车外观照片3](https://commons.wikimedia.org/wiki/Special:FilePath/THP1%20107%20at%20Shuixi%20Subway%20Station%2020210129.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/THP1%20107%20at%20Shuixi%20Subway%20Station%2020210129.jpg)
+
+- 说明：THP1 107 at Shuixi Subway Station 20210129。
+- 来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:THP1%20107%20at%20Shuixi%20Subway%20Station%2020210129.jpg)
+- 摄影师/作者：请查看 Wikimedia Commons 文件页。
+- 风险说明：低。来源为Wikimedia Commons开放授权资源，但外部链接可用性仍可能变化。
+
 ## 资料来源
 - Line 1 (Guangzhou Huangpu Tram) - Wikipedia: https://en.wikipedia.org/wiki/Line_1_%28Guangzhou_Huangpu_Tram%29
 - MetroMan — Tram Huangpu Line 1: https://www.metroman.cn/en/cities/guangzhou/lines/tram-huangpu-line-1

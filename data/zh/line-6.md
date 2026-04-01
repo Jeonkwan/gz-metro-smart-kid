@@ -80,6 +80,36 @@
 2. 东山口站附近的建筑有什么特别之处？
 3. 6号线西延段连接了哪两个城市？
 
+
+## 照片
+
+### 照片1
+
+[![广州地铁6号线相关列车外观照片1](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20Line%206%20CRRC%20Guangdong%20Train%20105106,%20Testing%20in%20Shabei%20Station(20200411).jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20Line%206%20CRRC%20Guangdong%20Train%20105106,%20Testing%20in%20Shabei%20Station(20200411).jpg)
+
+- 说明：Guangzhou Metro Line 6 CRRC Guangdong Train 105106, Testing in Shabei Station(20200411)。
+- 来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guangzhou%20Metro%20Line%206%20CRRC%20Guangdong%20Train%20105106,%20Testing%20in%20Shabei%20Station(20200411).jpg)
+- 摄影师/作者：请查看 Wikimedia Commons 文件页。
+- 风险说明：低。来源为Wikimedia Commons开放授权资源，但外部链接可用性仍可能变化。
+
+### 照片2
+
+[![2013年7月的广州地铁6号线列车](http://www.trainnets.com/wp-content/uploads/2016/07/GZL6-zeonerv-DSC_3796.jpg)](http://www.trainnets.com/wp-content/uploads/2016/07/GZL6-zeonerv-DSC_3796.jpg)
+
+- 说明：2013年7月。广州地铁6号线列车。（图/ZEONerV）
+- 来源：[TrainNets](https://www.trainnets.com/archives/14900)
+- 摄影师/作者：ZEONerV。
+- 风险说明：中。图片来自公开网页，页面未清楚说明可再利用授权，且外部链接可用性仍可能变化。
+
+### 照片3
+
+[![广州地铁6号线相关列车外观照片3](https://commons.wikimedia.org/wiki/Special:FilePath/Running%20on%20the%20Xunfeng%20Gang%20To%20Hengsha%20section%20of%20Guangzhou%20Metro%20Line%206.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/Running%20on%20the%20Xunfeng%20Gang%20To%20Hengsha%20section%20of%20Guangzhou%20Metro%20Line%206.jpg)
+
+- 说明：Running on the Xunfeng Gang To Hengsha section of Guangzhou Metro Line 6。
+- 来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Running%20on%20the%20Xunfeng%20Gang%20To%20Hengsha%20section%20of%20Guangzhou%20Metro%20Line%206.jpg)
+- 摄影师/作者：请查看 Wikimedia Commons 文件页。
+- 风险说明：低。来源为Wikimedia Commons开放授权资源，但外部链接可用性仍可能变化。
+
 ## 来源
 
 - 广州地铁官方网站：https://www.gzmtr.com

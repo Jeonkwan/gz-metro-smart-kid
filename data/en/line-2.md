@@ -84,6 +84,26 @@ The metro brings you right into the lower level of this enormous station.
 2. What famous landmark is right next to the Sun Yat-sen Memorial Hall station?
 3. In which year did the full Line 2 open from end to end?
 
+## Photos
+
+### Photo 1
+
+[![Guangzhou Metro Line 2, the first line in China to use DC 1500V rigid overhead contact line power supply](https://bjqcc.com/storage/posts/2007/081594195562974357.png)](https://bjqcc.com/storage/posts/2007/081594195562974357.png)
+
+- Caption: Guangzhou Metro Line 2, the first line in China to use DC 1500V rigid overhead contact line power supply.
+- Source: [CRSC Electric Equipment](https://bjqcc.com/default/detail/417)
+- Photographer/Author: Unknown on source page.
+- Risk note: Medium. Public web image from CRSC Electric Equipment; licensing or reuse terms are not clearly stated on the page, and external link availability may change.
+
+### Photo 2
+
+[![Train 08x213 displayed at the Canton Fair Complex](https://commons.wikimedia.org/wiki/Special:FilePath/Exterior%20of%20A8%20Train%20(08x213),%20Guangzhou%20Metro%2020230701-A.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/Exterior%20of%20A8%20Train%20(08x213),%20Guangzhou%20Metro%2020230701-A.jpg)
+
+- Caption: Train 08x213 displayed at the Canton Fair Complex.
+- Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Exterior%20of%20A8%20Train%20(08x213),%20Guangzhou%20Metro%2020230701-A.jpg)
+- Photographer/Author: See Wikimedia Commons file page.
+- Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
+
 ## Sources
 
 - Line 2 (Guangzhou Metro) – Wikipedia: https://en.wikipedia.org/wiki/Line_2_(Guangzhou_Metro)

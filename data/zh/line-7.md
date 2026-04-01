@@ -80,6 +80,27 @@
 2. 大学城所在的小岛有什么特别之处？
 3. 乘坐7号线到南端终点，你会到达哪个大型火车站？
 
+
+## 照片
+
+### 照片1
+
+[![广州地铁7号线相关列车外观照片1](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20B5%20train.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20B5%20train.jpg)
+
+- 说明：Guangzhou Metro B5 train。
+- 来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guangzhou%20Metro%20B5%20train.jpg)
+- 摄影师/作者：请查看 Wikimedia Commons 文件页。
+- 风险说明：低。来源为Wikimedia Commons开放授权资源，但外部链接可用性仍可能变化。
+
+### 照片2
+
+[![广州地铁7号线相关列车外观照片2](https://commons.wikimedia.org/wiki/Special:FilePath/B5%20Train%20(07x021-022)%20at%20Guangzhou%20CRRC%20Base,%20Guangzhou%20Metro%2020230626.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/B5%20Train%20(07x021-022)%20at%20Guangzhou%20CRRC%20Base,%20Guangzhou%20Metro%2020230626.jpg)
+
+- 说明：B5 Train (07x021-022) at Guangzhou CRRC Base, Guangzhou Metro 20230626。
+- 来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:B5%20Train%20(07x021-022)%20at%20Guangzhou%20CRRC%20Base,%20Guangzhou%20Metro%2020230626.jpg)
+- 摄影师/作者：请查看 Wikimedia Commons 文件页。
+- 风险说明：低。来源为Wikimedia Commons开放授权资源，但外部链接可用性仍可能变化。
+
 ## 来源
 
 - 广州地铁官方网站：https://www.gzmtr.com

@@ -65,6 +65,35 @@
 2. 18号线列车的最高时速是多少？
 3. 18号线的隧道穿越了多少条河流？
 
+## 照片
+
+### 照片1
+
+[![2021年的广州地铁18号线列车](http://www.trainnets.com/wp-content/uploads/2022/04/GZL18-zjl7719.jpg)](http://www.trainnets.com/wp-content/uploads/2022/04/GZL18-zjl7719.jpg)
+
+- 说明：2021年。广州地铁18号线列车。（图/赵家乐）
+- 来源：[TrainNets](https://www.trainnets.com/archives/55949)
+- 摄影师/作者：赵家乐。
+- 风险说明：中。图片来自公开网页，页面未清楚说明可再利用授权，且外部链接可用性仍可能变化。
+
+### 照片2
+
+[![2021年9月在北京环形铁道试验的广州地铁18号线列车](http://www.trainnets.com/wp-content/uploads/2022/04/GZL18-guanbj.jpg)](http://www.trainnets.com/wp-content/uploads/2022/04/GZL18-guanbj.jpg)
+
+- 说明：2021年9月。北京环形铁道。正在试验的广州地铁18号线列车。（图/管俊鸿）
+- 来源：[TrainNets](https://www.trainnets.com/archives/55949)
+- 摄影师/作者：管俊鸿。
+- 风险说明：中。图片来自公开网页，页面未清楚说明可再利用授权，且外部链接可用性仍可能变化。
+
+### 照片3
+
+[![18号线相关列车外观照片3](https://commons.wikimedia.org/wiki/Special:FilePath/GZML18%20train%20at%20CARS%20Testing%20Track%20(20260306141401).jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/GZML18%20train%20at%20CARS%20Testing%20Track%20(20260306141401).jpg)
+
+- 说明：GZML18 train at CARS Testing Track (20260306141401)。
+- 来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:GZML18%20train%20at%20CARS%20Testing%20Track%20(20260306141401).jpg)
+- 摄影师/作者：请查看 Wikimedia Commons 文件页。
+- 风险说明：低。来源为Wikimedia Commons开放授权资源，但外部链接可用性仍可能变化。
+
 ## 资料来源
 - Line 18 (Guangzhou Metro) - Wikipedia: https://en.wikipedia.org/wiki/Line_18_(Guangzhou_Metro)
 - 广州城市新闻 - gz.gov.cn: https://www.gz.gov.cn/guangzhouinternational/home/citynews/content/post_7815911.html

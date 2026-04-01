@@ -84,6 +84,36 @@ It is a great example of how metro and bus services can work together.
 2. What famous building can you find near Zhujiang New Town station?
 3. Which direction does Line 5 run across the city?
 
+
+## Photos
+
+### Photo 1
+
+[![Guangzhou Metro Line 5 CSR Sifang L2 Train 023024 arriving Tanwei Station 2018 01](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20Line%205%20CSR%20Sifang%20L2%20Train%20023024%20arriving%20Tanwei%20Station%202018%2001.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20Line%205%20CSR%20Sifang%20L2%20Train%20023024%20arriving%20Tanwei%20Station%202018%2001.jpg)
+
+- Caption: Guangzhou Metro Line 5 CSR Sifang L2 Train 023024 arriving Tanwei Station 2018 01.
+- Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guangzhou%20Metro%20Line%205%20CSR%20Sifang%20L2%20Train%20023024%20arriving%20Tanwei%20Station%202018%2001.jpg)
+- Photographer/Author: See Wikimedia Commons file page.
+- Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
+
+### Photo 2
+
+[![Guangzhou Metro Line 5 CSR Sifang L4-I Train 099100 arriving Tanwei Station 2018 01](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20Line%205%20CSR%20Sifang%20L4-I%20Train%20099100%20arriving%20Tanwei%20Station%202018%2001.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20Line%205%20CSR%20Sifang%20L4-I%20Train%20099100%20arriving%20Tanwei%20Station%202018%2001.jpg)
+
+- Caption: Guangzhou Metro Line 5 CSR Sifang L4-I Train 099100 arriving Tanwei Station 2018 01.
+- Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guangzhou%20Metro%20Line%205%20CSR%20Sifang%20L4-I%20Train%20099100%20arriving%20Tanwei%20Station%202018%2001.jpg)
+- Photographer/Author: See Wikimedia Commons file page.
+- Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
+
+### Photo 3
+
+[![Guangzhou Metro Line 5 CSR Sifang L4-II Train 113114 arriving Tanwei Station 2018 01](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20Line%205%20CSR%20Sifang%20L4-II%20Train%20113114%20arriving%20Tanwei%20Station%202018%2001.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20Line%205%20CSR%20Sifang%20L4-II%20Train%20113114%20arriving%20Tanwei%20Station%202018%2001.jpg)
+
+- Caption: Guangzhou Metro Line 5 CSR Sifang L4-II Train 113114 arriving Tanwei Station 2018 01.
+- Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guangzhou%20Metro%20Line%205%20CSR%20Sifang%20L4-II%20Train%20113114%20arriving%20Tanwei%20Station%202018%2001.jpg)
+- Photographer/Author: See Wikimedia Commons file page.
+- Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
+
 ## Sources
 
 - Line 5 (Guangzhou Metro) - Wikipedia: https://en.wikipedia.org/wiki/Line_5_(Guangzhou_Metro)

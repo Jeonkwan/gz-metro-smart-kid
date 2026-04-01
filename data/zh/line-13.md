@@ -103,6 +103,35 @@
 2. 和广州其他地铁线路相比，13号线的列车有什么特别之处？
 3. 13号线沿途的南海神庙有多少年历史？那里每年举办什么著名的节日活动？
 
+## 照片
+
+### 照片1
+
+[![13号线相关列车外观照片1](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20A7%20train%20at%20Guanhu%20Depot-A%2020240416.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20A7%20train%20at%20Guanhu%20Depot-A%2020240416.jpg)
+
+- 说明：Guangzhou Metro A7 train at Guanhu Depot-A 20240416。
+- 来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guangzhou%20Metro%20A7%20train%20at%20Guanhu%20Depot-A%2020240416.jpg)
+- 摄影师/作者：请查看 Wikimedia Commons 文件页。
+- 风险说明：低。来源为Wikimedia Commons开放授权资源，但外部链接可用性仍可能变化。
+
+### 照片2
+
+[![2022年3月1日鱼珠站折返线中的广州地铁13号线列车](http://www.trainnets.com/wp-content/uploads/2022/04/lvjiechen-2204221.jpg)](http://www.trainnets.com/wp-content/uploads/2022/04/lvjiechen-2204221.jpg)
+
+- 说明：2022年3月1日。鱼珠站折返线中的广州地铁13号线列车。
+- 来源：[TrainNets](https://www.trainnets.com/archives/56225)
+- 摄影师/作者：吕杰琛。
+- 风险说明：中。图片来自公开网页，页面未清楚说明可再利用授权，且外部链接可用性仍可能变化。
+
+### 照片3
+
+[![2017年12月试乘活动中的13号线列车](https://pic.nfapp.southcn.com/nfplus/ossfs/pic/xy/201712/19/358f33b6-1bde-4d38-bad0-fd787b784f43.jpg)](https://pic.nfapp.southcn.com/nfplus/ossfs/pic/xy/201712/19/358f33b6-1bde-4d38-bad0-fd787b784f43.jpg)
+
+- 说明：2017年12月试乘活动中的13号线列车。
+- 来源：[南方Plus](https://pc.nfnews.com/2343/856030.html)
+- 摄影师/作者：符超军。
+- 风险说明：中。图片来自公开网页，页面未清楚说明可再利用授权，且外部链接可用性仍可能变化。
+
 ## 参考资料
 
 - 维基百科 — 广州地铁13号线：https://en.wikipedia.org/wiki/Line_13_(Guangzhou_Metro)

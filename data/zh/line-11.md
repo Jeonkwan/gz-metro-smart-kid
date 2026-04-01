@@ -84,6 +84,35 @@
 2. 乘坐11号线绕完整一圈需要多长时间？
 3. 说出11号线某一站的一种文化主题。
 
+## 照片
+
+### 照片1
+
+[![广州地铁11号线相关列车外观照片1](https://commons.wikimedia.org/wiki/Special:FilePath/A9%20Train%20(11x063-064)%20leaving%20Chisha%20Station,%20Guangzhou%20Metro%2020250112-2.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/A9%20Train%20(11x063-064)%20leaving%20Chisha%20Station,%20Guangzhou%20Metro%2020250112-2.jpg)
+
+- 说明：A9 Train (11x063-064) leaving Chisha Station, Guangzhou Metro 20250112-2。
+- 来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A9%20Train%20(11x063-064)%20leaving%20Chisha%20Station,%20Guangzhou%20Metro%2020250112-2.jpg)
+- 摄影师/作者：请查看 Wikimedia Commons 文件页。
+- 风险说明：低。来源为Wikimedia Commons开放授权资源，但外部链接可用性仍可能变化。
+
+### 照片2
+
+[![2024年1月到达赤沙车辆段的广州地铁11号线首列车](https://p5.itc.cn/q_70/images01/20240103/1dee45663b824288a8e53e298a7c692c.png)](https://p5.itc.cn/q_70/images01/20240103/1dee45663b824288a8e53e298a7c692c.png)
+
+- 说明：2024年1月到达赤沙车辆段的广州地铁11号线首列车。
+- 来源：[搜狐](https://www.sohu.com/a/749240699_593926)
+- 摄影师/作者：来源账号“有我有料”；页面未注明摄影师。
+- 风险说明：中。图片来自公开网页，页面未清楚说明可再利用授权，且外部链接可用性仍可能变化。
+
+### 照片3
+
+[![2024年1月到达赤沙车辆段的广州地铁11号线首列车另一视角](https://p1.itc.cn/q_70/images01/20240103/7bb6a3f67f4544f68632ecf9a5c48867.png)](https://p1.itc.cn/q_70/images01/20240103/7bb6a3f67f4544f68632ecf9a5c48867.png)
+
+- 说明：2024年1月到达赤沙车辆段的广州地铁11号线首列车另一视角。
+- 来源：[搜狐](https://www.sohu.com/a/749240699_593926)
+- 摄影师/作者：来源账号“有我有料”；页面未注明摄影师。
+- 风险说明：中。图片来自公开网页，页面未清楚说明可再利用授权，且外部链接可用性仍可能变化。
+
 ## 参考资料
 
 - 广州地铁11号线 - 维基百科：https://en.wikipedia.org/wiki/Line_11_(Guangzhou_Metro)

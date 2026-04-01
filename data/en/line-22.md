@@ -86,6 +86,36 @@ You can ride Line 22 all the way here, then hop onto a ferry to cross the sea!
 2. What kind of line is Line 22 — a regular metro or an express?
 3. Where can you catch a ferry to Hong Kong or Macau at the southern end of Line 22?
 
+
+## Photos
+
+### Photo 1
+
+[![Guangzhou Metro D train(Line22) at Dazhou Depot](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20D%20train(Line22)%20at%20Dazhou%20Depot.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20D%20train(Line22)%20at%20Dazhou%20Depot.jpg)
+
+- Caption: Guangzhou Metro D train(Line22) at Dazhou Depot.
+- Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guangzhou%20Metro%20D%20train(Line22)%20at%20Dazhou%20Depot.jpg)
+- Photographer/Author: See Wikimedia Commons file page.
+- Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
+
+### Photo 2
+
+[![A Guangzhou Metro Line 22 train featured in the opening-day report on 31 March 2022](http://inews.gtimg.com/newsapp_bt/0/14690388932/1000)](http://inews.gtimg.com/newsapp_bt/0/14690388932/1000)
+
+- Caption: A Guangzhou Metro Line 22 train featured in the opening-day report on 31 March 2022.
+- Source: [QQ News](https://news.qq.com/rain/a/20220331A09GEE00)
+- Photographer/Author: Nanfang Plus.
+- Risk note: Medium. Public web image from QQ News; licensing or reuse terms are not clearly stated on the page, and external link availability may change.
+
+### Photo 3
+
+[![A Guangzhou Metro Line 22 train completed assembly and was parked at CRRC Guangzhou Nanzhou Plant on 4 October 2020](http://www.trainnets.com/wp-content/uploads/2020/12/panxingtianlu-1221-21.jpg)](http://www.trainnets.com/wp-content/uploads/2020/12/panxingtianlu-1221-21.jpg)
+
+- Caption: A Guangzhou Metro Line 22 train completed assembly and was parked at CRRC Guangzhou Nanzhou Plant on 4 October 2020.
+- Source: [TrainNets](https://www.trainnets.com/archives/48377)
+- Photographer/Author: Pan Xingtianlu.
+- Risk note: Medium. Public web image from TrainNets; licensing or reuse terms are not clearly stated on the page, and external link availability may change.
+
 ## Sources
 
 - Guangzhou Metro official website: https://www.gzmtr.com

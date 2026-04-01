@@ -75,6 +75,35 @@
 2. 陈家祠站附近可以参观哪一座博物馆？
 3. 为什么公园前站在地铁网络里很重要？
 
+## 照片
+
+### 照片1
+
+[![广州地铁1号线相关列车外观照片1](https://commons.wikimedia.org/wiki/Special:FilePath/A1%20Train%20(1x25-26)%20leaving%20Kengkou%20Station,%20Guangzhou%20Metro%2020191013-A.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/A1%20Train%20(1x25-26)%20leaving%20Kengkou%20Station,%20Guangzhou%20Metro%2020191013-A.jpg)
+
+- 说明：A1 Train (1x25-26) leaving Kengkou Station, Guangzhou Metro 20191013-A。
+- 来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A1%20Train%20(1x25-26)%20leaving%20Kengkou%20Station,%20Guangzhou%20Metro%2020191013-A.jpg)
+- 摄影师/作者：请查看 Wikimedia Commons 文件页。
+- 风险说明：低。来源为Wikimedia Commons开放授权资源，但外部链接可用性仍可能变化。
+
+### 照片2
+
+[![广州地铁1号线相关列车外观照片2](https://commons.wikimedia.org/wiki/Special:FilePath/A1%20Train%20at%20Huadiwan%20Station,%20Guangzhou%20Metro%2020191013.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/A1%20Train%20at%20Huadiwan%20Station,%20Guangzhou%20Metro%2020191013.jpg)
+
+- 说明：A1 Train at Huadiwan Station, Guangzhou Metro 20191013。
+- 来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A1%20Train%20at%20Huadiwan%20Station,%20Guangzhou%20Metro%2020191013.jpg)
+- 摄影师/作者：请查看 Wikimedia Commons 文件页。
+- 风险说明：低。来源为Wikimedia Commons开放授权资源，但外部链接可用性仍可能变化。
+
+### 照片3
+
+[![广州地铁1号线相关列车外观照片3](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20A1%20Train%20Leaving%20Xilang%20Station%20(8814180948).jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20A1%20Train%20Leaving%20Xilang%20Station%20(8814180948).jpg)
+
+- 说明：Guangzhou Metro A1 Train Leaving Xilang Station (8814180948)。
+- 来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guangzhou%20Metro%20A1%20Train%20Leaving%20Xilang%20Station%20(8814180948).jpg)
+- 摄影师/作者：请查看 Wikimedia Commons 文件页。
+- 风险说明：低。来源为Wikimedia Commons开放授权资源，但外部链接可用性仍可能变化。
+
 ## 来源
 
 - 广州地铁英文官网站点地图（网站地图）：https://www.gzmtr.com/en/site-map.html

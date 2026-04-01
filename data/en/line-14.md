@@ -72,6 +72,27 @@ Engineers, scientists, and students all gather here to create the future!
 2. What is Conghua most famous for?
 3. What makes Line 14's trains faster than regular city metro trains?
 
+
+## Photos
+
+### Photo 1
+
+[![Guangzhou Metro Line 14 B7 Train 14001-14002](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20Line%2014%20B7%20Train%2014001-14002.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20Line%2014%20B7%20Train%2014001-14002.jpg)
+
+- Caption: Guangzhou Metro Line 14 B7 Train 14001-14002.
+- Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guangzhou%20Metro%20Line%2014%20B7%20Train%2014001-14002.jpg)
+- Photographer/Author: See Wikimedia Commons file page.
+- Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
+
+### Photo 2
+
+[![Guangzhou Metro B7 train of Line 14](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20B7%20train%20of%20Line%2014.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20B7%20train%20of%20Line%2014.jpg)
+
+- Caption: Guangzhou Metro B7 train of Line 14.
+- Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guangzhou%20Metro%20B7%20train%20of%20Line%2014.jpg)
+- Photographer/Author: See Wikimedia Commons file page.
+- Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
+
 ## Sources
 - Line 14 (Guangzhou Metro) - Wikipedia: https://en.wikipedia.org/wiki/Line_14_(Guangzhou_Metro)
 - Guangzhou Metro Line 14 - TravelChinaGuide: https://www.travelchinaguide.com/cityguides/guangdong/guangzhou/metro-line14.htm

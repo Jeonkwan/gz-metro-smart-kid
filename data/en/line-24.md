@@ -24,3 +24,15 @@ Building a metro line under a city is one of the **hardest construction jobs** i
 Tangxi → ... → Longkeng → ... (and growing! ✨)
 ```
 Cream-colored like a blank page — this line's story is still being written!
+
+## Photos
+
+### Photo 1
+
+[![Exterior of A8 Train (08x213), Guangzhou Metro 20230701-A](https://commons.wikimedia.org/wiki/Special:FilePath/Exterior%20of%20A8%20Train%20(08x213),%20Guangzhou%20Metro%2020230701-A.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/Exterior%20of%20A8%20Train%20(08x213),%20Guangzhou%20Metro%2020230701-A.jpg)
+
+- Caption: Exterior of A8 Train (08x213), Guangzhou Metro 20230701-A.
+- Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Exterior%20of%20A8%20Train%20(08x213),%20Guangzhou%20Metro%2020230701-A.jpg)
+- Photographer/Author: See Wikimedia Commons file page.
+- Risk note: Temporary placeholder. Line 24 is not yet in passenger service, so a real Line 24 exterior vehicle photo is not available. This Guangzhou Metro train photo is only a stand-in until official Line 24 rolling stock images exist.
+

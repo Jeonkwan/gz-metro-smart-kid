@@ -82,6 +82,35 @@
 2. 为什么工人只能在夜晚施工改造西塱站？
 3. 10号线的列车有什么特别之处？
 
+## 照片
+
+### 照片1
+
+[![广州地铁10号线相关列车外观照片1](https://commons.wikimedia.org/wiki/Special:FilePath/B13%20Train%20(10x013-014)%20at%20Guangzhou%20CRRC%20Base,%20Guangzhou%20Metro%2020241026.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/B13%20Train%20(10x013-014)%20at%20Guangzhou%20CRRC%20Base,%20Guangzhou%20Metro%2020241026.jpg)
+
+- 说明：B13 Train (10x013-014) at Guangzhou CRRC Base, Guangzhou Metro 20241026。
+- 来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:B13%20Train%20(10x013-014)%20at%20Guangzhou%20CRRC%20Base,%20Guangzhou%20Metro%2020241026.jpg)
+- 摄影师/作者：请查看 Wikimedia Commons 文件页。
+- 风险说明：低。来源为Wikimedia Commons开放授权资源，但外部链接可用性仍可能变化。
+
+### 照片2
+
+[![广州地铁10号线相关列车外观照片2](https://commons.wikimedia.org/wiki/Special:FilePath/B13%20Train%20(10x031-032)%20at%20Xilang%20Station,%20Guangzhou%20Metro%2020250706.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/B13%20Train%20(10x031-032)%20at%20Xilang%20Station,%20Guangzhou%20Metro%2020250706.jpg)
+
+- 说明：B13 Train (10x031-032) at Xilang Station, Guangzhou Metro 20250706。
+- 来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:B13%20Train%20(10x031-032)%20at%20Xilang%20Station,%20Guangzhou%20Metro%2020250706.jpg)
+- 摄影师/作者：请查看 Wikimedia Commons 文件页。
+- 风险说明：低。来源为Wikimedia Commons开放授权资源，但外部链接可用性仍可能变化。
+
+### 照片3
+
+[![广州地铁10号线相关列车外观照片3](https://commons.wikimedia.org/wiki/Special:FilePath/B13%20Train%20(10x001-002)%20at%20Guanggang%20New%20Town%20Depot,%20Guangzhou%20Metro%2020250706.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/B13%20Train%20(10x001-002)%20at%20Guanggang%20New%20Town%20Depot,%20Guangzhou%20Metro%2020250706.jpg)
+
+- 说明：B13 Train (10x001-002) at Guanggang New Town Depot, Guangzhou Metro 20250706。
+- 来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:B13%20Train%20(10x001-002)%20at%20Guanggang%20New%20Town%20Depot,%20Guangzhou%20Metro%2020250706.jpg)
+- 摄影师/作者：请查看 Wikimedia Commons 文件页。
+- 风险说明：低。来源为Wikimedia Commons开放授权资源，但外部链接可用性仍可能变化。
+
 ## 参考资料
 
 - 广州地铁10号线 - 维基百科：https://en.wikipedia.org/wiki/Line_10_(Guangzhou_Metro)

@@ -70,6 +70,26 @@
 2. 从化最著名的是什么？
 3. 14号线的列车与普通地铁列车相比有什么特别之处？
 
+## 照片
+
+### 照片1
+
+[![14号线相关列车外观照片1](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20Line%2014%20B7%20Train%2014001-14002.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20Line%2014%20B7%20Train%2014001-14002.jpg)
+
+- 说明：Guangzhou Metro Line 14 B7 Train 14001-14002。
+- 来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guangzhou%20Metro%20Line%2014%20B7%20Train%2014001-14002.jpg)
+- 摄影师/作者：请查看 Wikimedia Commons 文件页。
+- 风险说明：低。来源为Wikimedia Commons开放授权资源，但外部链接可用性仍可能变化。
+
+### 照片2
+
+[![14号线相关列车外观照片2](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20B7%20train%20of%20Line%2014.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20B7%20train%20of%20Line%2014.jpg)
+
+- 说明：Guangzhou Metro B7 train of Line 14。
+- 来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guangzhou%20Metro%20B7%20train%20of%20Line%2014.jpg)
+- 摄影师/作者：请查看 Wikimedia Commons 文件页。
+- 风险说明：低。来源为Wikimedia Commons开放授权资源，但外部链接可用性仍可能变化。
+
 ## 资料来源
 - Line 14 (Guangzhou Metro) - Wikipedia: https://en.wikipedia.org/wiki/Line_14_(Guangzhou_Metro)
 - 广州地铁14号线 - TravelChinaGuide: https://www.travelchinaguide.com/cityguides/guangdong/guangzhou/metro-line14.htm

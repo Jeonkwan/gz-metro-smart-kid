@@ -87,6 +87,27 @@ It is very exciting to ride a metro train all the way to an airport!
 2. At which station does Line 3 split into two paths?
 3. Which airport does Line 3 reach at its northern end?
 
+
+## Photos
+
+### Photo 1
+
+[![CSR Zhuzhou-Siemens train of Line 3, Guangzhou Metro](https://commons.wikimedia.org/wiki/Special:FilePath/CSR%20Zhuzhou-Siemens%20train%20of%20Line%203,%20Guangzhou%20Metro.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/CSR%20Zhuzhou-Siemens%20train%20of%20Line%203,%20Guangzhou%20Metro.jpg)
+
+- Caption: CSR Zhuzhou-Siemens train of Line 3, Guangzhou Metro.
+- Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:CSR%20Zhuzhou-Siemens%20train%20of%20Line%203,%20Guangzhou%20Metro.jpg)
+- Photographer/Author: See Wikimedia Commons file page.
+- Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
+
+### Photo 2
+
+[![03x131-132 at Xiajiao Depot](https://commons.wikimedia.org/wiki/Special:FilePath/03x131-132%20at%20Xiajiao%20Depot.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/03x131-132%20at%20Xiajiao%20Depot.jpg)
+
+- Caption: 03x131-132 at Xiajiao Depot.
+- Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:03x131-132%20at%20Xiajiao%20Depot.jpg)
+- Photographer/Author: See Wikimedia Commons file page.
+- Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
+
 ## Sources
 
 - Line 3 (Guangzhou Metro) – Wikipedia: https://en.wikipedia.org/wiki/Line_3_(Guangzhou_Metro)

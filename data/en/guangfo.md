@@ -91,6 +91,27 @@ It is the newest part of the Guangfo Line and only opened in 2018.
 2. In what year did the first section of the Guangfo Line open?
 3. What can you find near Zumiao station?
 
+
+## Photos
+
+### Photo 1
+
+[![B3-I Train (GFx055-056) at Lijiao Station, Guangfo Metro 20250712](https://commons.wikimedia.org/wiki/Special:FilePath/B3-I%20Train%20(GFx055-056)%20at%20Lijiao%20Station,%20Guangfo%20Metro%2020250712.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/B3-I%20Train%20(GFx055-056)%20at%20Lijiao%20Station,%20Guangfo%20Metro%2020250712.jpg)
+
+- Caption: B3-I Train (GFx055-056) at Lijiao Station, Guangfo Metro 20250712.
+- Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:B3-I%20Train%20(GFx055-056)%20at%20Lijiao%20Station,%20Guangfo%20Metro%2020250712.jpg)
+- Photographer/Author: See Wikimedia Commons file page.
+- Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
+
+### Photo 2
+
+[![B3-II Train (GFx087-088) at Lijiao Station, Guangfo Metro 20250712](https://commons.wikimedia.org/wiki/Special:FilePath/B3-II%20Train%20(GFx087-088)%20at%20Lijiao%20Station,%20Guangfo%20Metro%2020250712.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/B3-II%20Train%20(GFx087-088)%20at%20Lijiao%20Station,%20Guangfo%20Metro%2020250712.jpg)
+
+- Caption: B3-II Train (GFx087-088) at Lijiao Station, Guangfo Metro 20250712.
+- Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:B3-II%20Train%20(GFx087-088)%20at%20Lijiao%20Station,%20Guangfo%20Metro%2020250712.jpg)
+- Photographer/Author: See Wikimedia Commons file page.
+- Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
+
 ## Sources
 
 - Guangfo line — Wikipedia: https://en.wikipedia.org/wiki/Guangfo_line

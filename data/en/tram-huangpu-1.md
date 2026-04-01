@@ -64,6 +64,36 @@ It makes it much easier for people to travel from Huangpu to other parts of Guan
 2. At which station can you transfer to Metro Line 6?
 3. About how many kilometres long is the tram line from end to end?
 
+
+## Photos
+
+### Photo 1
+
+[![THP1 105 at Changping Subway Station](https://commons.wikimedia.org/wiki/Special:FilePath/THP1%20105%20at%20Changping%20Subway%20Station.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/THP1%20105%20at%20Changping%20Subway%20Station.jpg)
+
+- Caption: THP1 105 at Changping Subway Station.
+- Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:THP1%20105%20at%20Changping%20Subway%20Station.jpg)
+- Photographer/Author: See Wikimedia Commons file page.
+- Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
+
+### Photo 2
+
+[![THP1 106 at Qiangdong Station, Guangzhou Tram 20220625](https://commons.wikimedia.org/wiki/Special:FilePath/THP1%20106%20at%20Qiangdong%20Station,%20Guangzhou%20Tram%2020220625.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/THP1%20106%20at%20Qiangdong%20Station,%20Guangzhou%20Tram%2020220625.jpg)
+
+- Caption: THP1 106 at Qiangdong Station, Guangzhou Tram 20220625.
+- Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:THP1%20106%20at%20Qiangdong%20Station,%20Guangzhou%20Tram%2020220625.jpg)
+- Photographer/Author: See Wikimedia Commons file page.
+- Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
+
+### Photo 3
+
+[![THP1 107 at Shuixi Subway Station 20210129](https://commons.wikimedia.org/wiki/Special:FilePath/THP1%20107%20at%20Shuixi%20Subway%20Station%2020210129.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/THP1%20107%20at%20Shuixi%20Subway%20Station%2020210129.jpg)
+
+- Caption: THP1 107 at Shuixi Subway Station 20210129.
+- Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:THP1%20107%20at%20Shuixi%20Subway%20Station%2020210129.jpg)
+- Photographer/Author: See Wikimedia Commons file page.
+- Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
+
 ## Sources
 - Line 1 (Guangzhou Huangpu Tram) - Wikipedia: https://en.wikipedia.org/wiki/Line_1_%28Guangzhou_Huangpu_Tram%29
 - MetroMan — Tram Huangpu Line 1: https://www.metroman.cn/en/cities/guangzhou/lines/tram-huangpu-line-1

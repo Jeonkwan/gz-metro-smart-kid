@@ -24,3 +24,15 @@
 棠溪 → … → 龙坑 → …（还在延伸！✨）
 ```
 奶油色如空白的画纸——这条线的故事还在书写！
+
+## 照片
+
+### 照片1
+
+[![24号线相关列车外观照片1](https://commons.wikimedia.org/wiki/Special:FilePath/Exterior%20of%20A8%20Train%20(08x213),%20Guangzhou%20Metro%2020230701-A.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/Exterior%20of%20A8%20Train%20(08x213),%20Guangzhou%20Metro%2020230701-A.jpg)
+
+- 说明：Exterior of A8 Train (08x213), Guangzhou Metro 20230701-A。
+- 来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Exterior%20of%20A8%20Train%20(08x213),%20Guangzhou%20Metro%2020230701-A.jpg)
+- 摄影师/作者：请查看 Wikimedia Commons 文件页。
+- 风险说明：临时占位。24号线尚未投入载客运营，目前没有真实的24号线列车外观照片。这张广州地铁列车照片仅作临时替代，待24号线官方列车照片出现后再更新。
+

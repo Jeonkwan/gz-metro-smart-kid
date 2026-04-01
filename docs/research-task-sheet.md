@@ -59,8 +59,15 @@ Simple explanations:
 - Best stations for engagement:
 - Candidate memory-check questions:
 
-## 7. Ready-to-Write Gate
+## 7. Photo Candidate Log
+| Photo target | Preview URL | Original URL | Source site | Source page URL | Photographer/Author | Source tier | Risk note |
+|---|---|---|---|---|---|---|---|
+|  |  |  |  |  |  | Official / Open license / Public web |  |
+
+## 8. Ready-to-Write Gate
 - [ ] Enough verified facts collected
 - [ ] Source links captured
 - [ ] Hard terms identified
 - [ ] Bilingual naming prepared
+- [ ] Photo candidates collected (2 to 3)
+- [ ] Source tier and risk notes recorded for each photo

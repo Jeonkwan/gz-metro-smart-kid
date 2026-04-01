@@ -84,6 +84,18 @@ Arriving here by metro means you can then board a fast train to places like Beij
 2. What theme does Shiwan Station celebrate?
 3. What is at the end of Line 2 in Guangzhou?
 
+
+## Photos
+
+### Photo 1
+
+[![F2 02x049-050 entering Linyue Xi Station, Foshan Metro 20230528](https://commons.wikimedia.org/wiki/Special:FilePath/F2%2002x049-050%20entering%20Linyue%20Xi%20Station,%20Foshan%20Metro%2020230528.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/F2%2002x049-050%20entering%20Linyue%20Xi%20Station,%20Foshan%20Metro%2020230528.jpg)
+
+- Caption: F2 02x049-050 entering Linyue Xi Station, Foshan Metro 20230528.
+- Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:F2%2002x049-050%20entering%20Linyue%20Xi%20Station,%20Foshan%20Metro%2020230528.jpg)
+- Photographer/Author: See Wikimedia Commons file page.
+- Risk note: Medium. Temporary one-photo fallback because only one clearly verified exterior vehicle photo was found in preferred sources.
+
 ## Sources
 
 - Line 2 (Foshan Metro) - Wikipedia: https://en.wikipedia.org/wiki/Line_2_(Foshan_Metro)

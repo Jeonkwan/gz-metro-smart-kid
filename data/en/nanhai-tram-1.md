@@ -66,6 +66,36 @@ This is the southern end of the line, where you can transfer to Foshan Metro Lin
 2. Which station can you use to transfer to the Guangfo Metro?
 3. What does the station name "Yuqijie" mean in English?
 
+
+## Photos
+
+### Photo 1
+
+[![TNH1 108 at Kangyi Park Station](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNH1_108_at_Kangyigongyuan_Station.jpg/1920px-TNH1_108_at_Kangyigongyuan_Station.jpg?_=20210818073641)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNH1_108_at_Kangyigongyuan_Station.jpg/1920px-TNH1_108_at_Kangyigongyuan_Station.jpg?_=20210818073641)
+
+- Caption: TNH1 108 at Kangyi Park Station.
+- Source: [Wikipedia](https://en.wikipedia.org/wiki/Line_1_%28Nanhai_Tram%29)
+- Photographer/Author: Not credited on the source page.
+- Risk note: Low. Wikimedia-hosted image linked from Wikipedia; external link availability may still change.
+
+### Photo 2
+
+[![The first train of the initial section of Nanhai Tram Line 1 on opening day](https://p1-mp.oeeee.com/202108/18/1244x1866_3e4badf66b91bc9ded8aab26ea4af241.jpg?x-oss-process=img/fmt/jpg/sw/800)](https://p1-mp.oeeee.com/202108/18/1244x1866_3e4badf66b91bc9ded8aab26ea4af241.jpg?x-oss-process=img/fmt/jpg/sw/800)
+
+- Caption: The first train of the initial section of Nanhai Tram Line 1 on opening day.
+- Source: [N Video](https://m.mp.oeeee.com/a/BAAFRD000020210818586354.html)
+- Photographer/Author: Southern Metropolis Daily reporters Zheng Junbin and He Huiwen.
+- Risk note: Medium. Public web image from N Video; licensing or reuse terms are not clearly stated on the page, and external link availability may change.
+
+### Photo 3
+
+[![TNH1 115 at Linyuedong Station, Foshan Tram 20230528](https://commons.wikimedia.org/wiki/Special:FilePath/TNH1%20115%20at%20Linyuedong%20Station,%20Foshan%20Tram%2020230528.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/TNH1%20115%20at%20Linyuedong%20Station,%20Foshan%20Tram%2020230528.jpg)
+
+- Caption: TNH1 115 at Linyuedong Station, Foshan Tram 20230528.
+- Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:TNH1%20115%20at%20Linyuedong%20Station,%20Foshan%20Tram%2020230528.jpg)
+- Photographer/Author: See Wikimedia Commons file page.
+- Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
+
 ## Sources
 - Line 1 (Nanhai Tram) - Wikipedia: https://en.wikipedia.org/wiki/Line_1_(Nanhai_Tram)
 - Baidu Baike — 南海有轨电车1号线: https://baike.baidu.com/item/%E5%8D%97%E6%B5%B7%E6%9C%89%E8%BD%A8%E7%94%B5%E8%BD%A61%E5%8F%B7%E7%BA%BF/58308023

@@ -58,6 +58,35 @@
 2. 黄埔有轨电车2号线的标识色是什么颜色？
 3. 在香雪站可以换乘哪条地铁线？
 
+## 照片
+
+### 照片1
+
+[![黄埔有轨电车2号线相关列车外观照片1](https://commons.wikimedia.org/wiki/Special:FilePath/THP2%20207%20at%20Kaiyuan%20Road%20East%20Station,%20Guangzhou%20Tram%2020231015-A.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/THP2%20207%20at%20Kaiyuan%20Road%20East%20Station,%20Guangzhou%20Tram%2020231015-A.jpg)
+
+- 说明：THP2 207 at Kaiyuan Road East Station, Guangzhou Tram 20231015-A。
+- 来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:THP2%20207%20at%20Kaiyuan%20Road%20East%20Station,%20Guangzhou%20Tram%2020231015-A.jpg)
+- 摄影师/作者：请查看 Wikimedia Commons 文件页。
+- 风险说明：低。来源为Wikimedia Commons开放授权资源，但外部链接可用性仍可能变化。
+
+### 照片2
+
+[![黄埔有轨电车2号线相关列车外观照片2](https://commons.wikimedia.org/wiki/Special:FilePath/THP2%20207%20at%20Kaiyuan%20Road%20East%20Station,%20Guangzhou%20Tram%2020231015-B.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/THP2%20207%20at%20Kaiyuan%20Road%20East%20Station,%20Guangzhou%20Tram%2020231015-B.jpg)
+
+- 说明：THP2 207 at Kaiyuan Road East Station, Guangzhou Tram 20231015-B。
+- 来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:THP2%20207%20at%20Kaiyuan%20Road%20East%20Station,%20Guangzhou%20Tram%2020231015-B.jpg)
+- 摄影师/作者：请查看 Wikimedia Commons 文件页。
+- 风险说明：低。来源为Wikimedia Commons开放授权资源，但外部链接可用性仍可能变化。
+
+### 照片3
+
+[![黄埔有轨电车2号线相关列车外观照片3](https://commons.wikimedia.org/wiki/Special:FilePath/THP2%20207%20at%20Kaiyuan%20Road%20East%20Station,%20Guangzhou%20Tram%2020231015-C.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/THP2%20207%20at%20Kaiyuan%20Road%20East%20Station,%20Guangzhou%20Tram%2020231015-C.jpg)
+
+- 说明：THP2 207 at Kaiyuan Road East Station, Guangzhou Tram 20231015-C。
+- 来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:THP2%20207%20at%20Kaiyuan%20Road%20East%20Station,%20Guangzhou%20Tram%2020231015-C.jpg)
+- 摄影师/作者：请查看 Wikimedia Commons 文件页。
+- 风险说明：低。来源为Wikimedia Commons开放授权资源，但外部链接可用性仍可能变化。
+
 ## 资料来源
 - Huangpu Tram Line 2 - Baidu Baike: https://baike.baidu.com/en/item/Huangpu%20Tram%20Line%202/62915
 - Guangzhou Tram - Wikiwand: https://www.wikiwand.com/en/articles/Guangzhou_Trams

@@ -84,6 +84,36 @@
 2. 哪个站把9号线和广州地铁主网络连接起来？
 3. 9号线最终是哪一年开通的？
 
+
+## 照片
+
+### 照片1
+
+[![广州地铁9号线相关列车外观照片1](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20B6%20train%20at%20Qishan%20Depot%2020240716-A.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20B6%20train%20at%20Qishan%20Depot%2020240716-A.jpg)
+
+- 说明：Guangzhou Metro B6 train at Qishan Depot 20240716-A。
+- 来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guangzhou%20Metro%20B6%20train%20at%20Qishan%20Depot%2020240716-A.jpg)
+- 摄影师/作者：请查看 Wikimedia Commons 文件页。
+- 风险说明：低。来源为Wikimedia Commons开放授权资源，但外部链接可用性仍可能变化。
+
+### 照片2
+
+[![2017年11月试运行期间的广州地铁9号线列车](https://k.sinaimg.cn/n/translate/20171120/Qkm4-fynwnty6060695.jpg/w700d1q75cms.jpg?by=cms_fixed_width)](https://k.sinaimg.cn/n/translate/20171120/Qkm4-fynwnty6060695.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+
+- 说明：2017年11月试运行期间的广州地铁9号线列车。
+- 来源：[新浪新闻](https://news.sina.cn/2017-11-20/detail-ifynwnty6060835.d.html?vt=4)
+- 摄影师/作者：来源页未注明。
+- 风险说明：中。图片来自公开网页，页面未清楚说明可再利用授权，且外部链接可用性仍可能变化。
+
+### 照片3
+
+[![2017年开通前试运行期间的广州地铁9号线列车](http://5b0988e595225.cdn.sohucs.com/images/20171122/16e312bfdb8a4cfb95de7484163180b4.jpeg)](http://5b0988e595225.cdn.sohucs.com/images/20171122/16e312bfdb8a4cfb95de7484163180b4.jpeg)
+
+- 说明：2017年开通前试运行期间的广州地铁9号线列车。
+- 来源：[搜狐](https://www.sohu.com/a/205788515_413535)
+- 摄影师/作者：触电TouchTV；编辑梁绮雅。
+- 风险说明：中。图片来自公开网页，页面未清楚说明可再利用授权，且外部链接可用性仍可能变化。
+
 ## 来源
 
 - 英文维基百科 - 广州地铁9号线：https://en.wikipedia.org/wiki/Line_9_(Guangzhou_Metro)

@@ -65,6 +65,26 @@
 2. 这列电车的供能方式有什么特别之处——为什么没有架空电线？
 3. 在万胜围站可以换乘哪两条地铁线？
 
+## 照片
+
+### 照片1
+
+[![海珠有轨电车相关列车外观照片1](https://commons.wikimedia.org/wiki/Special:FilePath/THZ1%20004%20at%20Canton%20Tower%20Station,%20Guangzhou%20Tram%2020241110.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/THZ1%20004%20at%20Canton%20Tower%20Station,%20Guangzhou%20Tram%2020241110.jpg)
+
+- 说明：THZ1 004 at Canton Tower Station, Guangzhou Tram 20241110。
+- 来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:THZ1%20004%20at%20Canton%20Tower%20Station,%20Guangzhou%20Tram%2020241110.jpg)
+- 摄影师/作者：请查看 Wikimedia Commons 文件页。
+- 风险说明：低。来源为Wikimedia Commons开放授权资源，但外部链接可用性仍可能变化。
+
+### 照片2
+
+[![海珠有轨电车相关列车外观照片2](https://commons.wikimedia.org/wiki/Special:FilePath/THZ1%20006%20leaving%20Party%20Pier%20Station,%20Guangzhou%20Tram%2020230701.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/THZ1%20006%20leaving%20Party%20Pier%20Station,%20Guangzhou%20Tram%2020230701.jpg)
+
+- 说明：THZ1 006 leaving Party Pier Station, Guangzhou Tram 20230701。
+- 来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:THZ1%20006%20leaving%20Party%20Pier%20Station,%20Guangzhou%20Tram%2020230701.jpg)
+- 摄影师/作者：请查看 Wikimedia Commons 文件页。
+- 风险说明：低。来源为Wikimedia Commons开放授权资源，但外部链接可用性仍可能变化。
+
 ## 资料来源
 - Haizhu Tram - Wikipedia: https://en.wikipedia.org/wiki/Haizhu_Tram
 - CRRC ZELC Europe — New Tram in Haizhu District, Guangzhou: https://crrczelc-europe.com/new-tram-guangzhou/

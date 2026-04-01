@@ -84,6 +84,27 @@
 2. 哪个车站连接了3号线与城际铁路和高铁？
 3. 3号线的车站里可以看到哪些文化主题？
 
+
+## 照片
+
+### 照片1
+
+[![佛山地铁3号线相关列车外观照片1](https://commons.wikimedia.org/wiki/Special:FilePath/F3%2003x087-088%20at%20Foshan%20University%20Station,%20Foshan%20Metro%2020240825.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/F3%2003x087-088%20at%20Foshan%20University%20Station,%20Foshan%20Metro%2020240825.jpg)
+
+- 说明：F3 03x087-088 at Foshan University Station, Foshan Metro 20240825。
+- 来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:F3%2003x087-088%20at%20Foshan%20University%20Station,%20Foshan%20Metro%2020240825.jpg)
+- 摄影师/作者：请查看 Wikimedia Commons 文件页。
+- 风险说明：低。来源为Wikimedia Commons开放授权资源，但外部链接可用性仍可能变化。
+
+### 照片2
+
+[![佛山地铁3号线相关列车外观照片2](https://commons.wikimedia.org/wiki/Special:FilePath/F3%2003x087-088%20entering%20Foshan%20University%20Station,%20Foshan%20Metro%2020240825.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/F3%2003x087-088%20entering%20Foshan%20University%20Station,%20Foshan%20Metro%2020240825.jpg)
+
+- 说明：F3 03x087-088 entering Foshan University Station, Foshan Metro 20240825。
+- 来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:F3%2003x087-088%20entering%20Foshan%20University%20Station,%20Foshan%20Metro%2020240825.jpg)
+- 摄影师/作者：请查看 Wikimedia Commons 文件页。
+- 风险说明：低。来源为Wikimedia Commons开放授权资源，但外部链接可用性仍可能变化。
+
 ## 来源
 
 - 英文维基百科 - 佛山地铁3号线：https://en.wikipedia.org/wiki/Line_3_(Foshan_Metro)

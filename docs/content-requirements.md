@@ -31,7 +31,20 @@ Each line must have exactly two files:
 7. Fun Facts
 8. Word Helper
 9. Memory Check
-10. Sources
+10. Photos
+11. Sources
+
+## Photos Section Rules
+- Add 2 to 3 photos for each line file.
+- Do not store photo binaries in this repo. Use external links only.
+- Each photo entry must include: preview image URL, original image URL, caption, source site name with link, photographer or author when available, and risk note.
+- Source priority:
+  1) Official operator/government pages
+  2) Openly licensed repositories such as Wikimedia Commons
+  3) Other public web sources only when needed
+- If source type (3) is used, include a clear risk note in both rendered content and research/QA notes.
+- Caption should name the verified station or landmark when possible.
+- EN and ZH photo entries must be fact-consistent and point to the same media URLs unless there is a documented reason to differ.
 
 ## Story Time Rules
 - Use this section to explain the background in a vivid, child-friendly way.

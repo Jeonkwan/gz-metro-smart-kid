@@ -62,6 +62,28 @@ Use this structure for both English and Chinese files.
 2. <Question 2>
 3. <Question 3>
 
+## Photos
+### Photo 1
+[![<Alt text>](<Preview image URL>)](<Original image URL>)
+- Caption: <Name the verified station/landmark when possible>
+- Source: [<Site name>](<Source page URL>)
+- Photographer/Author: <Name or Unknown>
+- Risk note: <None for preferred sources; explain risk if using non-preferred public web source>
+
+### Photo 2
+[![<Alt text>](<Preview image URL>)](<Original image URL>)
+- Caption: <...>
+- Source: [<Site name>](<Source page URL>)
+- Photographer/Author: <...>
+- Risk note: <...>
+
+### Photo 3 (optional)
+[![<Alt text>](<Preview image URL>)](<Original image URL>)
+- Caption: <...>
+- Source: [<Site name>](<Source page URL>)
+- Photographer/Author: <...>
+- Risk note: <...>
+
 ## Sources
 - <Source name>: <URL>
 - <Source name>: <URL>

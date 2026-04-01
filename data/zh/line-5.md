@@ -84,6 +84,36 @@
 2. 在珠江新城站附近可以看到哪座著名建筑？
 3. 5号线是沿哪个方向穿越广州的？
 
+
+## 照片
+
+### 照片1
+
+[![广州地铁5号线相关列车外观照片1](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20Line%205%20CSR%20Sifang%20L2%20Train%20023024%20arriving%20Tanwei%20Station%202018%2001.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20Line%205%20CSR%20Sifang%20L2%20Train%20023024%20arriving%20Tanwei%20Station%202018%2001.jpg)
+
+- 说明：Guangzhou Metro Line 5 CSR Sifang L2 Train 023024 arriving Tanwei Station 2018 01。
+- 来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guangzhou%20Metro%20Line%205%20CSR%20Sifang%20L2%20Train%20023024%20arriving%20Tanwei%20Station%202018%2001.jpg)
+- 摄影师/作者：请查看 Wikimedia Commons 文件页。
+- 风险说明：低。来源为Wikimedia Commons开放授权资源，但外部链接可用性仍可能变化。
+
+### 照片2
+
+[![广州地铁5号线相关列车外观照片2](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20Line%205%20CSR%20Sifang%20L4-I%20Train%20099100%20arriving%20Tanwei%20Station%202018%2001.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20Line%205%20CSR%20Sifang%20L4-I%20Train%20099100%20arriving%20Tanwei%20Station%202018%2001.jpg)
+
+- 说明：Guangzhou Metro Line 5 CSR Sifang L4-I Train 099100 arriving Tanwei Station 2018 01。
+- 来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guangzhou%20Metro%20Line%205%20CSR%20Sifang%20L4-I%20Train%20099100%20arriving%20Tanwei%20Station%202018%2001.jpg)
+- 摄影师/作者：请查看 Wikimedia Commons 文件页。
+- 风险说明：低。来源为Wikimedia Commons开放授权资源，但外部链接可用性仍可能变化。
+
+### 照片3
+
+[![广州地铁5号线相关列车外观照片3](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20Line%205%20CSR%20Sifang%20L4-II%20Train%20113114%20arriving%20Tanwei%20Station%202018%2001.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20Line%205%20CSR%20Sifang%20L4-II%20Train%20113114%20arriving%20Tanwei%20Station%202018%2001.jpg)
+
+- 说明：Guangzhou Metro Line 5 CSR Sifang L4-II Train 113114 arriving Tanwei Station 2018 01。
+- 来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guangzhou%20Metro%20Line%205%20CSR%20Sifang%20L4-II%20Train%20113114%20arriving%20Tanwei%20Station%202018%2001.jpg)
+- 摄影师/作者：请查看 Wikimedia Commons 文件页。
+- 风险说明：低。来源为Wikimedia Commons开放授权资源，但外部链接可用性仍可能变化。
+
 ## 来源
 
 - 英文维基百科 - 广州地铁5号线：https://en.wikipedia.org/wiki/Line_5_(Guangzhou_Metro)

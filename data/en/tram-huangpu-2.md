@@ -61,6 +61,36 @@ It will also connect to Metro Line 13, linking Huangpu to even more of Guangzhou
 2. What colour is Huangpu Tram Line 2?
 3. Which metro line can you connect to at Xiangxue Station?
 
+
+## Photos
+
+### Photo 1
+
+[![THP2 207 at Kaiyuan Road East Station, Guangzhou Tram 20231015-A](https://commons.wikimedia.org/wiki/Special:FilePath/THP2%20207%20at%20Kaiyuan%20Road%20East%20Station,%20Guangzhou%20Tram%2020231015-A.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/THP2%20207%20at%20Kaiyuan%20Road%20East%20Station,%20Guangzhou%20Tram%2020231015-A.jpg)
+
+- Caption: THP2 207 at Kaiyuan Road East Station, Guangzhou Tram 20231015-A.
+- Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:THP2%20207%20at%20Kaiyuan%20Road%20East%20Station,%20Guangzhou%20Tram%2020231015-A.jpg)
+- Photographer/Author: See Wikimedia Commons file page.
+- Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
+
+### Photo 2
+
+[![THP2 207 at Kaiyuan Road East Station, Guangzhou Tram 20231015-B](https://commons.wikimedia.org/wiki/Special:FilePath/THP2%20207%20at%20Kaiyuan%20Road%20East%20Station,%20Guangzhou%20Tram%2020231015-B.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/THP2%20207%20at%20Kaiyuan%20Road%20East%20Station,%20Guangzhou%20Tram%2020231015-B.jpg)
+
+- Caption: THP2 207 at Kaiyuan Road East Station, Guangzhou Tram 20231015-B.
+- Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:THP2%20207%20at%20Kaiyuan%20Road%20East%20Station,%20Guangzhou%20Tram%2020231015-B.jpg)
+- Photographer/Author: See Wikimedia Commons file page.
+- Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
+
+### Photo 3
+
+[![THP2 207 at Kaiyuan Road East Station, Guangzhou Tram 20231015-C](https://commons.wikimedia.org/wiki/Special:FilePath/THP2%20207%20at%20Kaiyuan%20Road%20East%20Station,%20Guangzhou%20Tram%2020231015-C.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/THP2%20207%20at%20Kaiyuan%20Road%20East%20Station,%20Guangzhou%20Tram%2020231015-C.jpg)
+
+- Caption: THP2 207 at Kaiyuan Road East Station, Guangzhou Tram 20231015-C.
+- Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:THP2%20207%20at%20Kaiyuan%20Road%20East%20Station,%20Guangzhou%20Tram%2020231015-C.jpg)
+- Photographer/Author: See Wikimedia Commons file page.
+- Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
+
 ## Sources
 - Huangpu Tram Line 2 - Baidu Baike: https://baike.baidu.com/en/item/Huangpu%20Tram%20Line%202/62915
 - Guangzhou Tram - Wikiwand: https://www.wikiwand.com/en/articles/Guangzhou_Trams

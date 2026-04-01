@@ -84,6 +84,36 @@
 2. 21号线一期是哪一年哪一天开通的？
 3. "知城"是什么意思？
 
+
+## 照片
+
+### 照片1
+
+[![广州地铁21号线相关列车外观照片1](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20B8%20(21031032)%20arriving%20at%20Mali%20Station.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20B8%20(21031032)%20arriving%20at%20Mali%20Station.jpg)
+
+- 说明：Guangzhou Metro B8 (21031032) arriving at Mali Station。
+- 来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guangzhou%20Metro%20B8%20(21031032)%20arriving%20at%20Mali%20Station.jpg)
+- 摄影师/作者：请查看 Wikimedia Commons 文件页。
+- 风险说明：低。来源为Wikimedia Commons开放授权资源，但外部链接可用性仍可能变化。
+
+### 照片2
+
+[![广州地铁21号线相关列车外观照片2](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20B8%20train%20is%20arriving%20at%20Changping%20Station.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20B8%20train%20is%20arriving%20at%20Changping%20Station.jpg)
+
+- 说明：Guangzhou Metro B8 train is arriving at Changping Station。
+- 来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guangzhou%20Metro%20B8%20train%20is%20arriving%20at%20Changping%20Station.jpg)
+- 摄影师/作者：请查看 Wikimedia Commons 文件页。
+- 风险说明：低。来源为Wikimedia Commons开放授权资源，但外部链接可用性仍可能变化。
+
+### 照片3
+
+[![广州地铁21号线相关列车外观照片3](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20B8%20Train%20(21-5354)%20Arriving%20at%20Zhucun%20Station.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20B8%20Train%20(21-5354)%20Arriving%20at%20Zhucun%20Station.jpg)
+
+- 说明：Guangzhou Metro B8 Train (21-5354) Arriving at Zhucun Station。
+- 来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guangzhou%20Metro%20B8%20Train%20(21-5354)%20Arriving%20at%20Zhucun%20Station.jpg)
+- 摄影师/作者：请查看 Wikimedia Commons 文件页。
+- 风险说明：低。来源为Wikimedia Commons开放授权资源，但外部链接可用性仍可能变化。
+
 ## 来源
 
 - 广州地铁官方网站：https://www.gzmtr.com

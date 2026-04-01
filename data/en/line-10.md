@@ -82,6 +82,36 @@ At this station, you can also transfer to Line 11, the golden ring line.
 2. Why could workers only build at Xilang Station at night?
 3. What is special about how Line 10 trains operate?
 
+
+## Photos
+
+### Photo 1
+
+[![B13 Train (10x013-014) at Guangzhou CRRC Base, Guangzhou Metro 20241026](https://commons.wikimedia.org/wiki/Special:FilePath/B13%20Train%20(10x013-014)%20at%20Guangzhou%20CRRC%20Base,%20Guangzhou%20Metro%2020241026.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/B13%20Train%20(10x013-014)%20at%20Guangzhou%20CRRC%20Base,%20Guangzhou%20Metro%2020241026.jpg)
+
+- Caption: B13 Train (10x013-014) at Guangzhou CRRC Base, Guangzhou Metro 20241026.
+- Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:B13%20Train%20(10x013-014)%20at%20Guangzhou%20CRRC%20Base,%20Guangzhou%20Metro%2020241026.jpg)
+- Photographer/Author: See Wikimedia Commons file page.
+- Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
+
+### Photo 2
+
+[![B13 Train (10x031-032) at Xilang Station, Guangzhou Metro 20250706](https://commons.wikimedia.org/wiki/Special:FilePath/B13%20Train%20(10x031-032)%20at%20Xilang%20Station,%20Guangzhou%20Metro%2020250706.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/B13%20Train%20(10x031-032)%20at%20Xilang%20Station,%20Guangzhou%20Metro%2020250706.jpg)
+
+- Caption: B13 Train (10x031-032) at Xilang Station, Guangzhou Metro 20250706.
+- Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:B13%20Train%20(10x031-032)%20at%20Xilang%20Station,%20Guangzhou%20Metro%2020250706.jpg)
+- Photographer/Author: See Wikimedia Commons file page.
+- Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
+
+### Photo 3
+
+[![B13 Train (10x001-002) at Guanggang New Town Depot, Guangzhou Metro 20250706](https://commons.wikimedia.org/wiki/Special:FilePath/B13%20Train%20(10x001-002)%20at%20Guanggang%20New%20Town%20Depot,%20Guangzhou%20Metro%2020250706.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/B13%20Train%20(10x001-002)%20at%20Guanggang%20New%20Town%20Depot,%20Guangzhou%20Metro%2020250706.jpg)
+
+- Caption: B13 Train (10x001-002) at Guanggang New Town Depot, Guangzhou Metro 20250706.
+- Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:B13%20Train%20(10x001-002)%20at%20Guanggang%20New%20Town%20Depot,%20Guangzhou%20Metro%2020250706.jpg)
+- Photographer/Author: See Wikimedia Commons file page.
+- Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
+
 ## Sources
 
 - Line 10 (Guangzhou Metro) - Wikipedia: https://en.wikipedia.org/wiki/Line_10_(Guangzhou_Metro)

@@ -81,6 +81,18 @@
 2. 哪个车站可以直达著名的广交会场馆？
 3. 在万胜围站可以换乘什么交通工具？
 
+
+## 照片
+
+### 照片1
+
+[![一列在赤沙车辆段的A6型列车](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20A6%20train%20at%20Chisha%20Depot.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20A6%20train%20at%20Chisha%20Depot.jpg)
+
+- 说明：一列在赤沙车辆段的A6型列车。
+- 来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guangzhou_Metro_A6_train_at_Chisha_Depot.jpg)
+- 摄影师/作者：请查看 Wikimedia Commons 文件页。
+- 风险说明：低。来源为Wikimedia Commons开放授权资源，但外部链接可用性仍可能变化。
+
 ## 来源
 
 - 英文维基百科 - 广州地铁8号线：https://en.wikipedia.org/wiki/Line_8_(Guangzhou_Metro)

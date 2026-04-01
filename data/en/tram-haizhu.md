@@ -67,6 +67,27 @@ This is a busy interchange station that connects many parts of Guangzhou.
 2. What is special about the tram's energy system — why does it have no overhead wires?
 3. Which two metro lines can you transfer to at Wanshengwei?
 
+
+## Photos
+
+### Photo 1
+
+[![THZ1 004 at Canton Tower Station, Guangzhou Tram 20241110](https://commons.wikimedia.org/wiki/Special:FilePath/THZ1%20004%20at%20Canton%20Tower%20Station,%20Guangzhou%20Tram%2020241110.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/THZ1%20004%20at%20Canton%20Tower%20Station,%20Guangzhou%20Tram%2020241110.jpg)
+
+- Caption: THZ1 004 at Canton Tower Station, Guangzhou Tram 20241110.
+- Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:THZ1%20004%20at%20Canton%20Tower%20Station,%20Guangzhou%20Tram%2020241110.jpg)
+- Photographer/Author: See Wikimedia Commons file page.
+- Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
+
+### Photo 2
+
+[![THZ1 006 leaving Party Pier Station, Guangzhou Tram 20230701](https://commons.wikimedia.org/wiki/Special:FilePath/THZ1%20006%20leaving%20Party%20Pier%20Station,%20Guangzhou%20Tram%2020230701.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/THZ1%20006%20leaving%20Party%20Pier%20Station,%20Guangzhou%20Tram%2020230701.jpg)
+
+- Caption: THZ1 006 leaving Party Pier Station, Guangzhou Tram 20230701.
+- Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:THZ1%20006%20leaving%20Party%20Pier%20Station,%20Guangzhou%20Tram%2020230701.jpg)
+- Photographer/Author: See Wikimedia Commons file page.
+- Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
+
 ## Sources
 - Haizhu Tram - Wikipedia: https://en.wikipedia.org/wiki/Haizhu_Tram
 - CRRC ZELC Europe — New Tram in Haizhu District, Guangzhou: https://crrczelc-europe.com/new-tram-guangzhou/

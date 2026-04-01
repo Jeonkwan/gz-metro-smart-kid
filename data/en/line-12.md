@@ -94,6 +94,36 @@ This station also connects to Lines 4 and 7, so students can get anywhere in the
 2. What is special about the way Line 12 trains run — do they have a driver?
 3. Name one famous place on Ersha Island that Line 12 helped connect to the metro network for the very first time.
 
+
+## Photos
+
+### Photo 1
+
+[![A10 Train (12x005-006) and B12 Train (07x101-102) at Guangzhou CRRC Base, Guangzhou Metro 20240331](https://commons.wikimedia.org/wiki/Special:FilePath/A10%20Train%20(12x005-006)%20and%20B12%20Train%20(07x101-102)%20at%20Guangzhou%20CRRC%20Base,%20Guangzhou%20Metro%2020240331.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/A10%20Train%20(12x005-006)%20and%20B12%20Train%20(07x101-102)%20at%20Guangzhou%20CRRC%20Base,%20Guangzhou%20Metro%2020240331.jpg)
+
+- Caption: A10 Train (12x005-006) and B12 Train (07x101-102) at Guangzhou CRRC Base, Guangzhou Metro 20240331.
+- Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A10%20Train%20(12x005-006)%20and%20B12%20Train%20(07x101-102)%20at%20Guangzhou%20CRRC%20Base,%20Guangzhou%20Metro%2020240331.jpg)
+- Photographer/Author: See Wikimedia Commons file page.
+- Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
+
+### Photo 2
+
+[![A10 Train (12A093-B093) at Canton Fair Complex Area C, Guangzhou Metro 20251120-A](https://commons.wikimedia.org/wiki/Special:FilePath/A10%20Train%20(12A093-B093)%20at%20Canton%20Fair%20Complex%20Area%20C,%20Guangzhou%20Metro%2020251120-A.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/A10%20Train%20(12A093-B093)%20at%20Canton%20Fair%20Complex%20Area%20C,%20Guangzhou%20Metro%2020251120-A.jpg)
+
+- Caption: A10 Train (12A093-B093) at Canton Fair Complex Area C, Guangzhou Metro 20251120-A.
+- Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A10%20Train%20(12A093-B093)%20at%20Canton%20Fair%20Complex%20Area%20C,%20Guangzhou%20Metro%2020251120-A.jpg)
+- Photographer/Author: See Wikimedia Commons file page.
+- Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
+
+### Photo 3
+
+[![A10 Train (12x053-054) at Xunfenggang Station, Guangzhou Metro 20250706](https://commons.wikimedia.org/wiki/Special:FilePath/A10%20Train%20(12x053-054)%20at%20Xunfenggang%20Station,%20Guangzhou%20Metro%2020250706.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/A10%20Train%20(12x053-054)%20at%20Xunfenggang%20Station,%20Guangzhou%20Metro%2020250706.jpg)
+
+- Caption: A10 Train (12x053-054) at Xunfenggang Station, Guangzhou Metro 20250706.
+- Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A10%20Train%20(12x053-054)%20at%20Xunfenggang%20Station,%20Guangzhou%20Metro%2020250706.jpg)
+- Photographer/Author: See Wikimedia Commons file page.
+- Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
+
 ## Sources
 
 - Wikipedia — Line 12 (Guangzhou Metro): https://en.wikipedia.org/wiki/Line_12_(Guangzhou_Metro)

@@ -84,6 +84,36 @@ At Fangcun, you can switch to Line 1 and Line 22.
 2. How long does it take to go around the full ring?
 3. Name one cultural theme found at a Line 11 station.
 
+
+## Photos
+
+### Photo 1
+
+[![A9 Train (11x063-064) leaving Chisha Station, Guangzhou Metro 20250112-2](https://commons.wikimedia.org/wiki/Special:FilePath/A9%20Train%20(11x063-064)%20leaving%20Chisha%20Station,%20Guangzhou%20Metro%2020250112-2.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/A9%20Train%20(11x063-064)%20leaving%20Chisha%20Station,%20Guangzhou%20Metro%2020250112-2.jpg)
+
+- Caption: A9 Train (11x063-064) leaving Chisha Station, Guangzhou Metro 20250112-2.
+- Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A9%20Train%20(11x063-064)%20leaving%20Chisha%20Station,%20Guangzhou%20Metro%2020250112-2.jpg)
+- Photographer/Author: See Wikimedia Commons file page.
+- Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
+
+### Photo 2
+
+[![The first Guangzhou Metro Line 11 train after arriving at Chisha Depot in January 2024](https://p5.itc.cn/q_70/images01/20240103/1dee45663b824288a8e53e298a7c692c.png)](https://p5.itc.cn/q_70/images01/20240103/1dee45663b824288a8e53e298a7c692c.png)
+
+- Caption: The first Guangzhou Metro Line 11 train after arriving at Chisha Depot in January 2024.
+- Source: [Sohu](https://www.sohu.com/a/749240699_593926)
+- Photographer/Author: Source account 有我有料; photographer not credited on page.
+- Risk note: Medium. Public web image from Sohu; licensing or reuse terms are not clearly stated on the page, and external link availability may change.
+
+### Photo 3
+
+[![Another view of the first Guangzhou Metro Line 11 train at Chisha Depot in January 2024](https://p1.itc.cn/q_70/images01/20240103/7bb6a3f67f4544f68632ecf9a5c48867.png)](https://p1.itc.cn/q_70/images01/20240103/7bb6a3f67f4544f68632ecf9a5c48867.png)
+
+- Caption: Another view of the first Guangzhou Metro Line 11 train at Chisha Depot in January 2024.
+- Source: [Sohu](https://www.sohu.com/a/749240699_593926)
+- Photographer/Author: Source account 有我有料; photographer not credited on page.
+- Risk note: Medium. Public web image from Sohu; licensing or reuse terms are not clearly stated on the page, and external link availability may change.
+
 ## Sources
 
 - Line 11 (Guangzhou Metro) - Wikipedia: https://en.wikipedia.org/wiki/Line_11_(Guangzhou_Metro)

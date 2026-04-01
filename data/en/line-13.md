@@ -103,6 +103,36 @@ In the future, this station will also connect to Lines 16 and 20, making it an i
 2. What makes Line 13's trains special compared to other metro lines in Guangzhou?
 3. How old is the South Sea God Temple near Line 13, and what famous festival happens there each year?
 
+
+## Photos
+
+### Photo 1
+
+[![Guangzhou Metro A7 train at Guanhu Depot-A 20240416](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20A7%20train%20at%20Guanhu%20Depot-A%2020240416.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20A7%20train%20at%20Guanhu%20Depot-A%2020240416.jpg)
+
+- Caption: Guangzhou Metro A7 train at Guanhu Depot-A 20240416.
+- Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guangzhou%20Metro%20A7%20train%20at%20Guanhu%20Depot-A%2020240416.jpg)
+- Photographer/Author: See Wikimedia Commons file page.
+- Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
+
+### Photo 2
+
+[![A Guangzhou Metro Line 13 train on the turnback track at Yuzhu Station on 1 March 2022](http://www.trainnets.com/wp-content/uploads/2022/04/lvjiechen-2204221.jpg)](http://www.trainnets.com/wp-content/uploads/2022/04/lvjiechen-2204221.jpg)
+
+- Caption: A Guangzhou Metro Line 13 train on the turnback track at Yuzhu Station on 1 March 2022.
+- Source: [TrainNets](https://www.trainnets.com/archives/56225)
+- Photographer/Author: Lv Jiechen.
+- Risk note: Medium. Public web image from TrainNets; licensing or reuse terms are not clearly stated on the page, and external link availability may change.
+
+### Photo 3
+
+[![A Line 13 train during the preview ride before opening in December 2017](https://pic.nfapp.southcn.com/nfplus/ossfs/pic/xy/201712/19/358f33b6-1bde-4d38-bad0-fd787b784f43.jpg)](https://pic.nfapp.southcn.com/nfplus/ossfs/pic/xy/201712/19/358f33b6-1bde-4d38-bad0-fd787b784f43.jpg)
+
+- Caption: A Line 13 train during the preview ride before opening in December 2017.
+- Source: [Nanfang Plus](https://pc.nfnews.com/2343/856030.html)
+- Photographer/Author: Fu Chaojun.
+- Risk note: Medium. Public web image from Nanfang Plus; licensing or reuse terms are not clearly stated on the page, and external link availability may change.
+
 ## Sources
 
 - Wikipedia — Line 13 (Guangzhou Metro): https://en.wikipedia.org/wiki/Line_13_(Guangzhou_Metro)

@@ -85,6 +85,27 @@ The station area reflects the cultural richness of this part of Foshan.
 2. Which station connects Line 3 to intercity and high-speed trains?
 3. What cultural themes can you find in some Line 3 stations?
 
+
+## Photos
+
+### Photo 1
+
+[![F3 03x087-088 at Foshan University Station, Foshan Metro 20240825](https://commons.wikimedia.org/wiki/Special:FilePath/F3%2003x087-088%20at%20Foshan%20University%20Station,%20Foshan%20Metro%2020240825.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/F3%2003x087-088%20at%20Foshan%20University%20Station,%20Foshan%20Metro%2020240825.jpg)
+
+- Caption: F3 03x087-088 at Foshan University Station, Foshan Metro 20240825.
+- Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:F3%2003x087-088%20at%20Foshan%20University%20Station,%20Foshan%20Metro%2020240825.jpg)
+- Photographer/Author: See Wikimedia Commons file page.
+- Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
+
+### Photo 2
+
+[![F3 03x087-088 entering Foshan University Station, Foshan Metro 20240825](https://commons.wikimedia.org/wiki/Special:FilePath/F3%2003x087-088%20entering%20Foshan%20University%20Station,%20Foshan%20Metro%2020240825.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/F3%2003x087-088%20entering%20Foshan%20University%20Station,%20Foshan%20Metro%2020240825.jpg)
+
+- Caption: F3 03x087-088 entering Foshan University Station, Foshan Metro 20240825.
+- Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:F3%2003x087-088%20entering%20Foshan%20University%20Station,%20Foshan%20Metro%2020240825.jpg)
+- Photographer/Author: See Wikimedia Commons file page.
+- Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
+
 ## Sources
 
 - Line 3 (Foshan Metro) - Wikipedia: https://en.wikipedia.org/wiki/Line_3_(Foshan_Metro)

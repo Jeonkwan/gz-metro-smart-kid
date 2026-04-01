@@ -87,6 +87,27 @@
 2. 为什么大学生需要4号线？
 3. 4号线的南端终点在哪里，在那里可以做什么？
 
+
+## 照片
+
+### 照片1
+
+[![广州地铁4号线相关列车外观照片1](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20Line%204%20CRRC%20Sifang%20L5-Train.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20Line%204%20CRRC%20Sifang%20L5-Train.jpg)
+
+- 说明：Guangzhou Metro Line 4 CRRC Sifang L5-Train。
+- 来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guangzhou%20Metro%20Line%204%20CRRC%20Sifang%20L5-Train.jpg)
+- 摄影师/作者：请查看 Wikimedia Commons 文件页。
+- 风险说明：低。来源为Wikimedia Commons开放授权资源，但外部链接可用性仍可能变化。
+
+### 照片2
+
+[![广州地铁4号线相关列车外观照片2](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20Line%204%20CSR%20Sifang%20L1-Train.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20Line%204%20CSR%20Sifang%20L1-Train.jpg)
+
+- 说明：Guangzhou Metro Line 4 CSR Sifang L1-Train。
+- 来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guangzhou%20Metro%20Line%204%20CSR%20Sifang%20L1-Train.jpg)
+- 摄影师/作者：请查看 Wikimedia Commons 文件页。
+- 风险说明：低。来源为Wikimedia Commons开放授权资源，但外部链接可用性仍可能变化。
+
 ## 来源
 
 - 英文维基百科 - 广州地铁4号线：https://en.wikipedia.org/wiki/Line_4_(Guangzhou_Metro)

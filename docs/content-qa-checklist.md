@@ -11,6 +11,9 @@ Use this checklist before publishing each line pair.
 - [ ] Route and station claims are source-backed
 - [ ] At least two reliable sources used for core facts when possible
 - [ ] Sources are listed with readable names and working URLs
+- [ ] Photo links (preview and original) are reachable
+- [ ] Each photo has source site link and attribution metadata
+- [ ] Non-preferred public web photo sources include risk note in content and QA/research notes
 
 ## B. Child-Friendly Writing
 - [ ] Sentences are short and clear
@@ -29,6 +32,7 @@ Use this checklist before publishing each line pair.
 - [ ] Includes 3 to 6 important stations
 - [ ] Includes 3 to 8 fun facts
 - [ ] Includes 3 to 5 memory check questions
+- [ ] Includes Photos section with 2 to 3 entries
 - [ ] Includes Sources section
 
 ## D. Bilingual Consistency

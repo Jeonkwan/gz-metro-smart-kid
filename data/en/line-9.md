@@ -84,6 +84,36 @@ Gaozeng is the link that ties Line 9 to the whole Guangzhou metro network.
 2. Which station connects Line 9 to the rest of the Guangzhou metro network?
 3. What year did Line 9 finally open?
 
+
+## Photos
+
+### Photo 1
+
+[![Guangzhou Metro B6 train at Qishan Depot 20240716-A](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20B6%20train%20at%20Qishan%20Depot%2020240716-A.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20B6%20train%20at%20Qishan%20Depot%2020240716-A.jpg)
+
+- Caption: Guangzhou Metro B6 train at Qishan Depot 20240716-A.
+- Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guangzhou%20Metro%20B6%20train%20at%20Qishan%20Depot%2020240716-A.jpg)
+- Photographer/Author: See Wikimedia Commons file page.
+- Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
+
+### Photo 2
+
+[![A Guangzhou Metro Line 9 train during pre-opening trial operations in November 2017](https://k.sinaimg.cn/n/translate/20171120/Qkm4-fynwnty6060695.jpg/w700d1q75cms.jpg?by=cms_fixed_width)](https://k.sinaimg.cn/n/translate/20171120/Qkm4-fynwnty6060695.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+
+- Caption: A Guangzhou Metro Line 9 train during pre-opening trial operations in November 2017.
+- Source: [Sina News](https://news.sina.cn/2017-11-20/detail-ifynwnty6060835.d.html?vt=4)
+- Photographer/Author: Unknown on source page.
+- Risk note: Medium. Public web image from Sina News; licensing or reuse terms are not clearly stated on the page, and external link availability may change.
+
+### Photo 3
+
+[![A Guangzhou Metro Line 9 train during trial operations before opening in 2017](http://5b0988e595225.cdn.sohucs.com/images/20171122/16e312bfdb8a4cfb95de7484163180b4.jpeg)](http://5b0988e595225.cdn.sohucs.com/images/20171122/16e312bfdb8a4cfb95de7484163180b4.jpeg)
+
+- Caption: A Guangzhou Metro Line 9 train during trial operations before opening in 2017.
+- Source: [Sohu](https://www.sohu.com/a/205788515_413535)
+- Photographer/Author: TouchTV; editor Liang Qiya.
+- Risk note: Medium. Public web image from Sohu; licensing or reuse terms are not clearly stated on the page, and external link availability may change.
+
 ## Sources
 
 - Line 9 (Guangzhou Metro) - Wikipedia: https://en.wikipedia.org/wiki/Line_9_(Guangzhou_Metro)

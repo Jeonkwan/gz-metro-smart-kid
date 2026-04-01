@@ -66,6 +66,36 @@ Arriving here from Wanqingsha on an express train takes only about 30 minutes!
 2. What is the top speed of Line 18's trains?
 3. How many rivers do Line 18's tunnels cross?
 
+
+## Photos
+
+### Photo 1
+
+[![A Guangzhou Metro Line 18 train in 2021](http://www.trainnets.com/wp-content/uploads/2022/04/GZL18-zjl7719.jpg)](http://www.trainnets.com/wp-content/uploads/2022/04/GZL18-zjl7719.jpg)
+
+- Caption: A Guangzhou Metro Line 18 train in 2021. Photo by Zhao Jiale.
+- Source: [TrainNets](https://www.trainnets.com/archives/55949)
+- Photographer/Author: Zhao Jiale.
+- Risk note: Medium. Public web image from TrainNets; licensing or reuse terms are not clearly stated on the page, and external link availability may change.
+
+### Photo 2
+
+[![A Guangzhou Metro Line 18 train under testing at Beijing Ring Railway in September 2021](http://www.trainnets.com/wp-content/uploads/2022/04/GZL18-guanbj.jpg)](http://www.trainnets.com/wp-content/uploads/2022/04/GZL18-guanbj.jpg)
+
+- Caption: A Guangzhou Metro Line 18 train under testing at Beijing Ring Railway in September 2021. Photo by Guan Junhong.
+- Source: [TrainNets](https://www.trainnets.com/archives/55949)
+- Photographer/Author: Guan Junhong.
+- Risk note: Medium. Public web image from TrainNets; licensing or reuse terms are not clearly stated on the page, and external link availability may change.
+
+### Photo 3
+
+[![GZML18 train at CARS Testing Track (20260306141401)](https://commons.wikimedia.org/wiki/Special:FilePath/GZML18%20train%20at%20CARS%20Testing%20Track%20(20260306141401).jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/GZML18%20train%20at%20CARS%20Testing%20Track%20(20260306141401).jpg)
+
+- Caption: GZML18 train at CARS Testing Track (20260306141401).
+- Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:GZML18%20train%20at%20CARS%20Testing%20Track%20(20260306141401).jpg)
+- Photographer/Author: See Wikimedia Commons file page.
+- Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
+
 ## Sources
 - Line 18 (Guangzhou Metro) - Wikipedia: https://en.wikipedia.org/wiki/Line_18_(Guangzhou_Metro)
 - Guangzhou City News - gz.gov.cn: https://www.gz.gov.cn/guangzhouinternational/home/citynews/content/post_7815911.html

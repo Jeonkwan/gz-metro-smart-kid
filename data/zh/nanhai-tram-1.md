@@ -64,6 +64,35 @@
 2. 在哪一站可以换乘广佛地铁？
 3. "玉器街"这个站名的意思是什么？
 
+## 照片
+
+### 照片1
+
+[![南海有轨电车1号线相关列车外观照片1](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNH1_108_at_Kangyigongyuan_Station.jpg/1920px-TNH1_108_at_Kangyigongyuan_Station.jpg?_=20210818073641)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNH1_108_at_Kangyigongyuan_Station.jpg/1920px-TNH1_108_at_Kangyigongyuan_Station.jpg?_=20210818073641)
+
+- 说明：停靠在康怡公园站的南海有轨电车1号线108号电车。
+- 来源：[Wikipedia](https://en.wikipedia.org/wiki/Line_1_%28Nanhai_Tram%29)
+- 摄影师/作者：来源页未注明。
+- 风险说明：低。图片由Wikimedia托管并通过Wikipedia条目引用，但外部链接可用性仍可能变化。
+
+### 照片2
+
+[![南海有轨电车1号线首通段开通日的首班列车](https://p1-mp.oeeee.com/202108/18/1244x1866_3e4badf66b91bc9ded8aab26ea4af241.jpg?x-oss-process=img/fmt/jpg/sw/800)](https://p1-mp.oeeee.com/202108/18/1244x1866_3e4badf66b91bc9ded8aab26ea4af241.jpg?x-oss-process=img/fmt/jpg/sw/800)
+
+- 说明：南海有轨电车1号线首通段开通日的首班列车。
+- 来源：[南都N视频](https://m.mp.oeeee.com/a/BAAFRD000020210818586354.html)
+- 摄影师/作者：南方都市报记者郑俊彬、何惠文。
+- 风险说明：中。图片来自公开网页，页面未清楚说明可再利用授权，且外部链接可用性仍可能变化。
+
+### 照片3
+
+[![南海有轨电车1号线相关列车外观照片3](https://commons.wikimedia.org/wiki/Special:FilePath/TNH1%20115%20at%20Linyuedong%20Station,%20Foshan%20Tram%2020230528.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/TNH1%20115%20at%20Linyuedong%20Station,%20Foshan%20Tram%2020230528.jpg)
+
+- 说明：TNH1 115 at Linyuedong Station, Foshan Tram 20230528。
+- 来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:TNH1%20115%20at%20Linyuedong%20Station,%20Foshan%20Tram%2020230528.jpg)
+- 摄影师/作者：请查看 Wikimedia Commons 文件页。
+- 风险说明：低。来源为Wikimedia Commons开放授权资源，但外部链接可用性仍可能变化。
+
 ## 资料来源
 - Line 1 (Nanhai Tram) - Wikipedia: https://en.wikipedia.org/wiki/Line_1_(Nanhai_Tram)
 - Baidu Baike — 南海有轨电车1号线: https://baike.baidu.com/item/%E5%8D%97%E6%B5%B7%E6%9C%89%E8%BD%A8%E7%94%B5%E8%BD%A61%E5%8F%B7%E7%BA%BF/58308023

@@ -83,6 +83,18 @@
 2. 石湾站以什么主题进行装饰？
 3. 2号线在广州的终点站是哪里？
 
+
+## 照片
+
+### 照片1
+
+[![佛山地铁2号线相关列车外观照片1](https://commons.wikimedia.org/wiki/Special:FilePath/F2%2002x049-050%20entering%20Linyue%20Xi%20Station,%20Foshan%20Metro%2020230528.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/F2%2002x049-050%20entering%20Linyue%20Xi%20Station,%20Foshan%20Metro%2020230528.jpg)
+
+- 说明：F2 02x049-050 entering Linyue Xi Station, Foshan Metro 20230528。
+- 来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:F2%2002x049-050%20entering%20Linyue%20Xi%20Station,%20Foshan%20Metro%2020230528.jpg)
+- 摄影师/作者：请查看 Wikimedia Commons 文件页。
+- 风险说明：中。当前仅在优先来源中找到一张明确可验证的列车外观照片，因此暂时采用单张照片方案。
+
 ## 来源
 
 - 英文维基百科 - 佛山地铁2号线：https://en.wikipedia.org/wiki/Line_2_(Foshan_Metro)

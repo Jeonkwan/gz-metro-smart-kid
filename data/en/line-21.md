@@ -84,6 +84,36 @@ It was built as a joint project between China and Singapore.
 2. When did Line 21 Phase 1 open?
 3. What does "Zhicheng" (知城) mean in English?
 
+
+## Photos
+
+### Photo 1
+
+[![Guangzhou Metro B8 (21031032) arriving at Mali Station](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20B8%20(21031032)%20arriving%20at%20Mali%20Station.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20B8%20(21031032)%20arriving%20at%20Mali%20Station.jpg)
+
+- Caption: Guangzhou Metro B8 (21031032) arriving at Mali Station.
+- Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guangzhou%20Metro%20B8%20(21031032)%20arriving%20at%20Mali%20Station.jpg)
+- Photographer/Author: See Wikimedia Commons file page.
+- Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
+
+### Photo 2
+
+[![Guangzhou Metro B8 train is arriving at Changping Station](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20B8%20train%20is%20arriving%20at%20Changping%20Station.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20B8%20train%20is%20arriving%20at%20Changping%20Station.jpg)
+
+- Caption: Guangzhou Metro B8 train is arriving at Changping Station.
+- Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guangzhou%20Metro%20B8%20train%20is%20arriving%20at%20Changping%20Station.jpg)
+- Photographer/Author: See Wikimedia Commons file page.
+- Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
+
+### Photo 3
+
+[![Guangzhou Metro B8 Train (21-5354) Arriving at Zhucun Station](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20B8%20Train%20(21-5354)%20Arriving%20at%20Zhucun%20Station.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20B8%20Train%20(21-5354)%20Arriving%20at%20Zhucun%20Station.jpg)
+
+- Caption: Guangzhou Metro B8 Train (21-5354) Arriving at Zhucun Station.
+- Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guangzhou%20Metro%20B8%20Train%20(21-5354)%20Arriving%20at%20Zhucun%20Station.jpg)
+- Photographer/Author: See Wikimedia Commons file page.
+- Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
+
 ## Sources
 
 - Guangzhou Metro official website: https://www.gzmtr.com

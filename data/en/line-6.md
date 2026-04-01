@@ -80,6 +80,36 @@ It is a great place to explore history from two different parts of the world in 
 2. What is special about the buildings near Dongshan Kou station?
 3. Which two cities does Line 6's western extension connect?
 
+
+## Photos
+
+### Photo 1
+
+[![Guangzhou Metro Line 6 CRRC Guangdong Train 105106, Testing in Shabei Station(20200411)](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20Line%206%20CRRC%20Guangdong%20Train%20105106,%20Testing%20in%20Shabei%20Station(20200411).jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20Line%206%20CRRC%20Guangdong%20Train%20105106,%20Testing%20in%20Shabei%20Station(20200411).jpg)
+
+- Caption: Guangzhou Metro Line 6 CRRC Guangdong Train 105106, Testing in Shabei Station(20200411).
+- Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guangzhou%20Metro%20Line%206%20CRRC%20Guangdong%20Train%20105106,%20Testing%20in%20Shabei%20Station(20200411).jpg)
+- Photographer/Author: See Wikimedia Commons file page.
+- Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
+
+### Photo 2
+
+[![Guangzhou Metro Line 6 train in July 2013](http://www.trainnets.com/wp-content/uploads/2016/07/GZL6-zeonerv-DSC_3796.jpg)](http://www.trainnets.com/wp-content/uploads/2016/07/GZL6-zeonerv-DSC_3796.jpg)
+
+- Caption: Guangzhou Metro Line 6 train in July 2013. Photo by ZEONerV.
+- Source: [TrainNets](https://www.trainnets.com/archives/14900)
+- Photographer/Author: ZEONerV.
+- Risk note: Medium. Public web image from TrainNets; licensing or reuse terms are not clearly stated on the page, and external link availability may change.
+
+### Photo 3
+
+[![Running on the Xunfeng Gang To Hengsha section of Guangzhou Metro Line 6](https://commons.wikimedia.org/wiki/Special:FilePath/Running%20on%20the%20Xunfeng%20Gang%20To%20Hengsha%20section%20of%20Guangzhou%20Metro%20Line%206.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/Running%20on%20the%20Xunfeng%20Gang%20To%20Hengsha%20section%20of%20Guangzhou%20Metro%20Line%206.jpg)
+
+- Caption: Running on the Xunfeng Gang To Hengsha section of Guangzhou Metro Line 6.
+- Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Running%20on%20the%20Xunfeng%20Gang%20To%20Hengsha%20section%20of%20Guangzhou%20Metro%20Line%206.jpg)
+- Photographer/Author: See Wikimedia Commons file page.
+- Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
+
 ## Sources
 
 - Guangzhou Metro official site: https://www.gzmtr.com

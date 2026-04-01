@@ -80,6 +80,27 @@ Xilang is a very useful crossroads for many different journeys!
 2. What is special about the island where University Town is located?
 3. Which big railway station can you reach at the southern end of Line 7?
 
+
+## Photos
+
+### Photo 1
+
+[![Guangzhou Metro B5 train](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20B5%20train.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/Guangzhou%20Metro%20B5%20train.jpg)
+
+- Caption: Guangzhou Metro B5 train.
+- Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guangzhou%20Metro%20B5%20train.jpg)
+- Photographer/Author: See Wikimedia Commons file page.
+- Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
+
+### Photo 2
+
+[![B5 Train (07x021-022) at Guangzhou CRRC Base, Guangzhou Metro 20230626](https://commons.wikimedia.org/wiki/Special:FilePath/B5%20Train%20(07x021-022)%20at%20Guangzhou%20CRRC%20Base,%20Guangzhou%20Metro%2020230626.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/B5%20Train%20(07x021-022)%20at%20Guangzhou%20CRRC%20Base,%20Guangzhou%20Metro%2020230626.jpg)
+
+- Caption: B5 Train (07x021-022) at Guangzhou CRRC Base, Guangzhou Metro 20230626.
+- Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:B5%20Train%20(07x021-022)%20at%20Guangzhou%20CRRC%20Base,%20Guangzhou%20Metro%2020230626.jpg)
+- Photographer/Author: See Wikimedia Commons file page.
+- Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
+
 ## Sources
 
 - Guangzhou Metro official site: https://www.gzmtr.com

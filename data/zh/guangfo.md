@@ -91,6 +91,27 @@
 2. 广佛线首通段是哪一年开通的？
 3. 祖庙站附近可以参观什么著名景点？
 
+
+## 照片
+
+### 照片1
+
+[![广佛线相关列车外观照片1](https://commons.wikimedia.org/wiki/Special:FilePath/B3-I%20Train%20(GFx055-056)%20at%20Lijiao%20Station,%20Guangfo%20Metro%2020250712.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/B3-I%20Train%20(GFx055-056)%20at%20Lijiao%20Station,%20Guangfo%20Metro%2020250712.jpg)
+
+- 说明：B3-I Train (GFx055-056) at Lijiao Station, Guangfo Metro 20250712。
+- 来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:B3-I%20Train%20(GFx055-056)%20at%20Lijiao%20Station,%20Guangfo%20Metro%2020250712.jpg)
+- 摄影师/作者：请查看 Wikimedia Commons 文件页。
+- 风险说明：低。来源为Wikimedia Commons开放授权资源，但外部链接可用性仍可能变化。
+
+### 照片2
+
+[![广佛线相关列车外观照片2](https://commons.wikimedia.org/wiki/Special:FilePath/B3-II%20Train%20(GFx087-088)%20at%20Lijiao%20Station,%20Guangfo%20Metro%2020250712.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/B3-II%20Train%20(GFx087-088)%20at%20Lijiao%20Station,%20Guangfo%20Metro%2020250712.jpg)
+
+- 说明：B3-II Train (GFx087-088) at Lijiao Station, Guangfo Metro 20250712。
+- 来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:B3-II%20Train%20(GFx087-088)%20at%20Lijiao%20Station,%20Guangfo%20Metro%2020250712.jpg)
+- 摄影师/作者：请查看 Wikimedia Commons 文件页。
+- 风险说明：低。来源为Wikimedia Commons开放授权资源，但外部链接可用性仍可能变化。
+
 ## 来源
 
 - 英文维基百科 — 广佛线：https://en.wikipedia.org/wiki/Guangfo_line
