@@ -36,9 +36,12 @@ Copy `.env.example` to `.env` and adjust for your deployment.
 ## Building the image
 
 ```bash
-docker build -t jeonkwan/gz-metro-smart-kid:latest .
+docker buildx build --builder desktop-linux --platform linux/amd64 --load \
+	-t jeonkwan/gz-metro-smart-kid:latest .
 docker push jeonkwan/gz-metro-smart-kid:latest
 ```
+
+For this repo, prefer publishing `linux/amd64` locally because production runs on amd64. On Apple Silicon macOS, Docker Desktop can still build and run `linux/amd64` containers.
 
 Tag releases with a date so you can roll back:
 ```bash
@@ -51,6 +54,7 @@ Repo helper script:
 scripts/ops/docker-build-push.sh \
 	--image jeonkwan/gz-metro-smart-kid \
 	--tag latest \
+	--platform linux/amd64 \
 	--extra-tag $(date +%Y%m%d)
 ```
 
@@ -83,10 +87,12 @@ scripts/ops/redeploy-server.sh \
 The playbook:
 1. Skips Docker install if already present
 2. Creates named volumes (`caddy_data`, `caddy_config`) to persist TLS certs across restarts
-3. Pulls the image from Docker Hub
+3. Pulls the image from Docker Hub by default
 4. Replaces any existing container idempotently
 5. Starts with HTTPS mode on port `8443`, ACME HTTP-01 validation on port `80`
 6. Health-checks the HTTPS endpoint and reports status
+
+If the published image is missing a compatible target-platform manifest, the playbook also supports a remote-build fallback via `-e image_source=build`. Keep that as fallback only.
 
 ### Rollback
 ```bash

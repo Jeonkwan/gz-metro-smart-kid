@@ -59,6 +59,8 @@ ansible-playbook -i ansible/inventory/hosts.ini ansible/playbooks/deploy.yml
 
 The playbook pulls `jeonkwan/gz-metro-smart-kid:latest` from Docker Hub, creates named volumes to persist TLS certificates, and starts the container with HTTPS on port 8443 via automatic Let's Encrypt certificates (ACME HTTP-01 on port 80).
 
+Preferred workflow: build and push a `linux/amd64` image locally, then deploy by pulling that image on the server. The remote-build path exists only as a fallback when a compatible published image is unavailable.
+
 Customise `ansible/group_vars/all.yml` to change hostname, ports, image tag, or ACME email.
 
 **To roll back** to a previous release, set `image_tag` in `group_vars/all.yml` to the target date tag (e.g., `20260401`) and re-run the playbook.

@@ -9,6 +9,7 @@ Usage:
     --playbook ansible/playbooks/deploy.yml \
     [--limit HOST_LIMIT] \
     [--image-tag TAG] \
+    [--image-source pull|build] \
     [--skip-preflight] \
     [--skip-galaxy]
 
@@ -29,6 +30,7 @@ inventory=""
 playbook=""
 limit=""
 image_tag=""
+image_source=""
 skip_preflight="false"
 skip_galaxy="false"
 
@@ -84,6 +86,10 @@ while [[ $# -gt 0 ]]; do
       ;;
     --image-tag)
       image_tag="$2"
+      shift 2
+      ;;
+    --image-source)
+      image_source="$2"
       shift 2
       ;;
     --skip-preflight)
@@ -190,6 +196,10 @@ fi
 
 if [[ -n "$image_tag" ]]; then
   cmd+=(-e "image_tag=${image_tag}")
+fi
+
+if [[ -n "$image_source" ]]; then
+  cmd+=(-e "image_source=${image_source}")
 fi
 
 echo "Running: ${cmd[*]}"

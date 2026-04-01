@@ -57,6 +57,7 @@ If any required item is missing, unclear, or contradictory, ask follow-up questi
 - Never assume the user wants `latest` unless they confirmed that the default tag should be used.
 - Never edit inventory or deployment variables just to force a deployment unless the user explicitly asks.
 - If the image has not been built and pushed yet, say so and use the `docker-build-push-image` skill first.
+- Prefer deployment from a published image. Use remote build only as a fallback when the local publish path cannot provide a compatible target-platform image.
 
 ## Assets
 - `scripts/ops/redeploy-preflight.sh`

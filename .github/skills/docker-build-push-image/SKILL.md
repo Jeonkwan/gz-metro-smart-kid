@@ -11,6 +11,7 @@ Build this repository's container image from the local Dockerfile and push the c
 ## Required Inputs
 - Image repository name, for example `jeonkwan/gz-metro-smart-kid`
 - Primary tag, for example `latest`
+- Target platform, defaulting to `linux/amd64`
 - Whether to also push a dated rollback tag
 - Confirmation that Docker authentication is ready for the target registry
 
@@ -27,6 +28,7 @@ If any item is missing or ambiguous, ask concise follow-up questions with `vscod
 2. Confirm required information.
 - Confirm the target image repository.
 - Confirm the primary tag.
+- Confirm the target platform. Prefer `linux/amd64` for this repo because production runs on amd64.
 - Confirm whether a rollback tag should also be pushed.
 - Confirm Docker login is already valid for the target registry.
 
@@ -36,7 +38,7 @@ If any item is missing or ambiguous, ask concise follow-up questions with `vscod
 
 4. Run the repo script.
 - Use `scripts/ops/docker-build-push.sh`.
-- Pass the confirmed image and tag values.
+- Pass the confirmed image, tag, and platform values.
 - If the user asked for a rollback tag, pass it as `--extra-tag`.
 
 5. Report the result.
@@ -48,6 +50,7 @@ If any item is missing or ambiguous, ask concise follow-up questions with `vscod
 - Never assume Docker login is valid without user confirmation or successful tool evidence.
 - Never change deployment config files just to publish an image.
 - Prefer the repo defaults, but still confirm them before pushing.
+- Prefer a local `linux/amd64` build and push. Treat remote build as deployment fallback only, not the default publish path.
 
 ## Assets
 - `scripts/ops/docker-build-push.sh`

@@ -4,16 +4,17 @@ set -euo pipefail
 usage() {
   cat <<'EOF'
 Usage:
-  scripts/ops/docker-build-push.sh --image IMAGE --tag TAG [--extra-tag EXTRA_TAG]
+  scripts/ops/docker-build-push.sh --image IMAGE --tag TAG [--platform PLATFORM] [--extra-tag EXTRA_TAG]
 
 Examples:
   scripts/ops/docker-build-push.sh --image jeonkwan/gz-metro-smart-kid --tag latest
-  scripts/ops/docker-build-push.sh --image jeonkwan/gz-metro-smart-kid --tag latest --extra-tag 20260401
+  scripts/ops/docker-build-push.sh --image jeonkwan/gz-metro-smart-kid --tag latest --platform linux/amd64 --extra-tag 20260401
 EOF
 }
 
 image=""
 tag=""
+platform="linux/amd64"
 extra_tag=""
 
 while [[ $# -gt 0 ]]; do
@@ -24,6 +25,10 @@ while [[ $# -gt 0 ]]; do
       ;;
     --tag)
       tag="$2"
+      shift 2
+      ;;
+    --platform)
+      platform="$2"
       shift 2
       ;;
     --extra-tag)
@@ -63,8 +68,8 @@ fi
 
 primary_ref="${image}:${tag}"
 
-echo "Building ${primary_ref}"
-docker build -t "$primary_ref" .
+echo "Building ${primary_ref} for ${platform}"
+docker buildx build --builder desktop-linux --platform "$platform" --load -t "$primary_ref" .
 
 if [[ -n "$extra_tag" ]]; then
   extra_ref="${image}:${extra_tag}"
