@@ -138,6 +138,7 @@ The workflow publishes only:
 - `index.html`
 - `marked.min.js`
 - `data/`
+- `.nojekyll`
 
 The route identifiers in `index.html` currently match the Markdown filenames under both `data/en/` and `data/zh/`, so no filename refactor is needed for Pages.
 

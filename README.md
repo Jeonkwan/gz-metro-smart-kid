@@ -105,7 +105,7 @@ Because the app is client-side, you can also serve the folder from any static ho
 - Netlify or Vercel
 - Any web server
 
-To publish with GitHub Pages, enable **Settings → Pages → Build and deployment → GitHub Actions**. The workflow deploys `index.html`, `marked.min.js`, and the `data/` directory from `main`.
+To publish with GitHub Pages, enable **Settings → Pages → Build and deployment → GitHub Actions**. The workflow deploys `index.html`, `marked.min.js`, the `data/` directory, and a `.nojekyll` file from `main`.
 
 The repository's primary production workflow is the Docker image plus the Ansible deployment described above.
 
