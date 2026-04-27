@@ -139,7 +139,7 @@ The workflow publishes only:
 - `marked.min.js`
 - `data/`
 
-The line ids in `index.html` currently match the Markdown filenames under both `data/en/` and `data/zh/`, so no filename refactor is needed for Pages.
+The route identifiers in `index.html` currently match the Markdown filenames under both `data/en/` and `data/zh/`, so no filename refactor is needed for Pages.
 
 ## Copilot Skills
 
