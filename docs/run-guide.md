@@ -126,6 +126,21 @@ scripts/ops/redeploy-server.sh \
 
 Edit `data/en/*.md` or `data/zh/*.md` and refresh locally for development. To publish those changes to the server, rebuild the image, push it, and re-run the redeploy helper or Ansible playbook. The container will be replaced with the new image within seconds.
 
+## GitHub Pages deployment
+
+This repository can also publish to GitHub Pages with the workflow at `.github/workflows/deploy-pages.yml`.
+
+1. In GitHub, open **Settings → Pages**
+2. Under **Build and deployment**, choose **GitHub Actions**
+3. Push to `main` or run the workflow manually
+
+The workflow publishes only:
+- `index.html`
+- `marked.min.js`
+- `data/`
+
+The line ids in `index.html` currently match the Markdown filenames under both `data/en/` and `data/zh/`, so no filename refactor is needed for Pages.
+
 ## Copilot Skills
 
 This repo includes two workflow skills for these operations:

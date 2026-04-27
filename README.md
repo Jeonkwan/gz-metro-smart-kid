@@ -101,9 +101,11 @@ Edit the Markdown files to update facts, add stations, or fix typos. For local d
 
 Because the app is client-side, you can also serve the folder from any static host that can return the Markdown files over HTTP:
 
-- GitHub Pages
+- GitHub Pages via `.github/workflows/deploy-pages.yml`
 - Netlify or Vercel
 - Any web server
+
+To publish with GitHub Pages, enable **Settings → Pages → Build and deployment → GitHub Actions**. The workflow deploys `index.html`, `marked.min.js`, and the `data/` directory from `main`.
 
 The repository's primary production workflow is the Docker image plus the Ansible deployment described above.
 
