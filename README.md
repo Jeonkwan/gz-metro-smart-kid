@@ -1,5 +1,7 @@
 # 🚇 Guangzhou Metro Explorer — Smart Kid Edition
 
+🌐 **Live site:** [https://jeonkwan.github.io/gz-metro-smart-kid/](https://jeonkwan.github.io/gz-metro-smart-kid/)
+
 A colourful, kid-friendly static website that lets children explore every metro line in Guangzhou and nearby Foshan/Nanhai. Click any line button to read fun facts, key stations, and cool trivia in English or Chinese.
 
 ## ✨ Features
