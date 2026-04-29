@@ -81,6 +81,7 @@ This repo now includes reusable Copilot skills for operations workflows:
 
 - `.github/skills/docker-build-push-image/` for confirming build and push inputs before publishing a container image
 - `.github/skills/redeploy-server/` for confirming deployment inputs before running the Ansible redeploy workflow
+- `.github/skills/generate-line-stamp/` for generating consistent blue-ink collector stamps for metro lines
 
 Supporting scripts live under `scripts/ops/`:
 
