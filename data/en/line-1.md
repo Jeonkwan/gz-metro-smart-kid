@@ -104,6 +104,12 @@ It is a good example of how one station can connect many kinds of transport.
 - Photographer/Author: See Wikimedia Commons file page.
 - Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
 
+## Collector's Stamp
+
+![Line 1 Train Stamp](../generated_images/line-1-stamp.png)
+
+- **Description**: A minimalist blue ink stamp featuring the classic A1 train of Guangzhou Metro Line 1.
+
 ## Sources
 
 - Guangzhou Metro official English site map: https://www.gzmtr.com/en/site-map.html
