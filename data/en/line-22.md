@@ -1,90 +1,89 @@
-# 🚀 Guangzhou Metro Line 22 — The Nansha Express!
+# 🚀 Guangzhou Metro Line 22 — The Amber Express!
 
 ## Quick Intro
 
-Line 22 is an express metro line that connects Guangzhou South Station to the Nansha District in the far south.
-Phase 1 opened on June 28, 2019.
-It covers about 43.7 kilometres — one of the longest metro routes in Guangzhou.
-Because it is an express line, it has fewer stops so trains can travel faster.
+Line 22 is one of Guangzhou's fastest express metro lines, designed to link major transport hubs.
+It currently runs from Panyu Square in the south to Fangcun in the west, passing through the massive Guangzhou South Railway Station.
+The line is known for its speed, with trains reaching up to 160 km/h.
+The full line as of May 2026 has 7 stations and is a vital north-south spine for the city.
 
 ## Story Time
 
-Nansha sits at the very southern tip of Guangzhou, where the Pearl River widens and flows toward the sea.
-For a long time, Nansha felt like a faraway place.
-People had to take slow buses or even boats to get there, and the journey could take well over an hour.
+Guangzhou is a city that never stops moving. With the rapid development of Panyu and the importance of high-speed rail, the city needed a way to move people across long distances very quickly.
+Line 22 was planned as an express "sister line" to Line 18. While Line 18 heads toward Nansha, Line 22 was designed to connect the city's main high-speed rail hub to other important districts.
 
-In 2012, the central government chose Nansha as a National New Area — a special zone for new businesses and technology to grow quickly.
-Three years later, in 2015, Nansha became part of the China (Guangdong) Pilot Free Trade Zone.
-"Free Trade Zone" means it is easier for companies from other countries to do business there.
-This made Nansha a very important place for trade and the economy, but it still needed a fast metro connection.
+Construction was a major engineering feat, as the line runs deep underground to avoid other metro lines and building foundations.
+Phase 1, from Panyu Square to Chentougang, opened on March 31, 2022.
+Phase 2, which extended the line north through Xilang to Fangcun, opened on December 29, 2025.
 
-The city built Line 22 as a dedicated express link.
-Unlike normal metro lines, Line 22 was designed to travel at higher speeds between fewer stops — like a high-speed train running underground.
-When Phase 1 opened on June 28, 2019, the journey from Guangzhou South Station to Nansha took about 30 minutes.
-A trip that used to take over an hour suddenly became quick and easy.
-
-Line 22 still matters today because Nansha keeps growing as one of Guangzhou's most important development zones, and millions of people travel there to work and visit.
+Today, Line 22 makes it possible to travel from the high-speed rail station to the historic Liwan District in just a matter of minutes.
 
 ## Time Story
 
-- **2012**: Nansha becomes a National New Area — a major development zone supported by the central government.
-- **2015**: Nansha joins the China (Guangdong) Pilot Free Trade Zone.
-- **2019**: Line 22 Phase 1 opens on June 28 — Guangzhou South Station to Nansha Passenger Port.
+- **2022**: Phase 1 opened on March 31, connecting Panyu Square to Chentougang.
+- **2025**: Phase 2 opened on December 29, extending the line to Fangcun.
 
-Line 22 turned a long southern journey into a quick express ride.
-It opened the door for more people to live, work, and invest in Nansha.
+Line 22 has significantly reduced travel times between Panyu, the high-speed rail hub, and the western part of the city center.
 
 ## Challenges Along the Way
 
-- **Long distance through wet, soft ground**: Line 22 travels about 43.7 kilometres. Much of the southern route passes near the Pearl River Delta, where the ground is soft, sandy, and full of water. Building tunnels in wet ground is much harder and riskier than building in dry, solid rock.
-- **Engineering for higher speed**: Line 22 was designed to run faster than regular city metro trains. Engineers had to build stronger tunnels, more precisely aligned tracks, and more powerful safety systems to allow trains to travel at higher speeds safely.
-- **Working near Guangzhou South Station**: Guangzhou South is one of the busiest high-speed rail hubs in all of China. Building new metro tunnels close to this huge, busy station required very careful work so that the station above never stopped running during construction.
+- **Extreme Speed Underground**: Running trains at 160 km/h in underground tunnels requires incredibly precise engineering. The tunnels must be perfectly smooth, and the air pressure must be carefully managed so that passengers' ears don't pop when trains zoom through.
+- **Connecting to a Giant Hub**: Building the station at Guangzhou South Railway Station meant working under one of the busiest places in China. Engineers had to ensure that the hundreds of high-speed trains above could keep running safely while they dug deep below.
+- **Deep Excavation at Xilang**: Xilang is a complex transfer hub. Adding Line 22 involved digging deep below existing lines (Line 1 and Guangfo Line) while those lines were still carrying thousands of passengers every day.
 
 ## Route Snapshot
 
-- **Start area**: Guangzhou South Station (广州南站), Panyu District — major national high-speed rail hub
-- **End area**: Nansha Passenger Port (南沙客运港), Nansha District — southern waterfront gateway
-- **Route role**: Fast express corridor from the high-speed rail hub to Nansha's growing development zone
-- **Transfer value**: Connects with national high-speed rail at Guangzhou South Station; connects to ferries at Nansha Passenger Port
+- **Start area**: Panyu Square (番禺广场) — southern terminus in Panyu District
+- **End area**: Fangcun (芳村) — western terminus in Liwan District
+- **Route role**: High-speed express corridor linking Panyu, Guangzhou South Railway Station, and Liwan
+- **Transfer value**: Connects to Line 3 and Line 18 at Panyu Square; Line 2 and Line 7 at Guangzhou South Railway Station; Line 1, Line 10, and Guangfo Line at Xilang; and Line 1 and Line 11 at Fangcun
+
+## Full Station List
+
+1. **Panyu Square** (番禺广场) 🔄 Line 3, Line 18
+2. **Shiguang Road** (市广路)
+3. **Guangzhou South Railway Station** (广州南站) 🔄 Line 2, Line 7, Intercity Rail
+4. **Chentougang** (陈头岗)
+5. **Nanjiao** (南漖)
+6. **Xilang** (西塱) 🔄 Line 1, Line 10, Guangfo Line
+7. **Fangcun** (芳村) 🔄 Line 1, Line 11
 
 ## Important Stations for Kids
 
-### 1) Guangzhou South Station (广州南站)
+### 1) Guangzhou South Railway Station (广州南站)
 
-This is the northern starting point of Line 22 and one of the biggest train stations in all of China.
-Hundreds of high-speed trains stop here every day.
-When you arrive by bullet train from cities like Beijing or Shanghai, you can walk straight to Line 22 and head south to Nansha.
-It is like a giant transportation crossroads!
+This is one of the biggest and busiest railway stations in the world!
+High-speed trains from here can take you to Beijing, Hong Kong, or even all the way to western China.
+The Line 22 station is located deep underground, making it easy to hop off a bullet train and zoom toward your next destination.
 
-### 2) Qingsheng (庆盛)
+### 2) Xilang (西塱)
 
-This stop is in the northern part of Nansha District.
-The Qingsheng area is being developed with new offices and a future Guangzhou–Hong Kong–Macau Greater Bay Area cooperation zone.
-It shows how Nansha is carefully planned to grow step by step.
+Xilang is a historic station that was the end of Guangzhou's very first metro line (Line 1).
+Now, it is a giant four-line interchange! You can see how the old station has been rebuilt to fit the new, fast Line 22 trains.
 
-### 3) Nansha Passenger Port (南沙客运港)
+### 3) Fangcun (芳村)
 
-This is the southern end of Phase 1.
-Ferries leave from here to Hong Kong and Macau — two special cities near the mouth of the Pearl River.
-You can ride Line 22 all the way here, then hop onto a ferry to cross the sea!
+Fangcun is located in Liwan District, an area famous for its traditional gardens and tea markets.
+Arriving here on Line 22 feels like a jump through time — from the ultra-modern high-speed rail hub to the charming "Old Canton" area.
 
 ## Fun Facts
 
-- Line 22 is one of only a few metro lines in Guangzhou designed as an express — trains travel faster by having fewer stops between important destinations.
-- At about 43.7 kilometres, Phase 1 of Line 22 is one of the longest single metro phases in the Guangzhou network.
-- Nansha became a National New Area in 2012 — meaning the central government gave it special support to develop quickly.
+- Line 22 trains use **Amber** (琥珀色) as their signature color.
+- It is one of the **fastest metro lines in the world**, with a top service speed of 160 km/h.
+- The trains are wider than normal metro trains to make the ride smoother and more comfortable at high speeds.
+- Line 22 is planned to eventually extend all the way to the **Guangzhou Baiyun International Airport**!
 
 ## Word Helper
 
-- **Express line**: A line where the train skips some stops so it can travel faster between the important stations.
-- **Free Trade Zone**: A special area where it is easier for companies from different countries to do business together with fewer rules and taxes.
-- **Passenger Port**: A place where ferries and boats carry passengers from one city or region to another.
+- **Express**: A fast service that connects major points with few stops in between.
+- **Interchange**: A station where you can switch from one metro line to another.
+- **Bullet Train**: A nickname for very fast high-speed trains that look like a bullet.
 
 ## Memory Check
 
-1. What is the name of the big train station where Line 22 starts?
-2. What kind of line is Line 22 — a regular metro or an express?
-3. Where can you catch a ferry to Hong Kong or Macau at the southern end of Line 22?
+1. What is the top speed of Line 22 trains?
+2. Which major railway station does Line 22 connect to?
+3. What color is used for Line 22 on the metro map?
 
 
 ## Photos
@@ -120,5 +119,4 @@ You can ride Line 22 all the way here, then hop onto a ferry to cross the sea!
 
 - Guangzhou Metro official website: https://www.gzmtr.com
 - Line 22 (Guangzhou Metro) — Wikipedia: https://en.wikipedia.org/wiki/Line_22_(Guangzhou_Metro)
-- Nansha National New Area official site: https://www.nansha.gov.cn
-- China (Guangdong) Pilot Free Trade Zone — Nansha Area: https://www.gdftz.gov.cn
+- MetroMan — Line 22 Overview: https://www.metroman.cn/en/cities/guangzhou/lines/line-22

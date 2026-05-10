@@ -41,6 +41,39 @@ It connects old city neighborhoods, major railway stations, and the heart of the
 - **Route role**: A major east–west backbone linking Liwan, Yuexiu, Tianhe, and Huangpu districts
 - **Transfer value**: Connects to Line 3 at Zhujiang New Town; to Lines 2, 11, 14, and 22 at Guangzhou Railway Station; and to Line 6 at Tanwei
 
+## Full Station List
+
+1. **Jiaokou**
+2. **Tanwei** (Transfer to Line 6)
+3. **Zhongshanba** (Transfer to Line 11)
+4. **Xichang**
+5. **Xicun** (Transfer to Line 2 & Line 8)
+6. **Guangzhou Railway Station** (Transfer to Line 2, Line 11, Line 14, & Line 22)
+7. **Xiaobei**
+8. **Taojin**
+9. **Ouzhuang** (Transfer to Line 6)
+10. **Zoo**
+11. **Yangji** (Transfer to Line 1)
+12. **Wuyangcun** (Transfer to Line 10)
+13. **Zhujiang New Town** (Transfer to Line 3)
+14. **Liede**
+15. **Tancun**
+16. **Yuancun** (Transfer to Line 11)
+17. **Keyun Lu**
+18. **Chebei South** (Transfer to Line 4)
+19. **Dongpu**
+20. **Sanxi**
+21. **Yuzhu** (Transfer to Line 13)
+22. **Dashadi**
+23. **Dashadong** (Transfer to Line 7)
+24. **Wenchong**
+25. **Shuanggang** (Transfer to Line 13)
+26. **Miaotou**
+27. **Xiayuan** (Transfer to Line 13)
+28. **Baoshuiqu**
+29. **Xiagang**
+30. **Huangpu New Port**
+
 ## Important Stations for Kids
 
 ### 1) Zhujiang New Town (珠江新城)

@@ -32,10 +32,24 @@ Today, it still carries commuters and tourists along the scenic Pearl River ever
 - **Balancing beauty and function:** Guangzhou wanted a tram near Canton Tower — one of the city's most famous landmarks — that would still look clean and open. Making the system work safely while keeping the skyline clear took very careful planning.
 
 ## Route Snapshot
-- Start area: Canton Tower (广州塔), western Haizhu Island — connects to Metro Lines 3 and APM
-- End area: Wanshengwei (万胜围), eastern Haizhu Island — connects to Metro Lines 4 and 8
-- Route role: Connects two major metro hubs along the scenic Pearl River north shore
-- Transfer value: Passengers can move between four metro lines (3, 4, 8, APM) using this tram
+- **Start area**: Canton Tower (广州塔) — western terminus
+- **End area**: Wanshengwei (万胜围) — eastern terminus
+- **Route role**: Scenic riverside transit along the northern shore of Haizhu Island
+- **Transfer value**: Connects to Line 3 and APM at Canton Tower; Line 4 and Line 8 at Wanshengwei
+
+## Full Station List
+
+1. **Canton Tower** (广州塔) 🔄 Line 3, APM
+2. **Canton Tower East** (广州塔东)
+3. **Liede Bridge South** (猎德大桥南)
+4. **Party Pier** (琶醍)
+5. **Nanfeng** (南风)
+6. **Canton Fair Complex West** (会展西)
+7. **Canton Fair Complex Middle** (会展中)
+8. **Canton Fair Complex East** (会展东)
+9. **Pazhou Bridge South** (琶洲大桥南)
+10. **Pazhou Pagoda** (琶洲塔)
+11. **Wanshengwei** (万胜围) 🔄 Line 4, Line 8
 
 ## Important Stations for Kids
 

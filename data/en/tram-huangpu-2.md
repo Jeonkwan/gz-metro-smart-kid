@@ -26,10 +26,21 @@ Huangpu Tram Line 2 is still growing — and so is the district it serves!
 - **Sharing the northern terminus with Line 1:** Both Huangpu tram lines connect at Xiangxue. Planners had to make sure both lines could work together smoothly at this busy starting point.
 
 ## Route Snapshot
-- Start area: Xiangxue Metro Station (香雪站) — transfer to Metro Line 6
-- End area (current): Kaiyuan Avenue East (开元大道东), with future extension to Nangang in the south
-- Route role: Connects the Xiangxue metro hub to newer southern communities in Huangpu District
-- Transfer value: Metro Line 6 at Xiangxue; planned future connection to Metro Line 13 at Nangang
+- **Start area**: Xiangxue (香雪) — northern terminus, transfer to Metro Line 6
+- **End area (current)**: Kaiyuan Dadao Dong (开源大道东), with future extension to Nangang
+- **Route role**: Connects the Xiangxue metro hub to newer southern communities in Huangpu
+- **Transfer value**: Connects to Metro Line 6 at Xiangxue, and to Line 7 and Line 21 at Shuixi
+
+## Full Station List (Current Open Section)
+
+1. **Xiangxue** (香雪)
+2. **Xiangxue Subway Station** (地铁香雪站) 🔄 Line 6
+3. **Civic Square** (市民广场)
+4. **Huangpu District Government** (黄埔区政府)
+5. **Luogang** (萝岗) 🔄 Line 7
+6. **Shuixi Subway Station** (地铁水西站) 🔄 Line 7, Line 21
+7. **Shuixi** (水西)
+8. **Kaiyuan Dadao Dong** (开源大道东)
 
 ## Important Stations for Kids
 

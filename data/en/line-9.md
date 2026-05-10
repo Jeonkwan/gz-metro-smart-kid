@@ -42,6 +42,20 @@ It helped the area grow as more people could now travel easily between Huadu and
 - **Route role**: An east-west line serving Huadu District, linking industrial zones, residential areas, and a major railway station
 - **Transfer value**: Connects to Line 3 at Gaozeng, giving riders access to the broader Guangzhou metro network
 
+## Full Station List
+
+1. **Fei'eling** (飞鹅岭)
+2. **Huadu Auto Center** (花都汽车城)
+3. **Guangzhou North Railway Station** (广州北站) 🔄 Intercity Rail
+4. **Huacheng Lu** (花城路)
+5. **Huaguoshan Park** (花果山公园)
+6. **Huadu Square** (花都广场)
+7. **Ma'anshan Park** (马鞍山公园)
+8. **Liantang** (莲塘)
+9. **Qingbu** (清布)
+10. **Qingtang** (清塘)
+11. **Gaozeng** (高增) 🔄 Line 3
+
 ## Important Stations for Kids
 
 ### 1) Guangzhou North Railway Station (广州北站)

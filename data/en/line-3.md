@@ -44,7 +44,48 @@ Its Y-shape now connects the airport, the south, and the east of Guangzhou.
 - **End area (main)**: Airport North (机场北), serving Baiyun International Airport Terminal 2
 - **Branch end**: Tianhe Coach Terminal (天河客运站), in the east
 - **Route role**: A long Y-shaped express corridor linking the south, city center, airport, and east
-- **Transfer value**: Connects with Line 1 at Tiyu Xilu and Guangzhou East, Line 4 at Haibang, Line 7 at Hanxi Changlong, and Line 8 at Kecun
+- **Transfer value**: Connects with Line 1 at Tiyu Xilu and Guangzhou East, Line 4 at Haibang, Line 7 at Hanxi Changlong, Line 8 at Kecun, Line 10 at Tiyu Xilu, and Line 11 at Datang, Guangzhou East, and South China Normal University
+
+## Full Station List
+
+### Main Line
+1. **Haibang** (海傍) 🔄 Line 4
+2. **Haichong Lu** (海涌路)
+3. **Shiqinan** (市桥南)
+4. **Bangjiang** (傍江)
+5. **Panyu Square** (番禺广场) 🔄 Line 18, Line 22
+6. **Shiqiao** (市桥)
+7. **Hanxi Changlong** (汉溪长隆) 🔄 Line 7
+8. **Dashi** (大石)
+9. **Xiajiao** (厦滘)
+10. **Lijiao** (沥滘) 🔄 Guangfo Line
+11. **Datang** (大塘) 🔄 Line 11
+12. **Kecun** (客村) 🔄 Line 8
+13. **Canton Tower** (广州塔) 🔄 APM, Haizhu Tram
+14. **Zhujiang New Town** (珠江新城) 🔄 Line 5
+15. **Tiyu Xilu** (体育西路) 🔄 Line 1, Line 10, Line 13
+16. **Linhexi** (林和西) 🔄 APM
+17. **Guangzhou East Railway Station** (广州东站) 🔄 Line 1, Line 11
+18. **Yantang** (燕塘) 🔄 Line 6
+19. **Meihuayuan** (梅花园)
+20. **Jingxi Nanfang Hospital** (京溪南方医院)
+21. **Tonghe** (同和)
+22. **Yongtai** (永泰)
+23. **Baiyundadaobei** (白云大道北)
+24. **Jiahewanggang** (嘉禾望岗) 🔄 Line 2, Line 14
+25. **Longgui** (龙归)
+26. **Renhe** (人和)
+27. **Gaozeng** (高增) 🔄 Line 9
+28. **Airport South (T1)** (机场南)
+29. **Airport North (T2)** (机场北) 🔄 Line 22
+
+### Branch Line
+(Splits from Tiyu Xilu)
+1. **Shipaiqiao** (石牌桥)
+2. **Gangding** (岗顶)
+3. **South China Normal University** (华师) 🔄 Line 11
+4. **Wushan** (五山)
+5. **Tianhe Coach Terminal** (天河客运站) 🔄 Line 6
 
 ## Important Stations for Kids
 

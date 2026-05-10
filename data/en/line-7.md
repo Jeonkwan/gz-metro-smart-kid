@@ -3,49 +3,82 @@
 ## Quick Intro
 
 Line 7 is Guangzhou's light green metro line.
-It opened on December 28, 2016, connecting the University Town island with Guangzhou South Railway Station.
-The line runs from Xilang in the northwest to Guangzhou South in the south.
-Today, Line 7 carries students, travelers, and families across 14 stations.
+It opened on December 28, 2016, and has since been extended to connect Shunde in Foshan with the Huangpu District in Guangzhou.
+The line runs from Meidi Dadao in the west to Yanshan in the northeast.
+Today, Line 7 carries students, travelers, and families across 27 stations.
 
 ## Story Time
 
-University Town (大学城) sits on a special island in the Pearl River called Xiaoguwei Island (小谷围岛).
-It was built in the early 2000s to bring many universities together in one place.
-Before Line 7, students and visitors needed buses to get to the rest of Guangzhou.
-At the same time, the city needed a direct metro link between the island and Guangzhou South Railway Station, the city's biggest high-speed rail hub.
-When Line 7 opened on December 28, 2016, students could ride from the heart of the university island to the train station quickly and easily.
-The line also linked the western Fangcun and Xilang areas, helping even more people reach University Town and the high-speed rail hub.
-Line 7 still matters today because it gives students, visitors, and travelers a direct and reliable path between learning, living, and leaving the city.
+Line 7 was originally built to connect the University Town (大学城) on Xiaoguwei Island with Guangzhou South Railway Station.
+University Town is a special place where ten universities are gathered on one island in the Pearl River.
+Before Line 7, it was hard for students to reach the city's main high-speed rail hub.
+When the first section opened in 2016, it changed everything!
+But Line 7 didn't stop there. In 2022, it was extended westward into Shunde, a district in Foshan famous for its delicious food and the Midea company.
+Then, in late 2023, it was extended northeast into Huangpu District, connecting even more neighborhoods and another science center.
+Today, Line 7 is a truly "intercity" line, linking Foshan and Guangzhou and serving as a vital bridge between education, industry, and high-speed travel.
 
 ## Time Story
 
-- **Early 2000s**: University Town was built on Xiaoguwei Island, bringing many universities together in one place.
-- **2016**: Line 7 opened on December 28, connecting University Town with Guangzhou South Railway Station.
+- **2016**: The first section opened on December 28, connecting HEMC South with Guangzhou South Railway Station.
+- **2022**: The western extension to Shunde (Meidi Dadao) opened on May 1.
+- **2023**: The eastern extension to Yanshan in Huangpu District opened on December 28.
 
-Line 7 gave University Town a direct metro connection to the city's most important high-speed rail station.
-It also made travel between the western Xilang area and the south of Guangzhou much easier.
+Line 7 has grown from a short shuttle into a major cross-city artery.
+It connects the high-tech industries of Shunde, the transport hub of Guangzhou South, and the academic center of University Town.
 
 ## Challenges Along the Way
 
-- **River crossing**: Line 7 had to tunnel under the Pearl River and its branches to reach Xiaoguwei Island. Building under a busy river is very difficult and requires special equipment.
-- **Building near active campuses**: When Line 7 was being built, University Town was already full of students and teachers. Engineers had to work carefully to avoid disturbing lessons and daily campus life.
-- **Connecting to a giant station**: Guangzhou South Railway Station is one of the largest railway stations in the world. Tunneling into such a huge station needed very detailed planning to match the scale of its foundations.
+- **Intercity Coordination**: Extending the line into Foshan required Guangzhou and Foshan to work closely together on planning, construction, and operation.
+- **River crossings**: The line crosses several branches of the Pearl River, requiring deep tunnels and careful engineering to keep the water out.
+- **Building under the University island**: Working under Xiaoguwei Island meant tunneling through varied soil conditions while protecting the many university buildings above.
+- **Connecting to a giant hub**: Integrating with Guangzhou South Railway Station, one of the world's busiest, required complex construction to link with multiple other metro and rail lines.
 
 ## Route Snapshot
 
-- **Start area**: Xilang (西朗), in the Fangcun area of western Guangzhou
-- **End area**: Guangzhou South Railway Station (广州南站), in the Panyu District to the south
-- **Route role**: Connects University Town, western districts, and the major high-speed rail hub in the south
-- **Transfer value**: Connects with Line 1 and Guangfo Line at Xilang; connects with Line 4 at University Town North
+- **Start area**: Meidi Dadao (美的大道), in Shunde District, Foshan
+- **End area**: Yanshan (燕山), in Huangpu District, Guangzhou
+- **Route role**: An intercity line connecting Shunde, Panyu, and Huangpu districts
+- **Transfer value**: Connects with Line 2, 22, and Foshan Line 2 at Guangzhou South Railway Station; with Line 3 at Hanxi Changlong; with Line 18 at Nancun Wanbo; with Line 4 and 12 at HEMC South; and with Line 6 at Luogang.
+
+## Full Station List
+
+1. **Meidi Dadao**
+2. **Beijiao Park** (Transfer to Foshan Line 3)
+3. **Midea**
+4. **Nanchong**
+5. **Jinlong**
+6. **Chencun**
+7. **Chencunbei**
+8. **Dazhou**
+9. **Guangzhou South Railway Station** (Transfer to Line 2, Line 22, & Foshan Line 2)
+10. **Shibi** (Transfer to Line 2)
+11. **Xiecun**
+12. **Zhongcun**
+13. **Hanxi Changlong** (Transfer to Line 3)
+14. **Nancun Wanbo** (Transfer to Line 18)
+15. **Yuangang**
+16. **Banqiao**
+17. **Higher Education Mega Center South (HEMC South)** (Transfer to Line 4 & Line 12)
+18. **Shenjing**
+19. **Changzhou**
+20. **Yufengwei** (Transfer to Line 13)
+21. **Dashadong** (Transfer to Line 5)
+22. **Jitang**
+23. **Jiazhuang**
+24. **Kefenglu**
+25. **Luogang** (Transfer to Line 6)
+26. **Shuixi** (Transfer to Line 21 & Huangpu Tram 1)
+27. **Yanshan**
 
 ## Important Stations for Kids
 
-### 1) University Town North (大学城北)
+### 1) Higher Education Mega Center South (HEMC South) (大学城南)
 
-This station is the gateway to University Town on Xiaoguwei Island.
+This station is a major gateway to University Town on Xiaoguwei Island.
 Ten universities share the island, including Sun Yat-sen University and South China University of Technology.
 Students ride campus buses or walk between the different schools on the island.
 It is like a small city built just for learning!
+You can transfer to Line 4 and Line 12 here.
 
 ### 2) Guangzhou South Railway Station (广州南站)
 
@@ -53,20 +86,21 @@ This giant station is one of the busiest high-speed rail hubs in China.
 Fast trains from here can reach cities like Shenzhen, Hong Kong, Beijing, and many more.
 The station is so large that you need to walk quite a long way inside to reach the platforms.
 Taking Line 7 here is a great way to start a fast train journey to another city.
+You can transfer to Lines 2, 22, and Foshan Line 2 here.
 
-### 3) Xilang (西朗)
+### 3) Beijiao Park (北滘公园)
 
-Xilang station sits at the western end of Line 7.
-Here you can transfer to Line 1 to travel east toward the city center.
-You can also switch to the Guangfo Line and ride into Foshan city.
-Xilang is a very useful crossroads for many different journeys!
+Located in Shunde, Foshan, this station is near beautiful parks and the headquarters of Midea, a famous appliance company.
+It is a great example of how the metro connects different cities, making it easy to visit friends or family in Shunde for a delicious meal!
+You can transfer to Foshan Line 3 here.
 
 ## Fun Facts
 
-- Line 7 has **14 stations** in total.
+- Line 7 has **27 stations** in total.
+- It is an **intercity line**, connecting Guangzhou and Foshan.
 - University Town has **10 universities** sharing one island!
 - Guangzhou South Railway Station is one of the **largest railway stations in the world** by floor area.
-- Line 7 connects two of Guangzhou's biggest transport hubs: a **university island** and a **high-speed rail hub**.
+- Line 7 connects major transport hubs, academic centers, and industrial zones.
 
 ## Word Helper
 

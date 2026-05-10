@@ -45,7 +45,19 @@ Its opening showed Guangzhou's readiness to host a major global event.
 - **Start area**: Canton Tower (广州塔), in the south, near Guangzhou's famous TV tower
 - **End area**: Linhexi (林和西), in the north, connecting to Metro Line 3
 - **Route role**: An underground connector through Guangzhou's modern CBD, crossing under the Pearl River
-- **Transfer value**: Canton Tower connects to Metro Line 3 and the Haizhu Tram; Linhexi connects to Metro Line 3
+- **Transfer value**: Canton Tower connects to Metro Line 3 and the Haizhu Tram; Linhexi connects to Metro Line 3; several other stations are close to Line 3, 5, 10, 13 and 18
+
+## Full Station List
+
+1. **Canton Tower** (广州塔) 🔄 Line 3, Haizhu Tram
+2. **Haixinsha** (海心沙)
+3. **Guangzhou Opera House** (广州大剧院)
+4. **Huacheng Dadao** (花城大道) 🔄 Line 13 (Future)
+5. **Women and Children's Medical Center** (妇儿中心)
+6. **Huangpu Dadao** (黄埔大道) 🔄 Line 13, Line 18 (via Xiancun)
+7. **Tianhenan** (天河南) 🔄 Line 10 (via Tiyu Xilu)
+8. **Tianhe Sports Center South** (体育中心南)
+9. **Linhexi** (林和西) 🔄 Line 3
 
 ## Important Stations for Kids
 

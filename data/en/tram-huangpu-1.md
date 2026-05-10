@@ -28,10 +28,31 @@ Today, students walk to their stops, workers board for their morning commute, an
 - **Building while the area kept growing:** Huangpu District was actively adding new schools and businesses during construction. The tram project had to plan for future growth while serving current residents at the same time.
 
 ## Route Snapshot
-- Start area: Xiangxue Subway Station (香雪站), northern terminus — transfer to Metro Line 6
-- End area: Xinfeng Lu (新丰路), southern terminus
-- Route role: North-south tram corridor through Huangpu's technology parks and residential zones
-- Transfer value: Connects to Metro Line 6 at Xiangxue, and to metro lines at Shuixi and Changping stations
+- **Start area**: Xiangxue (香雪) — northern terminus, transfer to Metro Line 6
+- **End area**: Xinfeng Lu (新丰路) — southern terminus
+- **Route role**: North-south tram corridor through Huangpu's technology parks and residential zones
+- **Transfer value**: Connects to Metro Line 6 at Xiangxue, and to Line 7 and Line 21 at Shuixi and Changping
+
+## Full Station List
+
+1. **Xiangxue** (香雪)
+2. **Xiangxue Subway Station** (地铁香雪站) 🔄 Line 6
+3. **Civic Square** (市民广场)
+4. **Huangpu District Government** (黄埔区政府)
+5. **Shuixi Subway Station** (地铁水西站) 🔄 Line 7, Line 21
+6. **Shuixi** (水西)
+7. **Junye Lu** (峻业路)
+8. **Beishi** (北师大)
+9. **Shuixi Campus of GZ No.2 Middle School** (二中苏元)
+10. **Changping** (长平) 🔄 Line 21
+11. **Qiangxin Lu** (羌信路)
+12. **Qiangdong** (羌洞)
+13. **Changling Ju** (长岭居)
+14. **Lingtou** (岭头)
+15. **Xiangling Lu** (贤江路)
+16. **Honghui Lu** (红会路)
+17. **Kaiyuan Dadao Dong** (开源大道东)
+18. **Xinfeng Lu** (新丰路)
 
 ## Important Stations for Kids
 
