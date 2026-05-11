@@ -30,10 +30,21 @@ Building 58 km of underground tunnels to handle the speed of 160 km/h took about
 - World's largest TBM fleet: To build the tunnels quickly enough, engineers used 52 giant Tunnel Boring Machines working at the same time — the most ever used for a single project in the world. Coordinating so many machines at once was an enormous challenge.
 
 ## Route Snapshot
-- Start area: Wanqingsha (Nansha District, south)
-- End area: Xiancun (Tianhe District, north)
-- Route role: High-speed express link between Nansha and Guangzhou's city center
-- Transfer value: Panyu Square transfers to Lines 3 and 22; Nancun Wanbo transfers to Line 7; Modiesha transfers to Line 8
+- **Start area**: Wanqingsha (万顷沙) — Nansha District, south
+- **End area**: Xiancun (冼村) — Tianhe District, north
+- **Route role**: High-speed express link between Nansha and Guangzhou's city center
+- **Transfer value**: Connects to Line 3 and Line 22 at Panyu Square; Line 7 at Nancun Wanbo; Line 11 at Longtan; and Line 8 and Line 12 at Modiesha
+
+## Full Station List
+
+1. **Wanqingsha** (万顷沙) 🔄 Intercity Rail
+2. **Hengli** (横沥)
+3. **Panyu Square** (番禺广场) 🔄 Line 3, Line 22
+4. **Nancun Wanbo** (南村万博) 🔄 Line 7
+5. **Shaxi** (沙溪)
+6. **Longtan** (龙潭) 🔄 Line 11
+7. **Modiesha** (磨碟沙) 🔄 Line 8, Line 12
+8. **Xiancun** (冼村) 🔄 Line 13 (Future)
 
 ## Important Stations for Kids
 

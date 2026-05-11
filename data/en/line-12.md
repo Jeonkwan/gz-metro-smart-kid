@@ -31,9 +31,9 @@ Together with Line 10, it forms a giant "X" shape across Guangzhou.
 
 - **2017**: Government approves Line 12 as part of Guangzhou's third railway building plan.
 - **19 November 2018**: Full-line construction officially begins.
-- **2025, June 29**: West section and east section open together — 18 stations start running.
-- **2026, February 13**: Chigang station opens, bringing more passengers on board.
-- **Future**: The central section is still being built and will connect the two halves when it is ready.
+- **2025, June 29**: West section and east section open together — 18 stations start running in two separate segments.
+- **2026, February 13**: Chigang station opens, linking the Eastern section to Line 8.
+- **Future**: The middle section (Jingtai to Donghu) is still being built and will connect the two halves when it is ready.
 
 Line 12 is still growing. When the central section opens, it will be one of the longest diagonal metro lines in China.
 
@@ -49,10 +49,34 @@ Line 12 is still growing. When the central section opens, it will be one of the 
 
 ## Route Snapshot
 
-- **Start area**: Xunfenggang (northwest, Baiyun District)
-- **End area**: Higher Education Mega Center South (southeast, Panyu District)
-- **Route role**: Diagonal connector linking Baiyun, Yuexiu, Haizhu, and Panyu Districts
-- **Transfer value**: 17 transfer stations along the full route — the most of any Guangzhou metro line
+- **Route status**: Operating in two disconnected segments (Western and Eastern) as of May 2026
+- **Districts**: Baiyun, Yuexiu, Haizhu, and Panyu
+- **Route role**: Diagonal connector linking northwest and southeast Guangzhou
+- **Transfer value**: Connects to Line 2, 4, 6, 7, 8, 11, 14, 22, and more across its open sections
+
+## Full Station List (Open as of May 2026)
+
+### Western Section
+1. **Xunfenggang** (浔峰岗) 🔄 Line 6
+2. **Xunfenggang North** (浔峰岗北)
+3. **Xizhou** (西洲)
+4. **Julong** (聚龙) 🔄 Line 8
+5. **Guangzhou Baiyun Railway Station** (广州白云站) 🔄 Line 22, Intercity Rail
+6. **Tangchong** (棠涌)
+7. **Xinshixu** (新市墟) 🔄 Line 14
+8. **Baiyun Culture Square** (白云文化广场) 🔄 Line 2
+9. **Guangzhou Gymnasium** (广州体育馆)
+
+### Eastern Section
+1. **Ersha Island** (二沙岛)
+2. **Chigang Pagoda** (赤岗塔)
+3. **Chigang** (赤岗) 🔄 Line 8
+4. **Chisha North** (赤沙北)
+5. **Chisha** (赤沙) 🔄 Line 11
+6. **Beishan** (北山)
+7. **Guanzhou** (官洲) 🔄 Line 4
+8. **Higher Education Mega Center North** (大学城北) 🔄 Line 4
+9. **Higher Education Mega Center South** (大学城南) 🔄 Line 4, Line 7
 
 ## Important Stations for Kids
 

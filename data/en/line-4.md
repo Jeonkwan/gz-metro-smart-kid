@@ -44,6 +44,33 @@ Each new section connected more people to Guangzhou's growing metro network.
 - **Route role**: A long north–south corridor linking Tianhe, Haizhu, Panyu, and Nansha districts
 - **Transfer value**: Connects to Line 8 at Wanshengwei; serves the Higher Education Mega Center with two dedicated stations; links to ferry services at Nansha Passenger Port
 
+## Full Station List
+
+1. **Huangcun** (Transfer to Line 21)
+2. **Chebei**
+3. **Chebei South** (Transfer to Line 5)
+4. **Wanshengwei** (Transfer to Line 8 & Tram Haizhu)
+5. **Guanzhou**
+6. **Higher Education Mega Center North**
+7. **Higher Education Mega Center South** (Transfer to Line 7 & Line 12)
+8. **Xinzao**
+9. **Guanqiao**
+10. **Shiqi**
+11. **Haibang** (Transfer to Line 3)
+12. **Dichong**
+13. **Dongchong**
+14. **Qingsheng**
+15. **Huangge Auto Town**
+16. **Huangge**
+17. **Jiaomen**
+18. **Jinzhou**
+19. **Feishajiao**
+20. **Guanglong**
+21. **Dayong**
+22. **Tangkeng**
+23. **Nanheng**
+24. **Nansha Passenger Port**
+
 ## Important Stations for Kids
 
 ### 1) Higher Education Mega Center South (大学城南)
@@ -72,6 +99,7 @@ This station connects the metro all the way to the sea!
 ## Fun Facts
 
 - Line 4 is about **60 kilometers** long — one of the longest metro lines in Guangzhou.
+- It has **24 stations**.
 - It was the **first metro line in China** to use Linear Induction Motor (LIM) trains.
 - The line passes through **four districts**: Tianhe, Haizhu, Panyu, and Nansha.
 - The Higher Education Mega Center on Xiaoguwei Island has **ten universities**.

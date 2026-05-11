@@ -55,10 +55,28 @@ Line 13's story is still being written. Each new station brings more people clos
 
 ## Route Snapshot
 
-- **Start area**: Chaoyang (west, future terminus), currently Tianhe Park — Tianhe District
-- **End area**: Xinsha (east) — Zengcheng District
-- **Route role**: High-speed east-west connector linking Zengcheng to the city centre
-- **Transfer value**: Connects to Line 5 at Yuzhu, and future connections to Lines 16 and 20 at Xintang
+- **Start area**: Tianhe Park (天河公园) — current western terminus in Tianhe District
+- **End area**: Xinsha (新沙) — Zengcheng District
+- **Route role**: High-speed east-west connector linking Zengcheng and Huangpu to the city center
+- **Transfer value**: Connects to Line 11 and Line 21 at Tianhe Park, Line 4 at Chebei, Line 5 and Line 11 at Yuzhu, and Line 7 at Yufengwei
+
+## Full Station List
+
+1. **Tianhe Park** (天河公园) 🔄 Line 11, Line 21
+2. **Tangxia** (棠下)
+3. **Chebei** (车陂) 🔄 Line 4
+4. **Tianhe Zhucun** (天河珠村)
+5. **Yuzhu** (鱼珠) 🔄 Line 5, Line 11
+6. **Yufengwei** (裕丰围) 🔄 Line 7
+7. **Shuanggang** (双岗)
+8. **Nanhai God Temple** (南海神庙)
+9. **Xiayuan** (夏园) 🔄 Line 5
+10. **Nangang** (南岗)
+11. **Shacun** (沙村)
+12. **Baijiang** (白江)
+13. **Xintang** (新塘) 🔄 Line 16 (Planned), Intercity Rail
+14. **Guanhu** (官湖)
+15. **Xinsha** (新沙)
 
 ## Important Stations for Kids
 

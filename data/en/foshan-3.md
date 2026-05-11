@@ -41,10 +41,51 @@ Line 3 is still growing and becoming the backbone of Foshan's metro network.
 
 ## Route Snapshot
 
-- **Start area**: Shunde College Railway Station (顺德学院站) area in the south, Shunde District
-- **End area**: Foshan University (佛山大学) in Nanhai District to the north
-- **Route role**: A long north-south backbone line connecting Shunde, Chancheng, and Nanhai districts
-- **Transfer value**: Connects to the Guangfo Line at Guicheng and Dongping stations, to Foshan Line 2 at Wanhua, and to Guangzhou Metro Line 7 at Beijiao Park
+- **Route status**: Operating in two disconnected segments (North and South) as of May 2026; full connection expected in June 2026
+- **Districts**: Shunde, Chancheng, and Nanhai
+- **Route role**: A long north-south backbone line connecting major districts and transport hubs
+- **Transfer value**: Connects to Guangfo Line at Guicheng and Dongping, Foshan Line 2 at Wanhua and Dongping, and Guangzhou Metro Line 7 at Beijiao Park
+
+## Full Station List
+
+1. **Shunde Port** (顺德港) — *Planned Terminus*
+2. **Shunde College Railway Station** (顺德学院站) 🔄 Intercity Rail
+3. **Shunde Happy Coast** (顺德欢乐海岸)
+4. **Shunde No.1 High School** (顺德一中)
+5. **Jurong North Road** (驹荣北路)
+6. **Dongle Road** (东乐路)
+7. **Daliang Clock Tower** (大良钟楼)
+8. **Huanshi North** (环市北)
+9. **Shunde People's Hospital** (顺德人民医院)
+10. **Lichun** (荔村)
+11. **Lunjiao** (伦教)
+12. **Guangjiao** (广教)
+13. **Beijiao Park** (北滘公园) 🔄 GZ Line 7
+14. **Gaocun** (高村)
+15. **Beijiao West Railway Station** (北滘西站) 🔄 Intercity Rail
+16. **Tanzhou Convention & Exhibition Center** (潭洲会展)
+17. **Yuebu** (岳步)
+18. **Dadun** (大墩)
+19. **Dongping** (东平) 🔄 Guangfo Line, Foshan Line 2
+20. **Wanhua** (湾华) 🔄 Foshan Line 2
+21. **Asia Art Park** (亚艺公园)
+22. **Jihua 6th Road** (季华六路)
+23. **Zhen'an** (镇安)
+24. **Guicheng** (桂城) 🔄 Guangfo Line
+25. **Xiyue** (西约)
+26. **Diejiao** (叠滘)
+27. **Zhongshan Park** (中山公园) — *Current Terminus of South Section*
+28. **Dunhou** (敦厚) — *Opening June 2026*
+29. **Foshan Railway Station** (佛山站) — *Opening June 2026*
+30. **Lianhe** (联和) — *Current Terminus of North Section*
+31. **Xiaode Dong** (孝德东)
+32. **Luocun** (罗村)
+33. **Foshan West Railway Station** (佛山西站) 🔄 Intercity Rail
+34. **Xingye Donglu** (兴业东路)
+35. **Kesheng Lu** (科盛路)
+36. **Bo'ai Zhonglu** (博爱中路)
+37. **Nanhai University Town** (南海大学城)
+38. **Foshan University** (佛山大学)
 
 ## Important Stations for Kids
 

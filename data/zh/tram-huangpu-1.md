@@ -1,95 +1,120 @@
 # 黄埔有轨电车1号线 — 连接广州科技之心
 
-## 快速简介
-黄埔有轨电车1号线是广州东部黄埔区的一条现代有轨电车线路。
-全线约14.3公里，共建成20座车站，目前开放19座。
-2020年7月1日首段开通，2020年12月28日全线贯通。
-电车连通了广州最繁忙的科技与工业区域，服务于工作者、学生和居民。
+## 快速介绍
+黄埔有轨电车1号线（THP1）是位于广州东部黄埔区的一条现代化有轨电车线路。
+它全长约14.3公里，全线共设有20座车站（其中19座已开通）。
+首通段于2020年7月1日开通，全线于2020年12月28日正式贯通。
+电车连接了广州最繁忙的科技和工业区之一的上班族、学生和居民。
 
-## 故事时光
-黄埔区是广州最重要的经济区之一，拥有科技园、科研院所和工业基地，提供了大量就业岗位。
-2020年电车开通前，长岭居、龙湖等地区的许多上班族公共交通选择十分有限。
-随着区域快速发展，单靠公共汽车已无法满足出行需求。
+## 故事时间
+黄埔区是广州最重要的经济区域之一。
+这里汇聚了众多科技园区、研究院和创造大量就业机会的工业设施。
+在2020年电车开通之前，长岭居和龙湖地区的许多工作者出行选择有限。
+该地区发展迅速，但仅靠公交服务已无法满足需求。
 
-规划者决定建造一条现代有轨电车，沿南北走廊服务大众，在两端与地铁相连——北端在香雪站接轨地铁6号线。
-2020年7月首段开通，是广州东部的重大里程碑。
-同年12月全线开通，沿14公里新轨道的沿线居民终于有了可靠的日常出行工具。
-如今，学生步行至站台，上班族搭乘早班车，这片区域仍在与它的有轨电车一同成长。
+规划者决定建设一条现代化的有轨电车，服务于这条长长的南北走廊，并在两端与地铁相连——包括北端的地铁6号线香雪站。
+当2020年7月首通段开通时，这是广州东部交通发展的一个里程碑。
+2020年12月全线贯通后，长达14公里的新轨道为沿线居民提供了可靠的日常出行保障。
+今天，学生们步行前往车站，上班族搭乘电车开启晨间通勤，整个行政区正随着有轨电车一同蓬勃发展。
 
 ## 时间故事
-- 2020年7月1日：黄埔有轨电车1号线首段在香雪地铁站至水西地铁站之间开通。
-- 2020年12月28日：全线开通，贯通香雪地铁站至新丰路。
-- 至今：全线建成20座车站，目前19座运营，持续服务黄埔区的学生、上班族和居民。
+- 2020年7月1日：黄埔有轨电车1号线首通段（地铁香雪站至地铁水西站）开通。
+- 2020年12月28日：全线贯通运营，线路从地铁香雪站一直延伸至新丰路。
+- 今天：有轨电车在已建成的20座车站中运行19座活跃站点，为黄埔区的学生、上班族和居民提供服务。
 
 ## 建设中的挑战
-- **沿线需求多样：** 线路途经工业区、科技园、住宅区和学区，各区域需求各不相同。规划者需精心选择站点位置，确保最大程度方便市民出行。
-- **多点地铁接驳：** 在香雪（6号线）、水西和长平等站与现有地铁线路的接驳，需要在每个换乘节点进行精细的工程设计。
-- **边发展边建设：** 黄埔区在建设期间仍在持续新增学校和商业项目。电车工程既要规划未来增长，又要兼顾现有居民的出行需求。
+- **服务多元化的走廊**：线路穿过工业区、科技园、住宅区和学校区域——每一处都有不同的需求。规划者精心挑选站点位置，以造福最多的人。
+- **多条地铁线路连接**：将有轨电车与现有的地铁香雪站（6号线）、水西站和长平站连接起来，需要在每个换乘节点进行精确的工程设计。
+- **在区域持续发展中建设**：黄埔区在施工期间仍在大力新建学校和企业。有轨电车项目必须在服务现有居民的同时，为未来的增长做好规划。
 
 ## 线路概览
-- 起点：香雪地铁站（北端终点站），换乘地铁6号线
-- 终点：新丰路（南端终点站）
-- 线路定位：穿越黄埔科技园区与住宅区的南北走廊
-- 换乘价值：香雪站换乘地铁6号线；水西站和长平站亦可换乘地铁
+- **起点区域**：香雪（北部终点）——换乘地铁6号线
+- **终点区域**：新丰路（南部终点）
+- **线路作用**：穿过黄埔科技园区和住宅区的南北向有轨电车走廊
+- **换乘价值**：在香雪换乘地铁6号线，在水西和长平换乘地铁7号线和21号线
 
-## 孩子们不能错过的重要车站
+## 完整车站列表
 
-### 1) 香雪地铁站
-这里是电车的北端起点站，可换乘地铁6号线前往广州其他地方。
-"香雪"意为"飘香的雪"——这个名字源自附近冬日盛开的洁白梅花，香气远传！
+1. **香雪**
+2. **地铁香雪站** 🔄 6号线
+3. **市民广场**
+4. **黄埔区政府**
+5. **地铁水西站** 🔄 7号线、21号线
+6. **水西**
+7. **峻业路**
+8. **北师大**
+9. **二中苏元**
+10. **长平** 🔄 21号线
+11. **羌信路**
+12. **羌洞**
+13. **长岭居**
+14. **岭头**
+15. **贤江路**
+16. **红会路**
+17. **开源大道东**
+18. **新丰路**
 
-### 2) 北师大实验学校站
+## 小朋友值得看的车站
+
+### 1）地铁香雪站
+这是有轨电车的北部起点。
+在这里你可以换乘地铁6号线去往广州的其他地方。
+“香雪”意为“芬芳的雪”——它得名于每年冬天在附近田野里盛开的洁白梅花！
+
+### 2）北师大实验学校站
 这一站就在学校旁边！
-每天有很多学生乘坐这趟电车来上学，它让黄埔的孩子们上学路更安全、更方便。
+许多学生每天都利用这个车站去上学。
+它展示了有轨电车如何帮助黄埔区的孩子们安全、轻松地抵达学校。
 
-### 3) 长平地铁站
-这一站让乘客换乘另一条地铁线，从黄埔前往广州其他区域更加便捷。
+### 3）长平站
+这一站将有轨电车与另一条地铁线相连。
+它让人们从黄埔前往广州其他地区变得更加容易。
 
-## 趣味小知识
-- 黄埔有轨电车1号线全长约14.3公里，是广州地区最长的现代有轨电车线路之一。
-- 电车使用低地板储能式车辆，乘客上下车无需迈大步，方便快捷。
-- 黄埔区还坐落着历史悠久的黄埔军校，一百多年前，中国许多著名将领在这里接受过训练。
+## 有趣的小知识
+- 黄埔有轨电车1号线长约14.3公里，是广州地区最长的现代有轨电车线路之一。
+- 电车采用低地板储能式车辆——乘客无需爬高台阶即可登车。
+- 黄埔区也是历史悠久的黄埔军校所在地，一百多年前，中国许多著名的军事领袖曾在此受训。
 
-## 词语小助手
-- **有轨电车：** 铺设在街道轨道上行驶的轨道交通工具，通常以电力驱动。
-- **终点站：** 交通线路的第一站或最后一站——旅途的起点或终点。
-- **换乘站：** 乘客可以从一条交通线路换乘另一条的车站。
+## 词语小帮手
+- **有轨电车**：在街道铺设的轨道上行驶、通常由电力驱动的铁路车辆。
+- **终点站**：运输线路的首站或末站——旅程结束的地方。
+- **换乘站**：可以从一条运输线路转乘到另一条线路的车站。
 
 ## 记忆小测验
-1. 黄埔有轨电车1号线全线是哪一天开通的？
-2. 在哪一站可以换乘地铁6号线？
-3. 这条电车线路全长大约多少公里？
+1. 黄埔有轨电车1号线全线是何时贯通的？
+2. 在哪个车站可以换乘地铁6号线？
+3. 这条有轨电车线路全长大约多少公里？
 
 ## 照片
 
 ### 照片1
 
-[![黄埔有轨电车1号线相关列车外观照片1](https://commons.wikimedia.org/wiki/Special:FilePath/THP1%20105%20at%20Changping%20Subway%20Station.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/THP1%20105%20at%20Changping%20Subway%20Station.jpg)
+[![THP1 105 停靠在长平地铁站](https://commons.wikimedia.org/wiki/Special:FilePath/THP1%20105%20at%20Changping%20Subway%20Station.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/THP1%20105%20at%20Changping%20Subway%20Station.jpg)
 
-- 说明：THP1 105 at Changping Subway Station。
-- 来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:THP1%20105%20at%20Changping%20Subway%20Station.jpg)
+- 说明：THP1 105 停靠在长平地铁站。
+- 来源：[维基共享资源](https://commons.wikimedia.org/wiki/File:THP1%20105%20at%20Changping%20Subway%20Station.jpg)
 - 摄影师/作者：请查看 Wikimedia Commons 文件页。
 - 风险说明：低。来源为Wikimedia Commons开放授权资源，但外部链接可用性仍可能变化。
 
 ### 照片2
 
-[![黄埔有轨电车1号线相关列车外观照片2](https://commons.wikimedia.org/wiki/Special:FilePath/THP1%20106%20at%20Qiangdong%20Station,%20Guangzhou%20Tram%2020220625.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/THP1%20106%20at%20Qiangdong%20Station,%20Guangzhou%20Tram%2020220625.jpg)
+[![THP1 106 停靠在羌洞站，广州有轨电车 20220625](https://commons.wikimedia.org/wiki/Special:FilePath/THP1%20106%20at%20Qiangdong%20Station,%20Guangzhou%20Tram%2020220625.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/THP1%20106%20at%20Qiangdong%20Station,%20Guangzhou%20Tram%2020220625.jpg)
 
-- 说明：THP1 106 at Qiangdong Station, Guangzhou Tram 20220625。
-- 来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:THP1%20106%20at%20Qiangdong%20Station,%20Guangzhou%20Tram%2020220625.jpg)
+- 说明：THP1 106 停靠在羌洞站，广州有轨电车 20220625。
+- 来源：[维基共享资源](https://commons.wikimedia.org/wiki/File:THP1%20106%20at%20Qiangdong%20Station,%20Guangzhou%20Tram%2020220625.jpg)
 - 摄影师/作者：请查看 Wikimedia Commons 文件页。
 - 风险说明：低。来源为Wikimedia Commons开放授权资源，但外部链接可用性仍可能变化。
 
 ### 照片3
 
-[![黄埔有轨电车1号线相关列车外观照片3](https://commons.wikimedia.org/wiki/Special:FilePath/THP1%20107%20at%20Shuixi%20Subway%20Station%2020210129.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/THP1%20107%20at%20Shuixi%20Subway%20Station%2020210129.jpg)
+[![THP1 107 停靠在水西地铁站 20210129](https://commons.wikimedia.org/wiki/Special:FilePath/THP1%20107%20at%20Shuixi%20Subway%20Station%2020210129.jpg?width=960)](https://commons.wikimedia.org/wiki/Special:FilePath/THP1%20107%20at%20Shuixi%20Subway%20Station%2020210129.jpg)
 
-- 说明：THP1 107 at Shuixi Subway Station 20210129。
-- 来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:THP1%20107%20at%20Shuixi%20Subway%20Station%2020210129.jpg)
+- 说明：THP1 107 停靠在水西地铁站 20210129。
+- 来源：[维基共享资源](https://commons.wikimedia.org/wiki/File:THP1%20107%20at%20Shuixi%20Subway%20Station%2020210129.jpg)
 - 摄影师/作者：请查看 Wikimedia Commons 文件页。
 - 风险说明：低。来源为Wikimedia Commons开放授权资源，但外部链接可用性仍可能变化。
 
-## 资料来源
-- Line 1 (Guangzhou Huangpu Tram) - Wikipedia: https://en.wikipedia.org/wiki/Line_1_%28Guangzhou_Huangpu_Tram%29
-- MetroMan — Tram Huangpu Line 1: https://www.metroman.cn/en/cities/guangzhou/lines/tram-huangpu-line-1
-- Seetao — Guangzhou Huangpu Tram Line 1 fully operational: https://www.seetao.com/details/54756.html
+## 参考资料
+- 黄埔有轨电车1号线 - 维基百科：https://en.wikipedia.org/wiki/Line_1_%28Guangzhou_Huangpu_Tram%29
+- MetroMan — 黄埔有轨电车1号线：https://www.metroman.cn/en/cities/guangzhou/lines/tram-huangpu-line-1
+- Seetao — 广州黄埔有轨电车1号线全线通车：https://www.seetao.com/details/54756.html

@@ -33,6 +33,25 @@ It gave the city a faster way to travel from west to east and helped shape later
 - **Route role**: A main east–west trunk line across important city districts
 - **Transfer value**: It links with several later lines, including Line 2 at Gongyuanqian, Line 3 at Tiyu Xilu and Guangzhou East Railway Station, and Line 6 at Huangsha and Dongshankou
 
+## Full Station List
+
+1. **Xilang** (西塱) 🔄 Line 10, Line 22, Guangfo Line
+2. **Kengkou** (坑口)
+3. **Huadiwan** (花地湾)
+4. **Fangcun** (芳村) 🔄 Line 11, Line 22
+5. **Huangsha** (黄沙) 🔄 Line 6
+6. **Changshou Lu** (长寿路)
+7. **Chen Clan Academy** (陈家祠) 🔄 Line 8
+8. **Ximenkou** (西门口)
+9. **Gongyuanqian** (公园前) 🔄 Line 2
+10. **Peasant Movement Institute** (农讲所)
+11. **Martyrs' Park** (烈士陵园) 🔄 Line 12
+12. **Dongshankou** (东山口) 🔄 Line 6
+13. **Yangji** (杨箕) 🔄 Line 5
+14. **Tiyu Xilu** (体育西路) 🔄 Line 3, Line 10, Line 13
+15. **Tianhe Sports Center** (体育中心)
+16. **Guangzhou East Railway Station** (广州东站) 🔄 Line 3, Line 11
+
 ## Important Stations for Kids
 
 ### 1) Chen Clan Academy (陈家祠)

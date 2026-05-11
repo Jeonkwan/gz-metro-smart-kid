@@ -3,7 +3,7 @@
 ## Quick Intro
 
 Line 8 runs through some of Guangzhou's most lively districts.
-It connects Jiahewanggang in the north all the way to Wanshengwei in the southeast.
+It connects Jiaoxin in the northwest all the way to Wanshengwei in the southeast.
 The line was born from a big reorganization of the metro network in 2010, when the old Line 2 was split into two separate lines.
 Today, Line 8 has 28 underground stations and stretches about 33.9 kilometers.
 
@@ -14,14 +14,14 @@ As the city grew and more people started using the metro, one long winding line 
 Planners decided to split Line 2 into two simpler lines: a straighter new Line 2 and a brand-new Line 8.
 On September 25, 2010, Line 8 opened for the first time as its own independent line.
 Just weeks later, on November 3, the western section from Fenghuang Xincun to Changgang also opened.
-Ten years later, in November 2020, the northern end was extended all the way to Jiahewanggang.
+Ten years later, in November 2020, the northern end was extended all the way to Jiaoxin.
 Today, Line 8 connects Baiyun, Liwan, and Haizhu districts, passing through exhibition halls, university campuses, and busy neighborhoods.
 
 ## Time Story
 
 - **2007**: The plan to split Line 2 and create Line 8 was officially approved.
 - **2010**: On September 25, Line 8 opened as a new independent line (Changgang to Wanshengwei); the western section (Fenghuang Xincun to Changgang) opened on November 3.
-- **2020**: On November 26, the northern extension from Wenhua Park to Jiahewanggang opened.
+- **2020**: On November 26, the northern extension from Cultural Park to Jiaoxin opened.
 
 Line 8 now serves as a key connector across the western and southern parts of Guangzhou.
 It links daily commuters, university students, and convention visitors all in one ride.
@@ -34,10 +34,41 @@ It links daily commuters, university students, and convention visitors all in on
 
 ## Route Snapshot
 
-- **Start area**: Jiahewanggang (嘉禾望岗), in Baiyun District to the north
+- **Start area**: Jiaoxin (滘心), in Baiyun District to the northwest
 - **End area**: Wanshengwei (万胜围), in Haizhu District to the southeast
 - **Route role**: An L-shaped line connecting northern Guangzhou to the exhibition and university areas of Haizhu
-- **Transfer value**: Connects to Line 2 at Changgang; Line 3 at Kecun; Line 4 and the Haizhu Tram at Wanshengwei; Line 6 and Line 1 at Cultural Park; Line 11 at Pazhou
+- **Transfer value**: Connects with Line 1 at Chen Clan Academy, Line 2 at Changgang, Line 3 at Kecun, Line 4 at Wanshengwei, Line 5 at Xicun, Line 6 at Cultural Park, Line 11 at Pazhou and Caihongqiao, and Line 12 at Chigang and Julong
+
+## Full Station List
+
+1. **Jiaoxin** (滘心)
+2. **Tinggang** (亭岗)
+3. **Shijing** (石井)
+4. **Xiaoping** (小坪)
+5. **Shitan** (石潭)
+6. **Julong** (聚龙) 🔄 Line 12
+7. **Shangbu** (上步)
+8. **Tongde** (同德)
+9. **Ezhangtan** (鹅掌坦)
+10. **Xicun** (西村) 🔄 Line 5
+11. **Caihongqiao** (彩虹桥) 🔄 Line 11, Line 13
+12. **Chen Clan Academy** (陈家祠) 🔄 Line 1
+13. **Hualinsi Buddhist Temple** (华林寺)
+14. **Cultural Park** (文化公园) 🔄 Line 6
+15. **Tongfuxi** (同福西)
+16. **Fenghuang Xincun** (凤凰新村)
+17. **Shayuan** (沙园) 🔄 Guangfo Line
+18. **Baogang Dadao** (宝岗大道)
+19. **Changgang** (昌岗) 🔄 Line 2
+20. **Xiaogang** (晓港)
+21. **Sun Yat-sen University** (中大) 🔄 Line 10 (via Sun Yat-sen University South Entrance)
+22. **Lujiang** (鹭江)
+23. **Kecun** (客村) 🔄 Line 3
+24. **Chigang** (赤岗) 🔄 Line 12
+25. **Modiesha** (磨碟沙) 🔄 Line 18
+26. **Xingangdong** (新港东)
+27. **Pazhou** (琶洲) 🔄 Line 11
+28. **Wanshengwei** (万胜围) 🔄 Line 4, Haizhu Tram
 
 ## Important Stations for Kids
 

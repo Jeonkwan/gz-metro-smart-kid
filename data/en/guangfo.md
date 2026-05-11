@@ -48,7 +48,35 @@ The Guangfo Line grew step by step over eight years until it connected the full 
 - **Start area**: Xincheng Dong (新城东), in Shunde District, Foshan
 - **End area**: Lijiao (沥滘), in Haizhu District, Guangzhou
 - **Route role**: A cross-city connector linking Foshan's urban core to Guangzhou's southern and western districts
-- **Transfer value**: Connects to Guangzhou Metro Line 1 and Line 8 at Xilang; connects to Guangzhou Metro Line 3 at Lijiao; connects to Foshan Metro Line 2 at Kuiqi Lu
+- **Transfer value**: Connects to Guangzhou Metro Line 1, Line 10, Line 22, and Line 8 (via Xilang and Shayuan); connects to Line 2 at Nanzhou and Line 3 at Lijiao; connects to Foshan Metro Line 2 and Line 3
+
+## Full Station List
+
+1. **Xincheng Dong** (新城东)
+2. **Dongping** (东平) 🔄 Foshan Line 3
+3. **Shijilian** (世纪莲)
+4. **Lanshi** (澜石)
+5. **Kuiqi Lu** (魁奇路) 🔄 Foshan Line 2
+6. **Jihua Park** (季华园)
+7. **Tongji Lu** (同济路)
+8. **Zumiao** (祖庙)
+9. **Pujun Beilu** (普君北路)
+10. **Chao'an** (朝安)
+11. **Guicheng** (桂城) 🔄 Foshan Line 3
+12. **Nangui Lu** (南桂路)
+13. **Leigang** (𧒽岗) 🔄 Nanhai Tram 1
+14. **Qiandeng Lake** (千灯湖)
+15. **Financial Hi-tech Zone** (金融高新区)
+16. **Longxi** (龙溪)
+17. **Jushu** (菊树)
+18. **Xilang** (西塱) 🔄 Line 1, Line 10, Line 22
+19. **Hedong** (鹤洞)
+20. **Shachong** (沙涌) 🔄 Line 11
+21. **Shayuan** (沙园) 🔄 Line 8
+22. **Yangang** (燕岗) 🔄 Line 11
+23. **Shixi** (石溪) 🔄 Line 10
+24. **Nanzhou** (南洲) 🔄 Line 2
+25. **Lijiao** (沥滘) 🔄 Line 3
 
 ## Important Stations for Kids
 

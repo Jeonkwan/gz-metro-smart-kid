@@ -40,7 +40,34 @@ Each new stretch brought more people and more places closer together.
 - **Start area**: Jiahewanggang (嘉禾望岗), in the north in Baiyun District
 - **End area**: Guangzhou South Railway Station (广州南站), in the south in Panyu District
 - **Route role**: A north–south trunk line connecting two major railway hubs across four city districts
-- **Transfer value**: Connects with Line 1 and Line 8 at Gongyuanqian, Line 5 at Guangzhou Railway Station, and Lines 7 and 22 near the south end
+- **Transfer value**: Connects with Line 1 and Line 12 at Gongyuanqian, Line 5 at Guangzhou Railway Station, Lines 7 and 22 at Guangzhou South Railway Station, and Line 8 at Changgang
+
+## Full Station List
+
+1. **Jiahewanggang** (嘉禾望岗) 🔄 Line 3, Line 14
+2. **Huangbian** (黄边)
+3. **Jiangxia** (江夏)
+4. **Xiao-gang** (萧岗)
+5. **Baiyun Culture Square** (白云文化广场) 🔄 Line 12
+6. **Baiyun Park** (白云公园)
+7. **Feixiang Park** (飞翔公园)
+8. **Sanyuanli** (三元里)
+9. **Guangzhou Railway Station** (广州火车站) 🔄 Line 5, Line 11, Line 14
+10. **Yuexiu Park** (越秀公园)
+11. **Sun Yat-sen Memorial Hall** (中山纪念堂) 🔄 Line 13
+12. **Gongyuanqian** (公园前) 🔄 Line 1, Line 12
+13. **Haizhu Square** (海珠广场) 🔄 Line 6
+14. **The 2nd Workers' Cultural Palace** (市二宫)
+15. **Jiangnanxi** (江南西)
+16. **Changgang** (昌岗) 🔄 Line 8
+17. **Jiangtai Road** (江泰路) 🔄 Line 11
+18. **Dongxiao South** (东晓南) 🔄 Line 10
+19. **Nanzhou** (南洲) 🔄 Guangfo Line
+20. **Luoxi** (洛溪)
+21. **Nanpu** (南浦)
+22. **Huijiang** (会江)
+23. **Shibi** (石壁) 🔄 Line 7
+24. **Guangzhou South Railway Station** (广州南站) 🔄 Line 7, Line 22
 
 ## Important Stations for Kids
 

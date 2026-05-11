@@ -42,7 +42,27 @@ It helped the city grow closer together and made it easier to travel to cities f
 - **Start area**: Nanzhuang (南庄), in the western part of Foshan
 - **End area**: Guangzhou South Railway Station (广州南站), in Panyu District, Guangzhou
 - **Route role**: A main corridor linking Foshan's Chancheng, Nanhai, and Shunde districts to Guangzhou
-- **Transfer value**: Connects to the Guangfo Line at Kuiqi Lu, Foshan Line 3 at Wanhua, and Guangzhou Metro Lines 2, 7, and 22 at Guangzhou South Station
+- **Transfer value**: Connects to the Guangfo Line at Kuiqi Lu, Foshan Line 3 at Wanhua, Nanhai Tram 1 at Linyue Xi, and Guangzhou Metro Lines 2, 7, and 22 at Guangzhou South Station
+
+## Full Station List
+
+1. **Nanzhuang** (南庄)
+2. **Huchong** (湖涌)
+3. **Lvdao Lake** (绿岛湖)
+4. **Zhihui Xincheng** (智慧新城)
+5. **Zhangcha** (张槎) 🔄 Intercity Rail
+6. **Shiwan** (石湾)
+7. **Shagang** (沙岗)
+8. **Kuiqi Lu** (魁奇路) 🔄 Guangfo Line
+9. **Shiliang** (石梁)
+10. **Wanhua** (湾华) 🔄 Foshan Line 3
+11. **Dengzhou** (登洲)
+12. **Flower World** (花卉世界)
+13. **Xianyong** (仙涌)
+14. **Shizhou** (石洲)
+15. **Linyue Xi** (林岳西) 🔄 Nanhai Tram 1
+16. **Linyue Dong** (林岳东) 🔄 Nanhai Tram 1
+17. **Guangzhou South Railway Station** (广州南站) 🔄 Line 2, Line 7, Line 22, Intercity Rail
 
 ## Important Stations for Kids
 

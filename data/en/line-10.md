@@ -21,7 +21,7 @@ When Line 10 opened in June 2025, Guangzhou welcomed its very first fully driver
 
 - **2016**: Underground construction work began.
 - **June 29, 2025**: The first section from Xilang to Yangji East opened.
-- **December 2025**: One extra station (Sun Yat-sen University South Gate) is planned to open.
+- **December 29, 2025**: Sun Yat-sen University South Entrance station opened.
 
 Line 10 completed the diagonal in Guangzhou's "X-shaped" metro network.
 Passengers can now move between the southwest and northeast without passing through multiple crowded city-center transfers.
@@ -38,7 +38,22 @@ Passengers can now move between the southwest and northeast without passing thro
 - **Start area**: Xilang (西塱), in the southwest (Liwan District)
 - **End area**: Yangji East (杨箕东), in the east (Tianhe District)
 - **Route role**: A diagonal line connecting Liwan, Haizhu, Yuexiu, and Tianhe districts
-- **Transfer value**: Connects to Lines 1, 22, and the Guangfo Line at Xilang; Line 2 at Dongxiao South; Line 11 at Wufeng; Lines 6 and 12 at Donghu; Line 5 at Wuyangcun
+- **Transfer value**: Connects to Lines 1, 22, and the Guangfo Line at Xilang; Line 2 at Dongxiao South; Line 11 at Wufeng; Lines 6 and 12 at Donghu; Line 5 at Wuyangcun; Line 1 at Martyrs' Park (via Martyrs' Park East); Line 1 at Yangji (via Yangji East)
+
+## Full Station List
+
+1. **Xilang** (西塱) 🔄 Line 1, Line 22, Guangfo Line
+2. **Huawei** (广钢新城/华威)
+3. **Dongsha** (东沙)
+4. **Daganwei** (大干围)
+5. **Gongye Avenue South** (工业大道南)
+6. **Dongxiao South** (东晓南) 🔄 Line 2
+7. **Wufeng** (五凤) 🔄 Line 11
+8. **Sun Yat-sen University South Entrance** (中大南门)
+9. **Binjiang East Road** (滨江东路)
+10. **Donghu** (东湖) 🔄 Line 6, Line 12
+11. **Wuyangcun** (五羊邨) 🔄 Line 5
+12. **Yangji East** (杨箕东) 🔄 Line 1, Line 5 (via Yangji)
 
 ## Important Stations for Kids
 

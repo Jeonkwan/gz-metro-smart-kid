@@ -30,10 +30,28 @@ Today, the tram helps unite different neighbourhoods in Nanhai and connects them
 - **Connecting to multiple metro systems:** The tram needed to work smoothly with the Guangfo Metro at Leigang in the north and the Foshan Metro at Linyue in the south, each operating as a separate network.
 
 ## Route Snapshot
-- Start area: Leigang (礌岗) — transfer to the Guangfo Metro
-- End area: Linyuedong (林岳东) — transfer to Foshan Metro Line 2
-- Route role: North-south tram corridor through Nanhai District, linking Guilin, Pingzhou, Sanshan, and Linyue communities
-- Transfer value: Guangfo Metro at Leigang; Foshan Metro Line 2 at Linyuexi and Linyuedong
+- **Start area**: Leigang (𧒽岗) — transfer to the Guangfo Metro
+- **End area**: Linyue Dong (林岳东) — transfer to Foshan Metro Line 2
+- **Route role**: North-south tram corridor through Nanhai District, linking Guilin, Pingzhou, Sanshan, and Linyue
+- **Transfer value**: Connects to Guangfo Metro at Leigang, and Foshan Metro Line 2 at Linyue Xi and Linyue Dong
+
+## Full Station List
+
+1. **Leigang** (𧒽岗) 🔄 Guangfo Line
+2. **Huacui Lu** (华翠路)
+3. **Xiaxi** (夏西)
+4. **Xiadong** (夏东)
+5. **Kangyi Park** (康怡公园)
+6. **Pingxi** (平西)
+7. **Pingnan** (平南)
+8. **Yuqijie** (玉器街)
+9. **Zhongqu** (中区)
+10. **Sanshan Xincheng North** (三山新城北)
+11. **Wenhanhu Park (Jihua Laboratory)** (文翰湖公园 / 季华实验室)
+12. **Sanshan Xincheng South** (三山新城南)
+13. **Linyue Bei** (林岳北)
+14. **Linyue Xi** (林岳西) 🔄 Foshan Line 2
+15. **Linyue Dong** (林岳东) 🔄 Foshan Line 2
 
 ## Important Stations for Kids
 

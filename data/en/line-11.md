@@ -41,6 +41,40 @@ Guangzhou became the eighth city in China, and the first in the Greater Bay Area
 - **Full loop time**: About 75 minutes
 - **Transfer value**: 26 of the 31 stations connect to other metro lines, earning Line 11 the nickname "King of Transfers"
 
+## Full Station List
+
+1. **Chisha** (赤沙)
+2. **Pazhou** (琶洲) 🔄 Line 8
+3. **Yuancun** (员村) 🔄 Line 5
+4. **Tianhe Park** (天河公园) 🔄 Line 13, Line 21
+5. **Huajing Road** (华景路)
+6. **South China Normal University** (华师) 🔄 Line 3
+7. **Longkouxi** (龙口西)
+8. **Guangzhou East Railway Station** (广州东站) 🔄 Line 1, Line 3
+9. **Shahe** (沙河) 🔄 Line 6
+10. **Yuntai Garden** (云台花园)
+11. **Dajinzhong Road** (大金钟路)
+12. **Guangzhou University of Chinese Medicine** (广中医)
+13. **Ziyuangang** (梓元岗)
+14. **Guangzhou Railway Station** (广州火车站) 🔄 Line 2, Line 5, Line 14
+15. **Liuhua** (流花)
+16. **Caihong Bridge** (彩虹桥) 🔄 Line 8, Line 13
+17. **Zhongshanba** (中山八) 🔄 Line 5
+18. **Ruyifang** (如意坊) 🔄 Line 6
+19. **Shiweitang** (石围塘)
+20. **Fangcun** (芳村) 🔄 Line 1, Line 22
+21. **Dachongkou** (大冲口)
+22. **Shachong** (沙涌) 🔄 Guangfo Line
+23. **Hedong East** (鹤洞东)
+24. **Diyuan** (棣园)
+25. **Yangang** (燕岗) 🔄 Guangfo Line
+26. **Jiangtai Road** (江泰路) 🔄 Line 2
+27. **Wufeng** (五凤) 🔄 Line 10
+28. **Yijing Road** (逸景路)
+29. **Shangchong** (上涌)
+30. **Datang** (大塘) 🔄 Line 3
+31. **Longtan** (龙潭) 🔄 Line 18
+
 ## Important Stations for Kids
 
 ### 1) Guangzhou Railway Station (广州火车站)

@@ -4,8 +4,8 @@
 
 Line 6 is Guangzhou's purple metro line.
 Its first section opened on December 28, 2013, running through the heart of the old city.
-In 2016, the line was extended westward to Bijiang, near the border with Foshan.
-Today, Line 6 connects history, art, and old neighborhoods across 28 stations.
+In 2016, the line was extended eastward to Xiangxue in Huangpu District.
+Today, Line 6 connects history, art, and modern suburbs across 32 stations.
 
 ## Story Time
 
@@ -14,29 +14,64 @@ Many old neighborhoods had beautiful buildings but were hard to reach quickly.
 City planners wanted a metro line that would bring people easily to these cultural treasures.
 After years of construction, the first section opened on December 28, 2013.
 People could finally ride under the old city and step out into its historic lanes.
-In 2016, the western extension reached the Bijiang water town area near the Guangzhou–Foshan border.
-Line 6 still matters today because it carries people through some of the most historically and culturally rich parts of Guangzhou.
+In 2016, the eastern extension reached the growing Xiangxue area in Huangpu District.
+Line 6 still matters today because it carries people through some of the most historically and culturally rich parts of Guangzhou, while also connecting the far eastern suburbs to the city center.
 
 ## Time Story
 
 - **2013**: Phase 1 opened on December 28, running from Xunfenggang to Changban through the historic city center.
-- **2016**: The western extension opened on December 28, reaching Bijiang in Foshan's Nanhai District.
+- **2016**: The eastern extension opened on December 28, reaching Xiangxue in Huangpu District.
 
 Line 6 helped people explore the old cultural heart of Guangzhou without sitting in traffic.
-It connected the eastern historic districts to the western parts of the city and beyond.
+It connected the eastern suburbs to the historic districts and the western parts of the city.
 
 ## Challenges Along the Way
 
 - **Protecting old buildings**: Tunneling under the old Dongshan district required engineers to work very carefully to avoid shaking or cracking the historic buildings above.
 - **Busy streets above**: The streets above the construction route were crowded. Workers could not close them for long, so they had to build the tunnels quickly and carefully.
-- **Cross-city coordination**: The western extension crossed from Guangzhou into Nanhai District in Foshan. That meant two different city governments had to plan and build the route together.
+- **Shahe Station construction**: Building the station at Shahe was extremely difficult due to complex ground conditions and the need to protect surrounding buildings, leading it to open later than the rest of the line.
 
 ## Route Snapshot
 
-- **Start area**: Changban (长板), eastern terminus in the Tianhe–Huangpu border area
-- **End area**: Bijiang (碧江), western terminus near the Guangzhou–Foshan border
-- **Route role**: An east–west line running through historic old-city districts and cultural areas
-- **Transfer value**: Connects with Line 1 at Huangsha and Dongshan Kou
+- **Start area**: Xunfenggang (浔峰岗), western terminus in Baiyun District
+- **End area**: Xiangxue (香雪), eastern terminus in Huangpu District
+- **Route role**: An east–west line running through historic old-city districts, cultural areas, and eastern suburbs
+- **Transfer value**: Connects with Line 1 at Huangsha and Dongshan Kou; to Line 5 at Tanwei and Ouzhuang; to Line 3 at Yantang and Tianhe Coach Terminal; to Line 21 at Suyuan; and to Line 7 at Luogang.
+
+## Full Station List
+
+1. **Xunfenggang** (Transfer to Line 12)
+2. **Hengsha**
+3. **Shabei**
+4. **Hesha**
+5. **Tanwei** (Transfer to Line 5)
+6. **Ruyifang** (Transfer to Line 11)
+7. **Huangsha** (Transfer to Line 1)
+8. **Cultural Park** (Transfer to Line 8)
+9. **Yide Lu**
+10. **Haizhu Square** (Transfer to Line 2)
+11. **Beijing Lu**
+12. **Tuanyida Square**
+13. **Donghu** (Transfer to Line 10 & Line 12)
+14. **Dongshankou** (Transfer to Line 1)
+15. **Ouzhuang** (Transfer to Line 5)
+16. **Huanghuagang**
+17. **Shaheding**
+18. **Shahe** (Transfer to Line 11)
+19. **Tianpingjia**
+20. **Yantang** (Transfer to Line 3)
+21. **Tianhe Coach Terminal** (Transfer to Line 3)
+22. **Changban**
+23. **Botanical Garden**
+24. **Longdong**
+25. **Kemulang**
+26. **Gaotangshi**
+27. **Huangbei**
+28. **Jinfeng**
+29. **Xiangang**
+30. **Suyuan** (Transfer to Line 21)
+31. **Luogang** (Transfer to Line 7)
+32. **Xiangxue** (Transfer to Huangpu Tram 1)
 
 ## Important Stations for Kids
 
@@ -63,10 +98,10 @@ It is a great place to explore history from two different parts of the world in 
 
 ## Fun Facts
 
-- Line 6 is about **49 kilometers** long.
-- It has **28 stations** in total.
+- Line 6 is about **42 kilometers** long.
+- It has **32 stations** in total.
 - The line passes through neighborhoods famous for **Republican-era architecture**, buildings from the early 20th century.
-- The western extension of Line 6 crosses into **Foshan's Nanhai District**, making it a cross-city line.
+- Line 6 has some of the **smallest trains** in Guangzhou, with only 4 cars each!
 
 ## Word Helper
 
