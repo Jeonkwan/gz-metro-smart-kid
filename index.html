@@ -618,9 +618,12 @@ function getCurrentRouteLine() {
   return routeLineId ? getLineById(decodeURIComponent(routeLineId)) : null;
 }
 
-function updateRoute(line, mode = 'push') {
+function updateRoute(line, mode = 'push', options = {}) {
   const url = line ? `#${encodeURIComponent(line.id)}` : `${window.location.pathname}${window.location.search}`;
-  const state = { lineId: line ? line.id : null };
+  const state = {
+    lineId: line ? line.id : null,
+    fromIndex: Boolean(options.fromIndex),
+  };
   if (mode === 'replace') {
     window.history.replaceState(state, '', url);
     return;
@@ -629,7 +632,7 @@ function updateRoute(line, mode = 'push') {
 }
 
 function openLineDetail(line) {
-  updateRoute(line, 'push');
+  updateRoute(line, 'push', { fromIndex: !currentLine });
   showLine(line);
 }
 
@@ -709,7 +712,7 @@ async function showLine(line) {
 }
 
 function goBackFromDetail() {
-  if (window.history.length > 1) {
+  if (window.history.state?.fromIndex) {
     window.history.back();
     return;
   }
