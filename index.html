@@ -452,7 +452,7 @@
           <h2 id="detail-title"></h2>
         </div>
         <div class="detail-actions">
-          <button class="nav-btn" id="back-btn" onclick="goBackFromDetail()" aria-label="Back">
+          <button class="nav-btn" id="back-btn" onclick="goBackFromDetail()">
             <span aria-hidden="true">←</span>
             <span id="back-btn-text">Back</span>
           </button>
@@ -618,7 +618,7 @@ function getCurrentRouteLine() {
   if (!routeLineId) return null;
   const decodedLineId = decodeURIComponent(routeLineId);
   const routeLine = getLineById(decodedLineId);
-  if (!routeLine) console.warn(`Unknown line route: ${decodedLineId}`);
+  if (!routeLine) console.warn(`Unknown line route: ${decodedLineId.slice(0, 120)}`);
   return routeLine;
 }
 
@@ -658,7 +658,7 @@ function syncViewToRoute() {
   showLine(routeLine);
 }
 
-function isStaleDetailRequest(requestId, line) {
+function isStaleDetailRequest(requestId) {
   return requestId !== activeDetailRequest;
 }
 
@@ -703,11 +703,11 @@ async function showLine(line) {
     const resp = await fetch(`data/${lang}/${line.id}.md`);
     if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
     const md   = await resp.text();
-    if (isStaleDetailRequest(requestId, line)) return;
+    if (isStaleDetailRequest(requestId)) return;
     contentArea.innerHTML = renderer.parse(md);
     wrapMarkdownTables(contentArea);
   } catch (e) {
-    if (isStaleDetailRequest(requestId, line)) return;
+    if (isStaleDetailRequest(requestId)) return;
     const errorMsg = e instanceof Error ? e.message : String(e);
     const errorBox = document.createElement('div');
     const detailMsg = document.createElement('small');
@@ -752,7 +752,6 @@ function applyLangUI() {
   document.getElementById('footer-text').innerHTML    = t.footer;
   document.getElementById('lang-btn').textContent     = t.langBtn;
   document.getElementById('back-btn-text').textContent = t.detailBack;
-  document.getElementById('back-btn').setAttribute('aria-label', t.detailBack);
   document.documentElement.lang = lang === 'zh' ? 'zh-CN' : 'en';
 }
 
