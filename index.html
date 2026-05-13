@@ -618,7 +618,7 @@ function getCurrentRouteLine() {
   if (!routeLineId) return null;
   const decodedLineId = decodeURIComponent(routeLineId);
   const routeLine = getLineById(decodedLineId);
-  if (!routeLine) console.warn(`Unknown line route: ${decodedLineId.slice(0, 120)}`);
+  if (!routeLine) console.warn('Unknown line route in URL hash.');
   return routeLine;
 }
 
@@ -636,8 +636,8 @@ function updateRoute(line, mode = 'push', options = {}) {
 }
 
 function openLineDetail(line) {
-  const isIndexView = !document.getElementById('app').classList.contains('detail-open');
-  updateRoute(line, 'push', { fromIndex: isIndexView });
+  const cameFromIndex = !document.getElementById('app').classList.contains('detail-open');
+  updateRoute(line, 'push', { fromIndex: cameFromIndex });
   showLine(line);
 }
 
@@ -696,7 +696,8 @@ async function showLine(line) {
   titleEl.textContent = name;
   contentArea.innerHTML = '<div class="loading">⏳</div>';
   app.classList.add('detail-open');
-  window.scrollTo({ top: 0, behavior: 'smooth' });
+  const prefersReducedMotion = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  window.scrollTo({ top: 0, behavior: prefersReducedMotion ? 'auto' : 'smooth' });
 
   try {
     const renderer = await window.markedReady;
