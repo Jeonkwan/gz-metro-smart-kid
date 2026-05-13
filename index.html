@@ -615,7 +615,11 @@ function getLineById(lineId) {
 
 function getCurrentRouteLine() {
   const routeLineId = window.location.hash.replace(/^#/, '').trim();
-  return routeLineId ? getLineById(decodeURIComponent(routeLineId)) : null;
+  if (!routeLineId) return null;
+  const decodedLineId = decodeURIComponent(routeLineId);
+  const routeLine = getLineById(decodedLineId);
+  if (!routeLine) console.warn(`Unknown line route: ${decodedLineId}`);
+  return routeLine;
 }
 
 function updateRoute(line, mode = 'push', options = {}) {
@@ -632,7 +636,8 @@ function updateRoute(line, mode = 'push', options = {}) {
 }
 
 function openLineDetail(line) {
-  updateRoute(line, 'push', { fromIndex: !currentLine });
+  const isIndexView = !document.getElementById('app').classList.contains('detail-open');
+  updateRoute(line, 'push', { fromIndex: isIndexView });
   showLine(line);
 }
 
@@ -654,7 +659,7 @@ function syncViewToRoute() {
 }
 
 function isStaleDetailRequest(requestId, line) {
-  return requestId !== activeDetailRequest || currentLine?.id !== line.id;
+  return requestId !== activeDetailRequest;
 }
 
 /* ─────────────────────────────────────────
