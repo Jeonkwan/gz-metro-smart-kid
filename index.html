@@ -157,27 +157,26 @@
     .line-btn:active { transform: scale(0.97); }
 
     /* ── Detail view ── */
+    #app.detail-open #index-view { display: none; }
+    #app.detail-open #detail-view { display: block; }
+
     #detail-view {
       display: none;
-      position: fixed;
-      inset: 0;
-      z-index: 100;
-      overflow-y: auto;
-      background: rgba(10,10,40,0.55);
-      backdrop-filter: blur(3px);
-      padding: 20px 16px 40px;
+      padding: 28px clamp(12px, 3vw, 20px) 60px;
+      min-height: calc(100vh - 120px);
       animation: fadeIn 0.25s ease;
     }
     @keyframes fadeIn { from { opacity: 0 } to { opacity: 1 } }
 
     .detail-card {
-      max-width: 720px;
+      max-width: 960px;
       margin: 0 auto;
       background: var(--card-bg);
       border-radius: 28px;
       overflow: hidden;
       box-shadow: 0 12px 48px rgba(0,0,0,0.35);
       animation: slideUp 0.3s ease;
+      min-height: calc(100vh - 220px);
     }
     @keyframes slideUp { from { transform: translateY(40px); opacity: 0 } to { transform: translateY(0); opacity: 1 } }
 
@@ -208,20 +207,39 @@
       flex-shrink: 0;
     }
 
+    .nav-btn,
     .icon-btn {
       border: none;
+      cursor: pointer;
+      transition: transform 0.15s, opacity 0.15s;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: 'Nunito', sans-serif;
+      font-weight: 800;
+    }
+
+    .nav-btn {
+      min-height: 44px;
+      padding: 0 16px;
+      border-radius: 999px;
+      gap: 8px;
+      font-size: 1rem;
+      background: rgba(255,255,255,0.25);
+    }
+
+    .icon-btn {
       border-radius: 50%;
       width: 44px; height: 44px;
       font-size: 1.3rem;
-      cursor: pointer;
-      transition: transform 0.15s, opacity 0.15s;
-      display: flex; align-items: center; justify-content: center;
       background: rgba(255,255,255,0.25);
     }
-    .icon-btn:hover { transform: scale(1.12); opacity: 0.9; }
+    .nav-btn:hover,
+    .icon-btn:hover { transform: scale(1.06); opacity: 0.9; }
 
     .detail-body {
       padding: 28px 28px 36px;
+      min-height: 320px;
     }
 
     /* ── Markdown content styles ── */
@@ -330,9 +348,6 @@
         top: 14px;
         right: 14px;
       }
-      .detail-card {
-        border-radius: 24px;
-      }
       .detail-header {
         padding: 18px 18px 14px;
         align-items: flex-start;
@@ -343,7 +358,7 @@
       }
       .detail-actions {
         width: 100%;
-        justify-content: flex-end;
+        justify-content: space-between;
       }
       .detail-body {
         padding: 22px 18px 30px;
@@ -371,9 +386,14 @@
       }
       .detail-card {
         border-radius: 20px;
+        min-height: calc(100vh - 170px);
       }
       .detail-header {
         padding: 16px 16px 12px;
+      }
+      .nav-btn {
+        padding: 0 14px;
+        font-size: 0.95rem;
       }
       #lang-btn { top: 12px; right: 12px; padding: 6px 12px; font-size: 0.85rem; }
       .detail-body { padding: 18px 16px 28px; }
@@ -423,8 +443,8 @@
     <footer id="footer-text">🚇 Tap a line to explore! • Made with ❤️ for curious kids</footer>
   </div>
 
-  <!-- ── Detail panel ── -->
-  <div id="detail-view" role="dialog" aria-modal="true" aria-labelledby="detail-title">
+  <!-- ── Detail page ── -->
+  <section id="detail-view" aria-labelledby="detail-title">
     <div class="detail-card">
       <div class="detail-header" id="detail-header">
         <div class="detail-header-left">
@@ -432,15 +452,18 @@
           <h2 id="detail-title"></h2>
         </div>
         <div class="detail-actions">
+          <button class="nav-btn" id="back-btn" onclick="goBackFromDetail()" aria-label="Back">
+            <span aria-hidden="true">←</span>
+            <span id="back-btn-text">Back</span>
+          </button>
           <button class="icon-btn" id="speak-btn" onclick="readAloud()" title="Read Aloud" aria-label="Read aloud">🔊</button>
-          <button class="icon-btn" onclick="closeDetail()" title="Close" aria-label="Close">✕</button>
         </div>
       </div>
       <div class="detail-body">
         <div class="md-content" id="content-area"></div>
       </div>
     </div>
-  </div>
+  </section>
 
 </div><!-- #app -->
 
@@ -489,6 +512,7 @@ const ui = {
     sectionFs:   '🏯 Foshan & Nanhai Lines',
     footer:      '🚇 Tap a line to explore! • Made with ❤️ for curious kids',
     langBtn:     '中文',
+    detailBack:  'Back',
     stopSpeak:   '⏹️',
     startSpeak:  '🔊',
   },
@@ -500,6 +524,7 @@ const ui = {
     sectionFs:   '🏯 佛山与南海线路',
     footer:      '🚇 点击线路开始探索！• 用❤️为好奇的小朋友制作',
     langBtn:     'English',
+    detailBack:  '返回',
     stopSpeak:   '⏹️',
     startSpeak:  '🔊',
   }
@@ -512,6 +537,7 @@ let lang = 'en';
 let currentLine = null;
 let isSpeaking = false;
 let voiceLoadPending = false;  // prevents multiple poll intervals on repeated taps
+let activeDetailRequest = 0;
 
 /* ─────────────────────────────────────────
    LUMINANCE HELPER
@@ -567,7 +593,7 @@ function buildGrids() {
       btn.setAttribute('aria-label', name);
       btn.style.cssText = `background:${line.color};color:${fg};`;
       btn.innerHTML = `<span class="btn-emoji">${line.emoji}</span><span>${name}</span>`;
-      btn.addEventListener('click', () => showLine(line));
+      btn.addEventListener('click', () => openLineDetail(line));
       grid.appendChild(btn);
     });
   });
@@ -583,15 +609,57 @@ function wrapMarkdownTables(root) {
   });
 }
 
+function getLineById(lineId) {
+  return lines.find(line => line.id === lineId) || null;
+}
+
+function getCurrentRouteLine() {
+  const routeLineId = window.location.hash.replace(/^#/, '').trim();
+  return routeLineId ? getLineById(decodeURIComponent(routeLineId)) : null;
+}
+
+function updateRoute(line, mode = 'push') {
+  const url = line ? `#${encodeURIComponent(line.id)}` : `${window.location.pathname}${window.location.search}`;
+  const state = { lineId: line ? line.id : null };
+  if (mode === 'replace') {
+    window.history.replaceState(state, '', url);
+    return;
+  }
+  window.history.pushState(state, '', url);
+}
+
+function openLineDetail(line) {
+  updateRoute(line, 'push');
+  showLine(line);
+}
+
+function showIndexView() {
+  stopSpeech();
+  activeDetailRequest += 1;
+  currentLine = null;
+  document.getElementById('app').classList.remove('detail-open');
+  document.getElementById('content-area').replaceChildren();
+}
+
+function syncViewToRoute() {
+  const routeLine = getCurrentRouteLine();
+  if (!routeLine) {
+    showIndexView();
+    return;
+  }
+  showLine(routeLine);
+}
+
 /* ─────────────────────────────────────────
    SHOW LINE DETAIL
 ───────────────────────────────────────── */
 async function showLine(line) {
+  const requestId = ++activeDetailRequest;
   currentLine = line;
   stopSpeech();
 
-  // Show panel immediately with loading indicator
-  const detail = document.getElementById('detail-view');
+  // Show page immediately with loading indicator
+  const app = document.getElementById('app');
   const header = document.getElementById('detail-header');
   const contentArea = document.getElementById('content-area');
   const emojiEl = document.getElementById('detail-emoji');
@@ -607,21 +675,27 @@ async function showLine(line) {
     b.style.background = iconBtnBgFor(fg);
     b.style.color = fg;
   });
+  document.querySelectorAll('.detail-header .nav-btn').forEach(b => {
+    b.style.background = iconBtnBgFor(fg);
+    b.style.color = fg;
+  });
 
   emojiEl.textContent = line.emoji;
   titleEl.textContent = name;
   contentArea.innerHTML = '<div class="loading">⏳</div>';
-  detail.style.display = 'block';
-  document.body.style.overflow = 'hidden';
+  app.classList.add('detail-open');
+  window.scrollTo({ top: 0, behavior: 'smooth' });
 
   try {
     const renderer = await window.markedReady;
     const resp = await fetch(`data/${lang}/${line.id}.md`);
     if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
     const md   = await resp.text();
+    if (requestId !== activeDetailRequest || currentLine?.id !== line.id) return;
     contentArea.innerHTML = renderer.parse(md);
     wrapMarkdownTables(contentArea);
   } catch (e) {
+    if (requestId !== activeDetailRequest || currentLine?.id !== line.id) return;
     const errorMsg = e instanceof Error ? e.message : String(e);
     const errorBox = document.createElement('div');
     const detailMsg = document.createElement('small');
@@ -634,20 +708,16 @@ async function showLine(line) {
   }
 }
 
-function closeDetail() {
-  stopSpeech();
-  document.getElementById('detail-view').style.display = 'none';
-  document.body.style.overflow = '';
-  currentLine = null;
+function goBackFromDetail() {
+  if (window.history.length > 1) {
+    window.history.back();
+    return;
+  }
+  updateRoute(null, 'replace');
+  showIndexView();
 }
 
-// Close on backdrop click
-document.getElementById('detail-view').addEventListener('click', function(e) {
-  if (e.target === this) closeDetail();
-});
-
-// Close on Escape key
-document.addEventListener('keydown', e => { if (e.key === 'Escape') closeDetail(); });
+window.addEventListener('popstate', syncViewToRoute);
 
 /* ─────────────────────────────────────────
    LANGUAGE TOGGLE
@@ -669,6 +739,8 @@ function applyLangUI() {
   document.getElementById('section-fs').textContent   = t.sectionFs;
   document.getElementById('footer-text').innerHTML    = t.footer;
   document.getElementById('lang-btn').textContent     = t.langBtn;
+  document.getElementById('back-btn-text').textContent = t.detailBack;
+  document.getElementById('back-btn').setAttribute('aria-label', t.detailBack);
   document.documentElement.lang = lang === 'zh' ? 'zh-CN' : 'en';
 }
 
@@ -814,6 +886,8 @@ function readAloud() {
 ───────────────────────────────────────── */
 applyLangUI();
 buildGrids();
+updateRoute(getCurrentRouteLine(), 'replace');
+syncViewToRoute();
 </script>
 </body>
 </html>
