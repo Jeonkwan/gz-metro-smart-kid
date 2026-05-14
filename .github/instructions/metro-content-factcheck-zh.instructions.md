@@ -15,7 +15,7 @@ When editing files under `data/zh/*.md`, you must run a fact-check review before
 - station highlights
 - fun facts
 3. If a changed core claim has only one reliable source, flag it as single-source in notes.
-4. Confirm the paired English file under `data/en/<line-id>.md` is fact-consistent.
+4. Confirm the paired English file under `data/en/<line-id>.md` is fact-consistent, and that each station mentioned has the correct Chinese name of the station next to it.
 
 ## Completion Gate
 Do not finalize ZH content edits unless:

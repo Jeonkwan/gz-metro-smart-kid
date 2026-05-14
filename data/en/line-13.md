@@ -24,20 +24,20 @@ The ground there is made of soft, wet river mud — not solid rock.
 Engineers had to reinforce the soil at every step.
 
 After years of hard work, Phase 1 of Line 13 opened on 28 December 2017.
-It ran from Yuzhu in Huangpu District all the way to Xinsha in Zengcheng — 11 stations, 25.6 kilometres, all underground.
+It ran from Yuzhu (Transfer to Line 13) in Huangpu District all the way to Xinsha (新沙) in Zengcheng — 11 stations, 25.6 kilometres, all underground.
 
 For the first time, Zengcheng residents could ride a fast metro into the city.
 The journey that once took over an hour by road now felt quick and comfortable.
 
 Phase 2 later extended the line westward, deeper into the city.
 A partial section opened on 29 September 2025, bringing the total to 15 stations.
-When fully complete, Line 13 will run from Chaoyang in the west all the way to Xinsha in the east.
+When fully complete, Line 13 will run from Chaoyang in the west all the way to Xinsha (新沙) in the east.
 
 ## Time Story
 
 - **Around 2010**: Planning for Line 13 begins. Designers study how to connect Zengcheng to central Guangzhou.
 - **2013**: Construction is officially approved and work begins.
-- **28 December 2017**: Phase 1 opens — 11 stations from Yuzhu to Xinsha, all underground.
+- **28 December 2017**: Phase 1 opens — 11 stations from Yuzhu (Transfer to Line 13) to Xinsha (新沙), all underground.
 - **29 September 2025**: Phase 2 partially opens, extending the line westward into Tianhe District.
 - **Future**: Construction of the remaining western sections is ongoing to complete the full route.
 
@@ -58,19 +58,19 @@ Line 13's story is still being written. Each new station brings more people clos
 - **Start area**: Tianhe Park (天河公园) — current western terminus in Tianhe District
 - **End area**: Xinsha (新沙) — Zengcheng District
 - **Route role**: High-speed east-west connector linking Zengcheng and Huangpu to the city center
-- **Transfer value**: Connects to Line 11 and Line 21 at Tianhe Park, Line 4 at Chebei, Line 5 and Line 11 at Yuzhu, and Line 7 at Yufengwei
+- **Transfer value**: Connects to Line 11 and Line 21 at Tianhe Park (天河公园), Line 4 at Chebei (车陂), Line 5 and Line 11 at Yuzhu (Transfer to Line 13), and Line 7 at Yufengwei (裕丰围)
 
 ## Full Station List
 
 1. **Tianhe Park** (天河公园) 🔄 Line 11, Line 21
 2. **Tangxia** (棠下)
 3. **Chebei** (车陂) 🔄 Line 4
-4. **Tianhe Zhucun** (天河珠村)
-5. **Yuzhu** (鱼珠) 🔄 Line 5, Line 11
+4. **Tianhe Zhucun (朱村)** (天河珠村)
+5. **Yuzhu (Transfer to Line 13)** (鱼珠) 🔄 Line 5, Line 11
 6. **Yufengwei** (裕丰围) 🔄 Line 7
-7. **Shuanggang** (双岗)
+7. **Shuanggang (Transfer to Line 13)** (双岗)
 8. **Nanhai God Temple** (南海神庙)
-9. **Xiayuan** (夏园) 🔄 Line 5
+9. **Xiayuan (Transfer to Line 13)** (夏园) 🔄 Line 5
 10. **Nangang** (南岗)
 11. **Shacun** (沙村)
 12. **Baijiang** (白江)
@@ -80,10 +80,10 @@ Line 13's story is still being written. Each new station brings more people clos
 
 ## Important Stations for Kids
 
-### 1) Yuzhu (鱼珠)
+### 1) Yuzhu (Transfer to Line 13) (鱼珠)
 
-Yuzhu is the main transfer station between Line 13 and Line 5.
-"Yuzhu" means "fish pier" in Chinese — the area was once a busy spot along the Pearl River where fishing boats docked.
+Yuzhu (Transfer to Line 13) is the main transfer station between Line 13 and Line 5.
+"Yuzhu (Transfer to Line 13)" means "fish pier" in Chinese — the area was once a busy spot along the Pearl River where fishing boats docked.
 Today it is a lively urban district in Huangpu.
 
 ### 2) South Sea God Temple (南海神庙)
@@ -96,8 +96,8 @@ It is a National Intangible Cultural Heritage event — meaning the government p
 
 ### 3) Xintang (新塘)
 
-Xintang is the gateway station for Zengcheng District.
-"Xintang" means "new pond" — the area has many ponds and waterways from its farming past.
+Xintang (新塘) is the gateway station for Zengcheng District.
+"Xintang (新塘)" means "new pond" — the area has many ponds and waterways from its farming past.
 In the future, this station will also connect to Lines 16 and 20, making it an important hub for the whole eastern part of Guangzhou.
 
 ## Fun Facts

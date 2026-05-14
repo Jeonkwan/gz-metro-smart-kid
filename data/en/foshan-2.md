@@ -3,7 +3,7 @@
 ## Quick Intro
 
 Foshan Metro Line 2 is a red metro line in Foshan City, Guangdong Province.
-Phase 1 opened on December 28, 2021, connecting Nanzhuang in the west to Guangzhou South Railway Station in the southeast.
+Phase 1 opened on December 28, 2021, connecting Nanzhuang (南庄) in the west to Guangzhou South Railway Station (广州南站) in the southeast.
 The line runs for about 32.4 kilometers and has 17 stations.
 It links three of Foshan's main districts and takes passengers all the way to one of China's biggest high-speed railway hubs.
 
@@ -19,14 +19,14 @@ Construction started in 2014 after years of planning.
 Workers dug tunnels under rivers and through soft ground across Foshan.
 The work was long and difficult, but on December 28, 2021, Line 2 finally opened.
 
-Now people can ride from the quieter western parts of Foshan all the way to Guangzhou South Railway Station without changing lines.
+Now people can ride from the quieter western parts of Foshan all the way to Guangzhou South Railway Station (广州南站) without changing lines.
 Line 2 still matters today because it gives Foshan a fast, reliable link between its districts and the national high-speed rail network.
 
 ## Time Story
 
 - **2007**: Early planning for Line 2 began.
 - **2014**: Construction officially started.
-- **2021**: Phase 1 opened on December 28, connecting Nanzhuang to Guangzhou South Railway Station.
+- **2021**: Phase 1 opened on December 28, connecting Nanzhuang (南庄) to Guangzhou South Railway Station (广州南站).
 
 Line 2 became Foshan's main east-west fast route.
 It helped the city grow closer together and made it easier to travel to cities far away.
@@ -42,7 +42,7 @@ It helped the city grow closer together and made it easier to travel to cities f
 - **Start area**: Nanzhuang (南庄), in the western part of Foshan
 - **End area**: Guangzhou South Railway Station (广州南站), in Panyu District, Guangzhou
 - **Route role**: A main corridor linking Foshan's Chancheng, Nanhai, and Shunde districts to Guangzhou
-- **Transfer value**: Connects to the Guangfo Line at Kuiqi Lu, Foshan Line 3 at Wanhua, Nanhai Tram 1 at Linyue Xi, and Guangzhou Metro Lines 2, 7, and 22 at Guangzhou South Station
+- **Transfer value**: Connects to the Guangfo Line at Kuiqi Lu (魁奇路), Foshan Line 3 at Wanhua (湾华), Nanhai Tram 1 at Linyue Xi (林岳西), and Guangzhou Metro Lines 2, 7, and 22 at Guangzhou South Station
 
 ## Full Station List
 
@@ -68,13 +68,13 @@ It helped the city grow closer together and made it easier to travel to cities f
 
 ### 1) Shiwan (石湾)
 
-Shiwan is a famous ceramics town with a history of over a thousand years.
+Shiwan (石湾) is a famous ceramics town with a history of over a thousand years.
 The station was built with a "Mobile Museum" design, with art inspired by Foshan's pottery culture.
 Children can see beautiful ceramic-style art on the walls as they pass through.
 
 ### 2) Kuiqi Lu (魁奇路)
 
-Kuiqi Lu is a transfer station where you can switch to the Guangfo Line.
+Kuiqi Lu (魁奇路) is a transfer station where you can switch to the Guangfo Line.
 The Guangfo Line connects Foshan to Guangzhou, so this is a very busy and important stop.
 It is like a crossroads that links two big cities.
 
@@ -90,7 +90,7 @@ Arriving here by metro means you can then board a fast train to places like Beij
 - It has **17 stations**.
 - Trains can reach speeds of up to **100 km/h**.
 - About **22.9 km** of the line is underground, and **8.3 km** runs above ground.
-- The line ends at **Guangzhou South Railway Station**, one of the world's busiest high-speed railway hubs.
+- The line ends at **Guangzhou South Railway Station (广州南站)**, one of the world's busiest high-speed railway hubs.
 
 ## Word Helper
 
@@ -101,7 +101,7 @@ Arriving here by metro means you can then board a fast train to places like Beij
 ## Memory Check
 
 1. When did Foshan Metro Line 2 Phase 1 open?
-2. What theme does Shiwan Station celebrate?
+2. What theme does Shiwan (石湾) Station celebrate?
 3. What is at the end of Line 2 in Guangzhou?
 
 

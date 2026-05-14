@@ -3,13 +3,13 @@
 ## Quick Intro
 
 The APM Line is a fully automatic, driverless train.
-It opened on November 8, 2010, and runs underground through Zhujiang New Town.
-Zhujiang New Town is Guangzhou's modern business district, home to tall towers, a famous opera house, and a river island park.
-The APM has nine stations connecting Canton Tower in the south to Linhexi in the north.
+It opened on November 8, 2010, and runs underground through Zhujiang New Town (Transfer to Line 3).
+Zhujiang New Town (Transfer to Line 3) is Guangzhou's modern business district, home to tall towers, a famous opera house, and a river island park.
+The APM has nine stations connecting Canton Tower (广州塔) in the south to Linhexi (林和西) in the north.
 
 ## Story Time
 
-In the 2000s, Guangzhou was building a brand-new business district called Zhujiang New Town.
+In the 2000s, Guangzhou was building a brand-new business district called Zhujiang New Town (Transfer to Line 3).
 This area was growing so fast that streets could not keep up with all the workers and visitors.
 City planners wanted a special transit line that could move people smoothly between the offices, parks, and cultural buildings in this new neighborhood.
 
@@ -18,7 +18,7 @@ Construction happened underground, even passing beneath the Pearl River.
 
 The line was built with an important deadline in mind.
 Guangzhou was hosting the 2010 Asian Games, a huge sports competition for countries across Asia.
-The Games were set to open on November 12, 2010, with a ceremony on Haixinsha, a small island in the Pearl River.
+The Games were set to open on November 12, 2010, with a ceremony on Haixinsha (海心沙), a small island in the Pearl River.
 
 The APM opened on November 8, just four days before the Games.
 It helped athletes, officials, and visitors travel to venues and the island park quickly.
@@ -26,9 +26,9 @@ Today, the APM still connects workers and tourists moving through the heart of G
 
 ## Time Story
 
-- **2007**: Construction began on the APM Line under Zhujiang New Town.
+- **2007**: Construction began on the APM Line under Zhujiang New Town (Transfer to Line 3).
 - **November 8, 2010**: Most APM stations opened to the public.
-- **November 12, 2010**: The 2010 Asian Games opened in Guangzhou, with the opening ceremony held at Haixinsha, served by the APM.
+- **November 12, 2010**: The 2010 Asian Games opened in Guangzhou, with the opening ceremony held at Haixinsha (海心沙), served by the APM.
 
 The APM was the world's first fully underground automated people mover in an urban area.
 Its opening showed Guangzhou's readiness to host a major global event.
@@ -38,14 +38,14 @@ Its opening showed Guangzhou's readiness to host a major global event.
 - **Racing against a deadline**: The APM had to be ready before the 2010 Asian Games opened on November 12. Workers built tunnels and stations as quickly as possible without sacrificing safety.
 - **Digging completely underground**: Every station and tunnel is underground, including a section crossing beneath the Pearl River. Digging underneath a river in a crowded city is one of the hardest things engineers can do.
 - **New technology from far away**: The APM system used Bombardier Innovia trains built in North America. Bringing this new technology to China meant teams from different countries had to learn and work closely together on a tight schedule.
-- **Building in a busy, growing district**: Zhujiang New Town was still under active construction when the APM was being built. Engineers had to work carefully around tall cranes, building foundations, and busy roads at the same time.
+- **Building in a busy, growing district**: Zhujiang New Town (Transfer to Line 3) was still under active construction when the APM was being built. Engineers had to work carefully around tall cranes, building foundations, and busy roads at the same time.
 
 ## Route Snapshot
 
 - **Start area**: Canton Tower (广州塔), in the south, near Guangzhou's famous TV tower
 - **End area**: Linhexi (林和西), in the north, connecting to Metro Line 3
 - **Route role**: An underground connector through Guangzhou's modern CBD, crossing under the Pearl River
-- **Transfer value**: Canton Tower connects to Metro Line 3 and the Haizhu Tram; Linhexi connects to Metro Line 3; several other stations are close to Line 3, 5, 10, 13 and 18
+- **Transfer value**: Canton Tower (广州塔) connects to Metro Line 3 and the Haizhu Tram; Linhexi (林和西) connects to Metro Line 3; several other stations are close to Line 3, 5, 10, 13 and 18
 
 ## Full Station List
 
@@ -54,8 +54,8 @@ Its opening showed Guangzhou's readiness to host a major global event.
 3. **Guangzhou Opera House** (广州大剧院)
 4. **Huacheng Dadao** (花城大道) 🔄 Line 13 (Future)
 5. **Women and Children's Medical Center** (妇儿中心)
-6. **Huangpu Dadao** (黄埔大道) 🔄 Line 13, Line 18 (via Xiancun)
-7. **Tianhenan** (天河南) 🔄 Line 10 (via Tiyu Xilu)
+6. **Huangpu Dadao** (黄埔大道) 🔄 Line 13, Line 18 (via Xiancun (冼村))
+7. **Tianhenan** (天河南) 🔄 Line 10 (via Tiyu Xilu (体育西路))
 8. **Tianhe Sports Center South** (体育中心南)
 9. **Linhexi** (林和西) 🔄 Line 3
 
@@ -63,22 +63,22 @@ Its opening showed Guangzhou's readiness to host a major global event.
 
 ### 1) Haixinsha (海心沙)
 
-Haixinsha means "Heart of the Sea Sand Island."
+Haixinsha (海心沙) means "Heart of the Sea Sand Island."
 It is a small island park sitting in the Pearl River.
-In 2010, Haixinsha was the stage for the opening ceremony of the Asian Games.
+In 2010, Haixinsha (海心沙) was the stage for the opening ceremony of the Asian Games.
 Thousands of people watched the show live, and millions watched on television.
 Today it is an open park where families can enjoy river views and fresh air.
 
 ### 2) Guangzhou Opera House (广州大剧院)
 
-The Guangzhou Opera House is one of the most striking buildings in China.
+The Guangzhou Opera House (广州大剧院) is one of the most striking buildings in China.
 It was designed by a world-famous architect named Zaha Hadid.
 The building looks like two large smooth rocks resting by the river.
 This station is a great place for kids to see a landmark that mixes art, music, and architecture.
 
 ### 3) Canton Tower (广州塔)
 
-The southern end of the APM is near Canton Tower, Guangzhou's tallest tower.
+The southern end of the APM is near Canton Tower (广州塔), Guangzhou's tallest tower.
 The tower stands 600 meters tall and lights up at night in many colors.
 You can see it from many parts of the city.
 The APM connects the tower area to the rest of the CBD, making it easy to visit.
@@ -102,7 +102,7 @@ The APM connects the tower area to the rest of the CBD, making it easy to visit.
 ## Memory Check
 
 1. What does APM stand for?
-2. What important event took place at Haixinsha in November 2010?
+2. What important event took place at Haixinsha (海心沙) in November 2010?
 3. Name one reason why building the APM was especially difficult for engineers.
 
 ## Photos

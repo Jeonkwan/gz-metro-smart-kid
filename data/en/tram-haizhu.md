@@ -2,7 +2,7 @@
 
 ## Quick Intro
 The Haizhu Tram is a modern tram line that runs along the northern shore of Haizhu Island in Guangzhou.
-It travels between Canton Tower in the west and Wanshengwei in the east, covering about 7 kilometres.
+It travels between Canton Tower (广州塔) in the west and Wanshengwei (Transfer to Line 8 & Tram Haizhu) in the east, covering about 7 kilometres.
 It was the first modern tram line to open in Guangzhou, starting on December 31, 2014.
 The tram uses a special energy system called supercapacitors — meaning there are no overhead wires anywhere along the route!
 
@@ -12,9 +12,9 @@ In the early 2010s, the northern shore of the island was becoming busier.
 The large Canton Fair Complex drew visitors from around the world twice a year.
 Getting around the area on foot or by car was difficult, and the city wanted a better solution.
 
-Guangzhou decided to build a tram connecting the famous Canton Tower with the eastern metro hub at Wanshengwei.
+Guangzhou decided to build a tram connecting the famous Canton Tower (广州塔) with the eastern metro hub at Wanshengwei (Transfer to Line 8 & Tram Haizhu).
 The city also wanted the tram to look beautiful from the riverside.
-They did not want ugly overhead wires blocking the skyline near Canton Tower.
+They did not want ugly overhead wires blocking the skyline near Canton Tower (广州塔).
 
 So engineers designed a special system using supercapacitors — small but powerful energy banks inside each tram that charge up very quickly at every stop.
 When the Haizhu Tram opened on December 31, 2014, it became the world's first fully wire-free supercapacitor tram line.
@@ -23,19 +23,19 @@ Today, it still carries commuters and tourists along the scenic Pearl River ever
 ## Time Story
 - 2012: The city announces plans to build a new tram in Haizhu District.
 - 2014 (December 31): The Haizhu Tram opens for trial operation along the Pearl River.
-- 2015 (October 21): Party Pier station is added to the line.
+- 2015 (October 21): Party Pier (琶醍) station is added to the line.
 - Today: The tram continues to run, linking tourists and commuters along Haizhu Island's northern shore.
 
 ## Challenges Along the Way
 - **Designing without overhead wires:** Most trams use wires above the track to receive power. Engineers had to build a system where the tram stores energy in supercapacitors that charge in under a minute at each stop. This was completely new for the whole world.
 - **Building near the Pearl River:** The route runs along a busy urban waterfront. Construction teams had to be careful not to damage underground pipes and cables hidden in this crowded area.
-- **Balancing beauty and function:** Guangzhou wanted a tram near Canton Tower — one of the city's most famous landmarks — that would still look clean and open. Making the system work safely while keeping the skyline clear took very careful planning.
+- **Balancing beauty and function:** Guangzhou wanted a tram near Canton Tower (广州塔) — one of the city's most famous landmarks — that would still look clean and open. Making the system work safely while keeping the skyline clear took very careful planning.
 
 ## Route Snapshot
 - **Start area**: Canton Tower (广州塔) — western terminus
-- **End area**: Wanshengwei (万胜围) — eastern terminus
+- **End area**: Wanshengwei (Transfer to Line 8 & Tram Haizhu) (万胜围) — eastern terminus
 - **Route role**: Scenic riverside transit along the northern shore of Haizhu Island
-- **Transfer value**: Connects to Line 3 and APM at Canton Tower; Line 4 and Line 8 at Wanshengwei
+- **Transfer value**: Connects to Line 3 and APM at Canton Tower (广州塔); Line 4 and Line 8 at Wanshengwei (Transfer to Line 8 & Tram Haizhu)
 
 ## Full Station List
 
@@ -49,12 +49,12 @@ Today, it still carries commuters and tourists along the scenic Pearl River ever
 8. **Canton Fair Complex East** (会展东)
 9. **Pazhou Bridge South** (琶洲大桥南)
 10. **Pazhou Pagoda** (琶洲塔)
-11. **Wanshengwei** (万胜围) 🔄 Line 4, Line 8
+11. **Wanshengwei (Transfer to Line 8 & Tram Haizhu)** (万胜围) 🔄 Line 4, Line 8
 
 ## Important Stations for Kids
 
 ### 1) Canton Tower (广州塔)
-Canton Tower is the tallest structure in Guangzhou, standing 600 metres tall!
+Canton Tower (广州塔) is the tallest structure in Guangzhou, standing 600 metres tall!
 When you board the tram here, you can look up and see this amazing tower right beside you.
 You can also transfer to Metro Lines 3 and the APM line here.
 
@@ -62,7 +62,7 @@ You can also transfer to Metro Lines 3 and the APM line here.
 This station sits near a lively stretch of the Pearl River with cafés, art spaces, and beautiful river views.
 Many people come here on weekends to relax and enjoy the breeze coming off the water.
 
-### 3) Wanshengwei (万胜围)
+### 3) Wanshengwei (Transfer to Line 8 & Tram Haizhu) (万胜围)
 At the eastern end of the line, you can transfer to Metro Lines 4 and 8.
 This is a busy interchange station that connects many parts of Guangzhou.
 
@@ -79,7 +79,7 @@ This is a busy interchange station that connects many parts of Guangzhou.
 ## Memory Check
 1. On which date did the Haizhu Tram first open?
 2. What is special about the tram's energy system — why does it have no overhead wires?
-3. Which two metro lines can you transfer to at Wanshengwei?
+3. Which two metro lines can you transfer to at Wanshengwei (Transfer to Line 8 & Tram Haizhu)?
 
 
 ## Photos

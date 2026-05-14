@@ -20,8 +20,8 @@ When Line 10 opened in June 2025, Guangzhou welcomed its very first fully driver
 ## Time Story
 
 - **2016**: Underground construction work began.
-- **June 29, 2025**: The first section from Xilang to Yangji East opened.
-- **December 29, 2025**: Sun Yat-sen University South Entrance station opened.
+- **June 29, 2025**: The first section from Xilang (西塱) to Yangji East (杨箕东) opened.
+- **December 29, 2025**: Sun Yat-sen University South Entrance (中大南门) station opened.
 
 Line 10 completed the diagonal in Guangzhou's "X-shaped" metro network.
 Passengers can now move between the southwest and northeast without passing through multiple crowded city-center transfers.
@@ -30,15 +30,15 @@ Passengers can now move between the southwest and northeast without passing thro
 
 - **Crossing the Pearl River twice**: Engineers had to dig tunnels under the Pearl River — not once, but twice. Tunneling under a wide river is risky because water can seep in. Workers used advanced methods to keep the tunnels safe and dry.
 - **Working under 317 buildings and 12 metro lines**: The route passed under hundreds of buildings and 12 metro lines that were running passengers every day. Teams had to work with great care so that buildings above and trains below would not be disturbed.
-- **Xilang Station — night work only**: Renovating Xilang Station was so tricky that workers could only dig from 1:30 AM to 4:30 AM — just three hours a night. Four other metro lines use the same area, and work could not disrupt them during the day.
-- **The deep pit at Donghu Station**: Workers had to dig a pit about 42 meters deep under Dongshan Lake Park. That is like going down 14 floors underground. The station became one of the largest and deepest in the whole Guangzhou metro system.
+- **Xilang (西塱) Station — night work only**: Renovating Xilang (西塱) Station was so tricky that workers could only dig from 1:30 AM to 4:30 AM — just three hours a night. Four other metro lines use the same area, and work could not disrupt them during the day.
+- **The deep pit at Donghu (Transfer to Line 10 & Line 12) Station**: Workers had to dig a pit about 42 meters deep under Dongshan Lake Park. That is like going down 14 floors underground. The station became one of the largest and deepest in the whole Guangzhou metro system.
 
 ## Route Snapshot
 
 - **Start area**: Xilang (西塱), in the southwest (Liwan District)
 - **End area**: Yangji East (杨箕东), in the east (Tianhe District)
 - **Route role**: A diagonal line connecting Liwan, Haizhu, Yuexiu, and Tianhe districts
-- **Transfer value**: Connects to Lines 1, 22, and the Guangfo Line at Xilang; Line 2 at Dongxiao South; Line 11 at Wufeng; Lines 6 and 12 at Donghu; Line 5 at Wuyangcun; Line 1 at Martyrs' Park (via Martyrs' Park East); Line 1 at Yangji (via Yangji East)
+- **Transfer value**: Connects to Lines 1, 22, and the Guangfo Line at Xilang (西塱); Line 2 at Dongxiao South (东晓南); Line 11 at Wufeng (五凤); Lines 6 and 12 at Donghu (Transfer to Line 10 & Line 12); Line 5 at Wuyangcun (Transfer to Line 10); Line 1 at Martyrs' Park (烈士陵园) (via Martyrs' Park (烈士陵园) East); Line 1 at Yangji (杨箕) (via Yangji East (杨箕东))
 
 ## Full Station List
 
@@ -49,15 +49,15 @@ Passengers can now move between the southwest and northeast without passing thro
 5. **Gongye Avenue South** (工业大道南)
 6. **Dongxiao South** (东晓南) 🔄 Line 2
 7. **Wufeng** (五凤) 🔄 Line 11
-8. **Sun Yat-sen University South Entrance** (中大南门)
+8. **Sun Yat-sen University (中大) South Entrance** (中大南门)
 9. **Binjiang East Road** (滨江东路)
-10. **Donghu** (东湖) 🔄 Line 6, Line 12
-11. **Wuyangcun** (五羊邨) 🔄 Line 5
-12. **Yangji East** (杨箕东) 🔄 Line 1, Line 5 (via Yangji)
+10. **Donghu (Transfer to Line 10 & Line 12)** (东湖) 🔄 Line 6, Line 12
+11. **Wuyangcun (Transfer to Line 10)** (五羊邨) 🔄 Line 5
+12. **Yangji East** (杨箕东) 🔄 Line 1, Line 5 (via Yangji (杨箕))
 
 ## Important Stations for Kids
 
-### 1) Donghu Station (东湖站)
+### 1) Donghu (Transfer to Line 10 & Line 12) Station (东湖站)
 
 This station sits under Dongshan Lake Park — a popular park where families come to relax.
 Workers had to dig a pit about 42 meters deep to build this station.
@@ -66,14 +66,14 @@ Standing on the platform, you are very far below the park above you.
 
 ### 2) Xilang Station (西塱站)
 
-Xilang is where Line 10 begins.
+Xilang (西塱) is where Line 10 begins.
 Here you can switch to three other metro lines: Line 1, Line 22, and the Guangfo Line.
 Because so many lines meet here, building the new part of the station was extremely tricky.
 Workers could only work during a short window in the middle of the night.
 
 ### 3) Wufeng Station (五凤站)
 
-Wufeng Station is close to the famous Zhongda Jiangnan Textile Market.
+Wufeng (五凤) Station is close to the famous Zhongda Jiangnan Textile Market.
 This is one of Asia's largest fabric and textile trading areas — a huge place full of colorful cloth.
 At this station, you can also transfer to Line 11, the golden ring line.
 
@@ -82,7 +82,7 @@ At this station, you can also transfer to Line 11, the golden ring line.
 - Line 10 is Guangzhou's **first fully driverless metro line** (GoA4 level), meaning trains run automatically with no driver on board.
 - During construction, workers had to cross under the Pearl River **twice**.
 - The line runs under **317 buildings** and **12 other operating metro lines**.
-- Donghu Station has a foundation pit about **42 meters** deep.
+- Donghu (Transfer to Line 10 & Line 12) Station has a foundation pit about **42 meters** deep.
 - Each district's stations have a different design color: sunrise orange for Tianhe, vintage gold for Yuexiu, Canton Embroidery blue for Haizhu, and eco-green for Liwan.
 
 ## Word Helper
@@ -94,7 +94,7 @@ At this station, you can also transfer to Line 11, the golden ring line.
 ## Memory Check
 
 1. What year did Line 10 open its first section?
-2. Why could workers only build at Xilang Station at night?
+2. Why could workers only build at Xilang (西塱) Station at night?
 3. What is special about how Line 10 trains operate?
 
 

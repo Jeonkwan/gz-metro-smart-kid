@@ -2,7 +2,7 @@
 
 ## Quick Intro
 Line 18 is Guangzhou's fastest metro line.
-It travels 58 kilometers underground from Wanqingsha in the south all the way to Xiancun in the north.
+It travels 58 kilometers underground from Wanqingsha (万顷沙) in the south all the way to Xiancun (冼村) in the north.
 Express trains skip stations and travel at up to 160 kilometers per hour — the fastest of any metro line in China!
 
 ## Story Time
@@ -13,13 +13,13 @@ As Guangzhou began to build Nansha into a new international business zone, leade
 
 Line 18 was planned as Guangzhou's first express metro line — a line that could carry passengers at speeds more like a train between cities, not just a regular city metro.
 Construction started in 2018, and on September 28, 2021, Line 18 officially opened.
-For the first time, someone living in Wanqingsha could reach the heart of Guangzhou in about 30 minutes by express train.
+For the first time, someone living in Wanqingsha (万顷沙) could reach the heart of Guangzhou in about 30 minutes by express train.
 
 Today, Line 18 is a key link in Guangzhou's plans to grow Nansha as a world-class city and as part of the Greater Bay Area.
 
 ## Time Story
 - 2018: Construction of Line 18 began.
-- 2021: Line 18 opened on September 28, running 58.3 km from Wanqingsha to Xiancun.
+- 2021: Line 18 opened on September 28, running 58.3 km from Wanqingsha (万顷沙) to Xiancun (冼村).
 - Today: The line continues to serve as the fastest metro link between Nansha and the city center.
 
 Building 58 km of underground tunnels to handle the speed of 160 km/h took about three years of intensive work.
@@ -33,7 +33,7 @@ Building 58 km of underground tunnels to handle the speed of 160 km/h took about
 - **Start area**: Wanqingsha (万顷沙) — Nansha District, south
 - **End area**: Xiancun (冼村) — Tianhe District, north
 - **Route role**: High-speed express link between Nansha and Guangzhou's city center
-- **Transfer value**: Connects to Line 3 and Line 22 at Panyu Square; Line 7 at Nancun Wanbo; Line 11 at Longtan; and Line 8 and Line 12 at Modiesha
+- **Transfer value**: Connects to Line 3 and Line 22 at Panyu Square (番禺广场); Line 7 at Nancun Wanbo (南村万博); Line 11 at Longtan (龙潭); and Line 8 and Line 12 at Modiesha (磨碟沙)
 
 ## Full Station List
 
@@ -48,19 +48,19 @@ Building 58 km of underground tunnels to handle the speed of 160 km/h took about
 
 ## Important Stations for Kids
 
-### 1) Wanqingsha Station
+### 1) Wanqingsha (万顷沙) Station
 This is the southern starting point of Line 18, deep in the Nansha area near the sea.
-Wanqingsha means "ten thousand green sands" in Chinese — a beautiful name for a quiet, growing area.
+Wanqingsha (万顷沙) means "ten thousand green sands" in Chinese — a beautiful name for a quiet, growing area.
 The city plans to turn this area into a big international hub in the future.
 
-### 2) Panyu Square Station
+### 2) Panyu Square (番禺广场) Station
 This busy station is in the heart of Panyu District.
 Here you can change to Line 3 or Line 22.
 It is like a great meeting point where travellers from many parts of Guangzhou cross paths!
 
-### 3) Xiancun Station
+### 3) Xiancun (冼村) Station
 This station is in Tianhe District, one of the most modern and lively parts of Guangzhou.
-Arriving here from Wanqingsha on an express train takes only about 30 minutes!
+Arriving here from Wanqingsha (万顷沙) on an express train takes only about 30 minutes!
 
 ## Fun Facts
 - Line 18's trains can reach 160 km/h — faster than most cars on a motorway!

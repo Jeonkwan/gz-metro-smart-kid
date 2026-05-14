@@ -12,38 +12,38 @@ It holds technology parks, research institutes, and industrial facilities that c
 Before the tram opened in 2020, many workers in the Changlingju and Longhu areas had limited transit options.
 The area was growing fast, but bus services alone could not keep up.
 
-Planners decided a modern tram would serve the long north-south corridor, connecting people to the metro at both ends — including Metro Line 6 at Xiangxue Station in the north.
+Planners decided a modern tram would serve the long north-south corridor, connecting people to the metro at both ends — including Metro Line 6 at Xiangxue (香雪) Station in the north.
 When the first section opened in July 2020, it was a milestone for eastern Guangzhou.
 The full line opening in December 2020 gave residents along 14 kilometres of new tram track a reliable daily ride.
 Today, students walk to their stops, workers board for their morning commute, and the district keeps growing alongside its tram.
 
 ## Time Story
-- 2020 (July 1): The first section of Huangpu Tram Line 1 opens between Xiangxue Subway Station and Shuixi Subway Station.
-- 2020 (December 28): The full line opens, running from Xiangxue Subway Station all the way to Xinfeng Lu.
+- 2020 (July 1): The first section of Huangpu Tram Line 1 opens between Xiangxue (香雪) Subway Station (地铁香雪站) and Shuixi (水西) Subway Station (地铁水西站).
+- 2020 (December 28): The full line opens, running from Xiangxue (香雪) Subway Station (地铁香雪站) all the way to Xinfeng Lu (新丰路).
 - Today: The tram operates with 19 active stations out of 20 built, serving students, workers, and residents across Huangpu District.
 
 ## Challenges Along the Way
 - **Serving a diverse corridor:** The route passes through industrial zones, technology parks, residential areas, and school zones — all with different needs. Planners worked carefully to choose station locations that would help the most people.
-- **Multiple metro connections:** Linking the tram to existing metro lines at Xiangxue (Line 6), Shuixi, and Changping required precise engineering at each interchange point.
+- **Multiple metro connections:** Linking the tram to existing metro lines at Xiangxue (香雪) (Line 6), Shuixi (水西), and Changping (长平) required precise engineering at each interchange point.
 - **Building while the area kept growing:** Huangpu District was actively adding new schools and businesses during construction. The tram project had to plan for future growth while serving current residents at the same time.
 
 ## Route Snapshot
 - **Start area**: Xiangxue (香雪) — northern terminus, transfer to Metro Line 6
 - **End area**: Xinfeng Lu (新丰路) — southern terminus
 - **Route role**: North-south tram corridor through Huangpu's technology parks and residential zones
-- **Transfer value**: Connects to Metro Line 6 at Xiangxue, and to Line 7 and Line 21 at Shuixi and Changping
+- **Transfer value**: Connects to Metro Line 6 at Xiangxue (香雪), and to Line 7 and Line 21 at Shuixi (水西) and Changping (长平)
 
 ## Full Station List
 
 1. **Xiangxue** (香雪)
-2. **Xiangxue Subway Station** (地铁香雪站) 🔄 Line 6
+2. **Xiangxue (香雪) Subway Station** (地铁香雪站) 🔄 Line 6
 3. **Civic Square** (市民广场)
 4. **Huangpu District Government** (黄埔区政府)
-5. **Shuixi Subway Station** (地铁水西站) 🔄 Line 7, Line 21
+5. **Shuixi (水西) Subway Station** (地铁水西站) 🔄 Line 7, Line 21
 6. **Shuixi** (水西)
 7. **Junye Lu** (峻业路)
 8. **Beishi** (北师大)
-9. **Shuixi Campus of GZ No.2 Middle School** (二中苏元)
+9. **Shuixi (水西) Campus of GZ No.2 Middle School** (二中苏元)
 10. **Changping** (长平) 🔄 Line 21
 11. **Qiangxin Lu** (羌信路)
 12. **Qiangdong** (羌洞)
@@ -56,7 +56,7 @@ Today, students walk to their stops, workers board for their morning commute, an
 
 ## Important Stations for Kids
 
-### 1) Xiangxue Subway Station (香雪站)
+### 1) Xiangxue (香雪) Subway Station (地铁香雪站) (香雪站)
 This is the northern starting point of the tram.
 Here you can transfer to Metro Line 6 to reach other parts of Guangzhou.
 "Xiangxue" (香雪) means "fragrant snow" — it is named after the beautiful white plum blossoms that bloom in the fields nearby every winter!

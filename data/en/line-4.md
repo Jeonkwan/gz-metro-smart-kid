@@ -4,7 +4,7 @@
 
 Line 4 is a north–south metro line in Guangzhou, shown in dark green on maps.
 Its first section opened on December 26, 2005.
-It runs from Huangcun in the north all the way to Nansha Passenger Port in the south.
+It runs from Huangcun (Transfer to Line 21) in the north all the way to Nansha Passenger Port in the south.
 Line 4 was the first metro line in all of China to use a special type of train called a Linear Induction Motor train.
 
 ## Story Time
@@ -22,9 +22,9 @@ Today, Line 4 carries students, workers, and travelers across four different dis
 
 ## Time Story
 
-- **2005**: The first section, from Xinzao to Wanshengwei, opened on December 26.
+- **2005**: The first section, from Xinzao to Wanshengwei (Transfer to Line 8 & Tram Haizhu), opened on December 26.
 - **2006–2007**: Extensions pushed the line south, reaching Jinzhou and Huangge.
-- **2009–2010**: The line grew northward, extending to Chebeinan and then Huangcun.
+- **2009–2010**: The line grew northward, extending to Chebeinan and then Huangcun (Transfer to Line 21).
 - **2017**: The southern end reached Nansha Passenger Port on December 28.
 
 Line 4 grew in stages over more than twelve years.
@@ -39,24 +39,24 @@ Each new section connected more people to Guangzhou's growing metro network.
 
 ## Route Snapshot
 
-- **Start area**: Huangcun (黄村), in Tianhe District to the north
+- **Start area**: Huangcun (Transfer to Line 21) (黄村), in Tianhe District to the north
 - **End area**: Nansha Passenger Port (南沙客运港), in Nansha District to the south
 - **Route role**: A long north–south corridor linking Tianhe, Haizhu, Panyu, and Nansha districts
-- **Transfer value**: Connects to Line 8 at Wanshengwei; serves the Higher Education Mega Center with two dedicated stations; links to ferry services at Nansha Passenger Port
+- **Transfer value**: Connects to Line 8 at Wanshengwei (Transfer to Line 8 & Tram Haizhu); serves the Higher Education Mega Center with two dedicated stations; links to ferry services at Nansha Passenger Port
 
 ## Full Station List
 
-1. **Huangcun** (Transfer to Line 21)
-2. **Chebei**
-3. **Chebei South** (Transfer to Line 5)
-4. **Wanshengwei** (Transfer to Line 8 & Tram Haizhu)
+1. **Huangcun (Transfer to Line 21)** (Transfer to Line 21)
+2. **Chebei (车陂)**
+3. **Chebei (车陂) South (Transfer to Line 5)** (Transfer to Line 5)
+4. **Wanshengwei (Transfer to Line 8 & Tram Haizhu)** (Transfer to Line 8 & Tram Haizhu)
 5. **Guanzhou**
 6. **Higher Education Mega Center North**
-7. **Higher Education Mega Center South** (Transfer to Line 7 & Line 12)
+7. **Higher Education Mega Center South (Transfer to Line 7 & Line 12)** (Transfer to Line 7 & Line 12)
 8. **Xinzao**
 9. **Guanqiao**
 10. **Shiqi**
-11. **Haibang** (Transfer to Line 3)
+11. **Haibang (Transfer to Line 3)** (Transfer to Line 3)
 12. **Dichong**
 13. **Dongchong**
 14. **Qingsheng**
@@ -73,17 +73,17 @@ Each new section connected more people to Guangzhou's growing metro network.
 
 ## Important Stations for Kids
 
-### 1) Higher Education Mega Center South (大学城南)
+### 1) Higher Education Mega Center South (Transfer to Line 7 & Line 12) (大学城南)
 
 This station is right in the middle of Guangzhou's famous university island.
 The island is called Xiaoguwei Island and sits in the Pearl River.
-Ten universities are here, including Sun Yat-sen University and South China University of Technology.
+Ten universities are here, including Sun Yat-sen University (中大) and South China University of Technology.
 Every day, tens of thousands of students ride this station to and from class.
 Imagine going to school on an island full of universities — that is exactly what students do here!
 
-### 2) Wanshengwei (万胜围)
+### 2) Wanshengwei (Transfer to Line 8 & Tram Haizhu) (万胜围)
 
-Wanshengwei is the gateway between the older city districts and the southern part of Line 4.
+Wanshengwei (Transfer to Line 8 & Tram Haizhu) is the gateway between the older city districts and the southern part of Line 4.
 You can transfer to Line 8 here to go to many other parts of Guangzhou.
 For the first four years of Line 4, this was the northern end of the whole line.
 It is still one of the busiest stations on Line 4 today.

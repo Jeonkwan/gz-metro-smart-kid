@@ -12,7 +12,7 @@ When fully built, Line 3 will stretch about 69.5 kilometers with around 37 to 38
 Foshan is made up of several districts, and for a long time, getting between them took a long time by bus or car.
 Shunde in the south and Nanhai in the north were far from each other by road.
 City planners wanted to build a long line that could be the "backbone" of the whole Foshan metro system.
-They also wanted the line to connect with Foshan West Railway Station, so that people arriving by high-speed train could easily reach all parts of the city.
+They also wanted the line to connect with Foshan West Railway Station (佛山西站), so that people arriving by high-speed train could easily reach all parts of the city.
 
 The government approved the plan in 2012.
 Construction started in 2016 and continued for several years.
@@ -28,13 +28,13 @@ After the 2024 opening, daily ridership jumped to over 160,000 passengers.
 - **2012**: The government approved the plan for Line 3.
 - **2016**: Construction officially started.
 - **2022**: The first section opened on December 28, connecting parts of Shunde District to central Foshan.
-- **2024**: A second section opened on August 23, extending the line north toward Foshan University and south toward Zhongshan Park.
+- **2024**: A second section opened on August 23, extending the line north toward Foshan University (佛山大学) and south toward Zhongshan Park (中山公园).
 
 Line 3 is still growing and becoming the backbone of Foshan's metro network.
 
 ## Challenges Along the Way
 
-- **Building near a working railway**: Foshan West Railway Station is a huge intercity railway hub. Digging underground right next to it, while trains were still running, required very careful engineering and safety planning.
+- **Building near a working railway**: Foshan West Railway Station (佛山西站) is a huge intercity railway hub. Digging underground right next to it, while trains were still running, required very careful engineering and safety planning.
 - **Working in a crowded city**: Most of the line runs underground in a dense urban area. Workers had to manage soft soil and groundwater, and protect buildings and roads above ground.
 - **Opening in phases**: The line is nearly 70 kilometers long. It had to open in sections over several years, which meant teams needed to keep building new sections while earlier sections were already carrying passengers.
 - **Cultural station design**: Several stations were themed with Foshan's traditional arts — dragon boats, lion dances, and Cantonese opera. Adding these special designs took extra time and required working with cultural experts.
@@ -44,7 +44,7 @@ Line 3 is still growing and becoming the backbone of Foshan's metro network.
 - **Route status**: Operating in two disconnected segments (North and South) as of May 2026; full connection expected in June 2026
 - **Districts**: Shunde, Chancheng, and Nanhai
 - **Route role**: A long north-south backbone line connecting major districts and transport hubs
-- **Transfer value**: Connects to Guangfo Line at Guicheng and Dongping, Foshan Line 2 at Wanhua and Dongping, and Guangzhou Metro Line 7 at Beijiao Park
+- **Transfer value**: Connects to Guangfo Line at Guicheng (桂城) and Dongping (东平), Foshan Line 2 at Wanhua (湾华) and Dongping (东平), and Guangzhou Metro Line 7 at Beijiao Park (北滘公园)
 
 ## Full Station List
 
@@ -97,7 +97,7 @@ Taking Line 3 to this station means you can quickly get on a fast train heading 
 
 ### 2) Guicheng (桂城)
 
-Guicheng is a busy station in Nanhai District where you can transfer to the Guangfo Line.
+Guicheng (桂城) is a busy station in Nanhai District where you can transfer to the Guangfo Line.
 The Guangfo Line connects Foshan and Guangzhou, so this station helps join two cities together.
 It is a great example of how different metro lines can work as a team.
 

@@ -36,7 +36,7 @@ Line 24 will run from North to South:
 15. **Tangjing** (棠景)
 16. **Yuanjing** (远景)
 17. **Ziyuangang** (梓元岗) 🔄 Line 11
-18. **Sun Yat-sen Memorial Hall** (纪念堂) 🔄 Line 2, Line 13
+18. **Sun Yat-sen Memorial Hall (中山纪念堂)** (纪念堂) 🔄 Line 2, Line 13
 
 Cream-colored like a blank page — this line's story is still being written!
 

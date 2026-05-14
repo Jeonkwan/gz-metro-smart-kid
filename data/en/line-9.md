@@ -4,7 +4,7 @@
 
 Line 9 is the first metro line to reach Huadu District in northern Guangzhou.
 It opened on December 28, 2017, after years of careful planning and difficult construction.
-The line runs west to east, connecting Fei'eling to Gaozeng, where it meets Line 3.
+The line runs west to east, connecting Fei'eling (飞鹅岭) to Gaozeng (高增), where it meets Line 3.
 Today, Line 9 has 11 stations and is about 20.1 kilometers long.
 
 ## Story Time
@@ -24,7 +24,7 @@ It was a big day for Huadu — for the first time, the district had its own metr
 - **2009**: Environmental assessment announced in July; construction began in September.
 - **2012**: Original planned opening date — missed because of route redesign needed for karst terrain.
 - **2017**: Line 9 opened on December 28, with 10 stations serving Huadu District.
-- **2018**: Qingtang, an infill station, opened on June 30.
+- **2018**: Qingtang (清塘), an infill station, opened on June 30.
 
 Line 9 gave Huadu District its first metro connection to the rest of Guangzhou.
 It helped the area grow as more people could now travel easily between Huadu and the city center.
@@ -40,7 +40,7 @@ It helped the area grow as more people could now travel easily between Huadu and
 - **Start area**: Fei'eling (飞鹅岭), in the western part of Huadu District
 - **End area**: Gaozeng (高增), in the east, connecting to Line 3
 - **Route role**: An east-west line serving Huadu District, linking industrial zones, residential areas, and a major railway station
-- **Transfer value**: Connects to Line 3 at Gaozeng, giving riders access to the broader Guangzhou metro network
+- **Transfer value**: Connects to Line 3 at Gaozeng (高增), giving riders access to the broader Guangzhou metro network
 
 ## Full Station List
 
@@ -67,17 +67,17 @@ It makes Huadu a gateway between Guangzhou and northern Guangdong.
 
 ### 2) Huadu Square (花都广场)
 
-Huadu Square station is near the center of Huadu District.
+Huadu Square (花都广场) station is near the center of Huadu District.
 It is close to the district government offices and main shopping areas.
 It is one of the busiest stops on Line 9 for people living in and visiting Huadu.
 The name "Huadu" (花都) means "City of Flowers" in Chinese.
 
 ### 3) Gaozeng (高增)
 
-Gaozeng is the eastern terminus of Line 9.
+Gaozeng (高增) is the eastern terminus of Line 9.
 It is the most important interchange station on this line.
 From here, riders can switch to Line 3 and travel to Guangzhou Baiyun International Airport or to Tianhe in the city center.
-Gaozeng is the link that ties Line 9 to the whole Guangzhou metro network.
+Gaozeng (高增) is the link that ties Line 9 to the whole Guangzhou metro network.
 
 ## Fun Facts
 

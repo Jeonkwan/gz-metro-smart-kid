@@ -3,7 +3,7 @@
 ## Quick Intro
 
 Line 3 is one of Guangzhou's longest and busiest metro lines, shaped like the letter "Y."
-One path runs south, another runs east, and both meet at Tiyu Xilu before heading north to the airport.
+One path runs south, another runs east, and both meet at Tiyu Xilu (体育西路) before heading north to the airport.
 The first section opened on December 26, 2005.
 Today, 34 stations stretch over about 74.8 kilometers, all underground.
 
@@ -14,59 +14,59 @@ Many people were moving into the south of the city, near Panyu District.
 Others needed to reach Guangzhou Baiyun International Airport in the north.
 Getting between these areas on regular roads took a very long time.
 City planners decided to build a long, fast metro line that could connect all of these places.
-The first section opened in December 2005, linking the city center to Guangzhou East Railway Station.
+The first section opened in December 2005, linking the city center to Guangzhou East Railway Station (广州东站).
 A year later, the line grew south and also added a branch stretching northeast.
 Then in 2010, the biggest step happened: Line 3 extended all the way to the airport.
 For the first time, people in Guangzhou could take the metro to catch a plane!
-In November 2024, the line grew east again with four new stations, reaching Haibang.
+In November 2024, the line grew east again with four new stations, reaching Haibang (Transfer to Line 3).
 Line 3 is still one of the most important and busiest metro lines in all of China.
 
 ## Time Story
 
-- **2005**: The first section from Guangzhou East Railway Station to Kecun opened on December 26.
-- **2006**: On December 30, the main line extended south to Panyu Square, and the branch from Tiyu Xilu to Tianhe Coach Terminal opened.
+- **2005**: The first section from Guangzhou East Railway Station (广州东站) to Kecun (客村) opened on December 26.
+- **2006**: On December 30, the main line extended south to Panyu Square (番禺广场), and the branch from Tiyu Xilu (体育西路) to Tianhe Coach Terminal (Transfer to Line 3) opened.
 - **2010**: On October 30, the airport extension opened, bringing Line 3 to Baiyun International Airport.
-- **2024**: On November 1, an eastern extension added four new stations, with Haibang as the new southern end.
+- **2024**: On November 1, an eastern extension added four new stations, with Haibang (Transfer to Line 3) as the new southern end.
 
 Line 3 grew step by step over nearly 20 years.
 Its Y-shape now connects the airport, the south, and the east of Guangzhou.
 
 ## Challenges Along the Way
 
-- **Running two trains on shared tracks**: The Y-shape means trains heading to the airport and trains heading to Tianhe Coach Terminal both use the same tracks between Haibang and Tiyu Xilu. Making sure the right train arrives at the right platform every few minutes — all day long — is like solving a very complicated puzzle without making a single mistake.
-- **Tiyu Xilu became extremely crowded**: Tiyu Xilu is where Line 3 splits and also connects with Line 1. So many people used it that the station had to use crowd-control barriers during busy times. In 2017, it recorded over 1.25 million passengers in a single day — one of the highest numbers in China.
+- **Running two trains on shared tracks**: The Y-shape means trains heading to the airport and trains heading to Tianhe Coach Terminal (Transfer to Line 3) both use the same tracks between Haibang (Transfer to Line 3) and Tiyu Xilu (体育西路). Making sure the right train arrives at the right platform every few minutes — all day long — is like solving a very complicated puzzle without making a single mistake.
+- **Tiyu Xilu (体育西路) became extremely crowded**: Tiyu Xilu (体育西路) is where Line 3 splits and also connects with Line 1. So many people used it that the station had to use crowd-control barriers during busy times. In 2017, it recorded over 1.25 million passengers in a single day — one of the highest numbers in China.
 - **Building one of the world's longest underground lines**: At about 74.8 kilometers, Line 3 is one of the longest fully underground metro lines in the world. Boring tunnels that far beneath a large city took years of careful engineering work.
 - **Connecting to a busy international airport**: The airport extension had to be planned carefully around Baiyun Airport's runways, terminals, and future growth. Coordinating construction near an airport that was still running flights every day was a very tricky challenge.
 
 ## Route Snapshot
 
-- **Start area**: Haibang (海傍), in the southeast part of Guangzhou (new endpoint of 2024 eastern extension)
+- **Start area**: Haibang (Transfer to Line 3) (海傍), in the southeast part of Guangzhou (new endpoint of 2024 eastern extension)
 - **End area (main)**: Airport North (机场北), serving Baiyun International Airport Terminal 2
-- **Branch end**: Tianhe Coach Terminal (天河客运站), in the east
+- **Branch end**: Tianhe Coach Terminal (Transfer to Line 3) (天河客运站), in the east
 - **Route role**: A long Y-shaped express corridor linking the south, city center, airport, and east
-- **Transfer value**: Connects with Line 1 at Tiyu Xilu and Guangzhou East, Line 4 at Haibang, Line 7 at Hanxi Changlong, Line 8 at Kecun, Line 10 at Tiyu Xilu, and Line 11 at Datang, Guangzhou East, and South China Normal University
+- **Transfer value**: Connects with Line 1 at Tiyu Xilu (体育西路) and Guangzhou East, Line 4 at Haibang (Transfer to Line 3), Line 7 at Hanxi Changlong (Transfer to Line 3), Line 8 at Kecun (客村), Line 10 at Tiyu Xilu (体育西路), and Line 11 at Datang (大塘), Guangzhou East, and South China Normal University (华师)
 
 ## Full Station List
 
 ### Main Line
-1. **Haibang** (海傍) 🔄 Line 4
+1. **Haibang (Transfer to Line 3)** (海傍) 🔄 Line 4
 2. **Haichong Lu** (海涌路)
 3. **Shiqinan** (市桥南)
 4. **Bangjiang** (傍江)
 5. **Panyu Square** (番禺广场) 🔄 Line 18, Line 22
 6. **Shiqiao** (市桥)
-7. **Hanxi Changlong** (汉溪长隆) 🔄 Line 7
+7. **Hanxi Changlong (Transfer to Line 3)** (汉溪长隆) 🔄 Line 7
 8. **Dashi** (大石)
 9. **Xiajiao** (厦滘)
 10. **Lijiao** (沥滘) 🔄 Guangfo Line
 11. **Datang** (大塘) 🔄 Line 11
 12. **Kecun** (客村) 🔄 Line 8
 13. **Canton Tower** (广州塔) 🔄 APM, Haizhu Tram
-14. **Zhujiang New Town** (珠江新城) 🔄 Line 5
+14. **Zhujiang New Town (Transfer to Line 3)** (珠江新城) 🔄 Line 5
 15. **Tiyu Xilu** (体育西路) 🔄 Line 1, Line 10, Line 13
 16. **Linhexi** (林和西) 🔄 APM
 17. **Guangzhou East Railway Station** (广州东站) 🔄 Line 1, Line 11
-18. **Yantang** (燕塘) 🔄 Line 6
+18. **Yantang (Transfer to Line 3)** (燕塘) 🔄 Line 6
 19. **Meihuayuan** (梅花园)
 20. **Jingxi Nanfang Hospital** (京溪南方医院)
 21. **Tonghe** (同和)
@@ -80,18 +80,18 @@ Its Y-shape now connects the airport, the south, and the east of Guangzhou.
 29. **Airport North (T2)** (机场北) 🔄 Line 22
 
 ### Branch Line
-(Splits from Tiyu Xilu)
+(Splits from Tiyu Xilu (体育西路))
 1. **Shipaiqiao** (石牌桥)
 2. **Gangding** (岗顶)
 3. **South China Normal University** (华师) 🔄 Line 11
 4. **Wushan** (五山)
-5. **Tianhe Coach Terminal** (天河客运站) 🔄 Line 6
+5. **Tianhe Coach Terminal (Transfer to Line 3)** (天河客运站) 🔄 Line 6
 
 ## Important Stations for Kids
 
 ### 1) Tiyu Xilu (体育西路)
 
-This is where Line 3 splits into two paths — one going north to the airport and one going east to Tianhe Coach Terminal.
+This is where Line 3 splits into two paths — one going north to the airport and one going east to Tianhe Coach Terminal (Transfer to Line 3).
 It also connects with Line 1.
 It is one of the busiest metro stations in all of China.
 Near the station is a large shopping center called Teemall, so many people come here both to travel and to shop.

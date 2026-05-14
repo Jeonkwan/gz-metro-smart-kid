@@ -4,7 +4,7 @@
 
 Line 1 is Guangzhou's first metro line.
 The first section opened on June 28, 1997, making Guangzhou the first mainland city in southern China to open a metro line.
-On June 28, 1999, the full line opened from Xilang to Guangzhou East Railway Station.
+On June 28, 1999, the full line opened from Xilang (西塱) to Guangzhou East Railway Station (广州东站).
 Today, Line 1 is still a busy east–west line with 16 stations.
 
 ## Story Time
@@ -20,8 +20,8 @@ Line 1 still matters today because it helped teach Guangzhou how to build the bi
 ## Time Story
 
 - **1993**: Construction started on December 28.
-- **1997**: The first section from Xilang to Huangsha opened on June 28.
-- **1999**: The full line from Xilang to Guangzhou East Railway Station opened on June 28.
+- **1997**: The first section from Xilang (西塱) to Huangsha (黄沙) opened on June 28.
+- **1999**: The full line from Xilang (西塱) to Guangzhou East Railway Station (广州东站) opened on June 28.
 
 Line 1 became the starting point for Guangzhou's whole metro story.
 It gave the city a faster way to travel from west to east and helped shape later lines.
@@ -31,7 +31,7 @@ It gave the city a faster way to travel from west to east and helped shape later
 - **Start area**: Xilang (西塱), in the southwest part of Guangzhou
 - **End area**: Guangzhou East Railway Station (广州东站), in Tianhe to the east
 - **Route role**: A main east–west trunk line across important city districts
-- **Transfer value**: It links with several later lines, including Line 2 at Gongyuanqian, Line 3 at Tiyu Xilu and Guangzhou East Railway Station, and Line 6 at Huangsha and Dongshankou
+- **Transfer value**: It links with several later lines, including Line 2 at Gongyuanqian (公园前), Line 3 at Tiyu Xilu (体育西路) and Guangzhou East Railway Station (广州东站), and Line 6 at Huangsha (黄沙) and Dongshankou (东山口)
 
 ## Full Station List
 
@@ -56,14 +56,14 @@ It gave the city a faster way to travel from west to east and helped shape later
 
 ### 1) Chen Clan Academy (陈家祠)
 
-This station is next to the famous Chen Clan Academy.
+This station is next to the famous Chen Clan Academy (陈家祠).
 The academy was built in the late Qing dynasty by the Chen clans of Guangdong.
 Today it is the Guangdong Folk Art Museum.
 Children can see carved wood, carved stone, and colorful roof decorations there.
 
 ### 2) Gongyuanqian (公园前)
 
-Gongyuanqian sits under People's Park in the old city center.
+Gongyuanqian (公园前) sits under People's Park in the old city center.
 It is one of the busiest stations in Guangzhou.
 It became the metro system's first big interchange station when Line 2 joined Line 1 here.
 That makes it like a giant underground crossroads.
@@ -91,8 +91,8 @@ It is a good example of how one station can connect many kinds of transport.
 ## Memory Check
 
 1. Which year did the first part of Line 1 open?
-2. What museum can you visit near Chen Clan Academy station?
-3. Why is Gongyuanqian Station important in the metro network?
+2. What museum can you visit near Chen Clan Academy (陈家祠) station?
+3. Why is Gongyuanqian (公园前) Station important in the metro network?
 
 ## Photos
 

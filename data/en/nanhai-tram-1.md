@@ -15,25 +15,25 @@ Residents had to rely heavily on buses or private cars.
 Planning for Nanhai Tram Line 1 started as early as 2011, and construction began in 2014.
 It took years of careful engineering to design a line that runs partly underground, partly elevated above the streets, and partly at street level — all on the same route.
 When the first section opened in August 2021, it was a big day for Nanhai residents.
-The second section followed in November 2022, completing the full journey from Leigang in the north to Linyuedong in the south.
+The second section followed in November 2022, completing the full journey from Leigang (𧒽岗) in the north to Linyuedong in the south.
 Today, the tram helps unite different neighbourhoods in Nanhai and connects them to the Guangfo Metro and Foshan Metro lines.
 
 ## Time Story
 - 2011: Planning begins for a new transit system in Nanhai District.
 - 2014: Construction of Nanhai Tram Line 1 starts.
-- 2021 (August 18): The first phase (Leigang to Sanshanxinchengbei, 10 stations) opens.
+- 2021 (August 18): The first phase (Leigang (𧒽岗) to Sanshanxinchengbei, 10 stations) opens.
 - 2022 (November 29): The second phase (Sanshanxinchengbei to Linyuedong, 5 more stations) opens, completing the full line.
 
 ## Challenges Along the Way
 - **Mixed terrain:** The line runs through underground tunnels, elevated sections above the streets, and street-level tracks — all in one journey. Designing these three different environments required a wide range of engineering skills.
 - **Long construction time:** Planning began in 2011, but the first trains did not run until 2021 — a ten-year journey from idea to reality, requiring patience and careful coordination across many teams.
-- **Connecting to multiple metro systems:** The tram needed to work smoothly with the Guangfo Metro at Leigang in the north and the Foshan Metro at Linyue in the south, each operating as a separate network.
+- **Connecting to multiple metro systems:** The tram needed to work smoothly with the Guangfo Metro at Leigang (𧒽岗) in the north and the Foshan Metro at Linyue in the south, each operating as a separate network.
 
 ## Route Snapshot
 - **Start area**: Leigang (𧒽岗) — transfer to the Guangfo Metro
 - **End area**: Linyue Dong (林岳东) — transfer to Foshan Metro Line 2
 - **Route role**: North-south tram corridor through Nanhai District, linking Guilin, Pingzhou, Sanshan, and Linyue
-- **Transfer value**: Connects to Guangfo Metro at Leigang, and Foshan Metro Line 2 at Linyue Xi and Linyue Dong
+- **Transfer value**: Connects to Guangfo Metro at Leigang (𧒽岗), and Foshan Metro Line 2 at Linyue Xi (林岳西) and Linyue Dong (林岳东)
 
 ## Full Station List
 
@@ -55,13 +55,13 @@ Today, the tram helps unite different neighbourhoods in Nanhai and connects them
 
 ## Important Stations for Kids
 
-### 1) Leigang (礌岗)
+### 1) Leigang (𧒽岗) (礌岗)
 This is the northern starting station.
 Here you can transfer to the Guangfo Metro — the line that links Foshan and Guangzhou!
-"Leigang" is an old place name from this area, used for many generations.
+"Leigang (𧒽岗)" is an old place name from this area, used for many generations.
 
 ### 2) Yuqijie (玉器街)
-"Yuqijie" means "Jade Street"!
+"Yuqijie (玉器街)" means "Jade Street"!
 This area has long been famous in Nanhai for its jade and gem trading markets.
 Imagine all the beautiful green and white stones that have been sold near this station over the years.
 
@@ -82,7 +82,7 @@ This is the southern end of the line, where you can transfer to Foshan Metro Lin
 ## Memory Check
 1. When did the first section of Nanhai Tram Line 1 open?
 2. Which station can you use to transfer to the Guangfo Metro?
-3. What does the station name "Yuqijie" mean in English?
+3. What does the station name "Yuqijie (玉器街)" mean in English?
 
 
 ## Photos

@@ -21,7 +21,7 @@ Guangzhou and Foshan had to work together, share the costs, and build something 
 Construction was first proposed in 2002, but funding problems caused years of delay.
 Work resumed properly in 2007, and the first section finally opened on November 3, 2010.
 That opening day was historic — for the first time, passengers could board one metro train and travel between two different Chinese cities.
-The line kept growing, and the full route from Xincheng Dong in Foshan to Lijiao in Guangzhou was completed on December 28, 2018.
+The line kept growing, and the full route from Xincheng Dong (新城东) in Foshan to Lijiao (沥滘) in Guangzhou was completed on December 28, 2018.
 
 Today, the Guangfo Line carries hundreds of thousands of passengers every day.
 It remains a model for how neighboring cities can cooperate to build shared transport.
@@ -30,10 +30,10 @@ It remains a model for how neighboring cities can cooperate to build shared tran
 
 - **2002**: Planners first proposed building the cross-city metro line.
 - **2007**: Construction resumed after funding problems were resolved.
-- **2010**: The first section from Kuiqi Lu to Xilang opened on November 3.
-- **2015**: The line extended westward into Guangzhou, reaching Yangang on December 28.
-- **2016**: The line extended eastward into Shunde, Foshan, reaching Xincheng Dong on December 28.
-- **2018**: The final section to Lijiao in Guangzhou opened on December 28, completing the full line.
+- **2010**: The first section from Kuiqi Lu (魁奇路) to Xilang (西塱) opened on November 3.
+- **2015**: The line extended westward into Guangzhou, reaching Yangang (燕岗) on December 28.
+- **2016**: The line extended eastward into Shunde, Foshan, reaching Xincheng Dong (新城东) on December 28.
+- **2018**: The final section to Lijiao (沥滘) in Guangzhou opened on December 28, completing the full line.
 
 The Guangfo Line grew step by step over eight years until it connected the full corridor between Foshan and Guangzhou's Haizhu district.
 
@@ -48,7 +48,7 @@ The Guangfo Line grew step by step over eight years until it connected the full 
 - **Start area**: Xincheng Dong (新城东), in Shunde District, Foshan
 - **End area**: Lijiao (沥滘), in Haizhu District, Guangzhou
 - **Route role**: A cross-city connector linking Foshan's urban core to Guangzhou's southern and western districts
-- **Transfer value**: Connects to Guangzhou Metro Line 1, Line 10, Line 22, and Line 8 (via Xilang and Shayuan); connects to Line 2 at Nanzhou and Line 3 at Lijiao; connects to Foshan Metro Line 2 and Line 3
+- **Transfer value**: Connects to Guangzhou Metro Line 1, Line 10, Line 22, and Line 8 (via Xilang (西塱) and Shayuan (沙园)); connects to Line 2 at Nanzhou (南洲) and Line 3 at Lijiao (沥滘); connects to Foshan Metro Line 2 and Line 3
 
 ## Full Station List
 
@@ -82,20 +82,20 @@ The Guangfo Line grew step by step over eight years until it connected the full 
 
 ### 1) Zumiao (祖庙)
 
-Zumiao means "Ancestors' Temple" in Chinese.
+Zumiao (祖庙) means "Ancestors' Temple" in Chinese.
 This station is very close to the famous Foshan Ancestors' Temple, a historic temple complex over 1,000 years old.
 The temple was built to honor a northern deity and later became a place where locals celebrated, trained in martial arts, and held festivals.
 It is one of the most visited historic sites in Foshan.
 
 ### 2) Xilang (西塱)
 
-Xilang is the point where the Guangfo Line meets Guangzhou Metro Line 1, the very first metro line ever built in Guangzhou.
+Xilang (西塱) is the point where the Guangfo Line meets Guangzhou Metro Line 1, the very first metro line ever built in Guangzhou.
 Passengers can step off the Guangfo Line here and continue into the heart of Guangzhou.
 This station is like a bridge between two metro systems — a gate between two cities.
 
 ### 3) Lijiao (沥滘)
 
-Lijiao is the current eastern end of the Guangfo Line in Guangzhou's Haizhu district.
+Lijiao (沥滘) is the current eastern end of the Guangfo Line in Guangzhou's Haizhu district.
 Here riders can transfer to Guangzhou Metro Line 3, which goes to the airport and other major parts of the city.
 It is the newest part of the Guangfo Line and only opened in 2018.
 
@@ -117,7 +117,7 @@ It is the newest part of the Guangfo Line and only opened in 2018.
 
 1. Which two cities does the Guangfo Line connect?
 2. In what year did the first section of the Guangfo Line open?
-3. What can you find near Zumiao station?
+3. What can you find near Zumiao (祖庙) station?
 
 
 ## Photos

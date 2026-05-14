@@ -3,7 +3,7 @@
 ## Quick Intro
 
 Line 22 is one of Guangzhou's fastest express metro lines, designed to link major transport hubs.
-It currently runs from Panyu Square in the south to Fangcun in the west, passing through the massive Guangzhou South Railway Station.
+It currently runs from Panyu Square (番禺广场) in the south to Fangcun (芳村) in the west, passing through the massive Guangzhou South Railway Station (广州南站).
 The line is known for its speed, with trains reaching up to 160 km/h.
 The full line as of May 2026 has 7 stations and is a vital north-south spine for the city.
 
@@ -13,30 +13,30 @@ Guangzhou is a city that never stops moving. With the rapid development of Panyu
 Line 22 was planned as an express "sister line" to Line 18. While Line 18 heads toward Nansha, Line 22 was designed to connect the city's main high-speed rail hub to other important districts.
 
 Construction was a major engineering feat, as the line runs deep underground to avoid other metro lines and building foundations.
-Phase 1, from Panyu Square to Chentougang, opened on March 31, 2022.
-Phase 2, which extended the line north through Xilang to Fangcun, opened on December 29, 2025.
+Phase 1, from Panyu Square (番禺广场) to Chentougang (陈头岗), opened on March 31, 2022.
+Phase 2, which extended the line north through Xilang (西塱) to Fangcun (芳村), opened on December 29, 2025.
 
 Today, Line 22 makes it possible to travel from the high-speed rail station to the historic Liwan District in just a matter of minutes.
 
 ## Time Story
 
-- **2022**: Phase 1 opened on March 31, connecting Panyu Square to Chentougang.
-- **2025**: Phase 2 opened on December 29, extending the line to Fangcun.
+- **2022**: Phase 1 opened on March 31, connecting Panyu Square (番禺广场) to Chentougang (陈头岗).
+- **2025**: Phase 2 opened on December 29, extending the line to Fangcun (芳村).
 
 Line 22 has significantly reduced travel times between Panyu, the high-speed rail hub, and the western part of the city center.
 
 ## Challenges Along the Way
 
 - **Extreme Speed Underground**: Running trains at 160 km/h in underground tunnels requires incredibly precise engineering. The tunnels must be perfectly smooth, and the air pressure must be carefully managed so that passengers' ears don't pop when trains zoom through.
-- **Connecting to a Giant Hub**: Building the station at Guangzhou South Railway Station meant working under one of the busiest places in China. Engineers had to ensure that the hundreds of high-speed trains above could keep running safely while they dug deep below.
-- **Deep Excavation at Xilang**: Xilang is a complex transfer hub. Adding Line 22 involved digging deep below existing lines (Line 1 and Guangfo Line) while those lines were still carrying thousands of passengers every day.
+- **Connecting to a Giant Hub**: Building the station at Guangzhou South Railway Station (广州南站) meant working under one of the busiest places in China. Engineers had to ensure that the hundreds of high-speed trains above could keep running safely while they dug deep below.
+- **Deep Excavation at Xilang (西塱)**: Xilang (西塱) is a complex transfer hub. Adding Line 22 involved digging deep below existing lines (Line 1 and Guangfo Line) while those lines were still carrying thousands of passengers every day.
 
 ## Route Snapshot
 
 - **Start area**: Panyu Square (番禺广场) — southern terminus in Panyu District
 - **End area**: Fangcun (芳村) — western terminus in Liwan District
-- **Route role**: High-speed express corridor linking Panyu, Guangzhou South Railway Station, and Liwan
-- **Transfer value**: Connects to Line 3 and Line 18 at Panyu Square; Line 2 and Line 7 at Guangzhou South Railway Station; Line 1, Line 10, and Guangfo Line at Xilang; and Line 1 and Line 11 at Fangcun
+- **Route role**: High-speed express corridor linking Panyu, Guangzhou South Railway Station (广州南站), and Liwan
+- **Transfer value**: Connects to Line 3 and Line 18 at Panyu Square (番禺广场); Line 2 and Line 7 at Guangzhou South Railway Station (广州南站); Line 1, Line 10, and Guangfo Line at Xilang (西塱); and Line 1 and Line 11 at Fangcun (芳村)
 
 ## Full Station List
 
@@ -58,12 +58,12 @@ The Line 22 station is located deep underground, making it easy to hop off a bul
 
 ### 2) Xilang (西塱)
 
-Xilang is a historic station that was the end of Guangzhou's very first metro line (Line 1).
+Xilang (西塱) is a historic station that was the end of Guangzhou's very first metro line (Line 1).
 Now, it is a giant four-line interchange! You can see how the old station has been rebuilt to fit the new, fast Line 22 trains.
 
 ### 3) Fangcun (芳村)
 
-Fangcun is located in Liwan District, an area famous for its traditional gardens and tea markets.
+Fangcun (芳村) is located in Liwan District, an area famous for its traditional gardens and tea markets.
 Arriving here on Line 22 feels like a jump through time — from the ultra-modern high-speed rail hub to the charming "Old Canton" area.
 
 ## Fun Facts

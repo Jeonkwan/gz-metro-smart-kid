@@ -31,7 +31,7 @@ Guangzhou became the eighth city in China, and the first in the Greater Bay Area
 
 - **Crossing the Pearl River three times**: To complete the ring, engineers had to tunnel under the Pearl River three times. Each crossing required careful planning to make sure the tunnels stayed watertight and safe.
 - **Working under the busiest city areas**: The ring passes through five densely built districts. Workers had to tunnel carefully under buildings, parks, bridges, and other metro lines already carrying millions of passengers.
-- **Stations connected to the national railway**: Two major stations — Guangzhou Railway Station and Guangzhou East Railway Station — needed special upgrades to link with the national rail system. This meant those stations could not fully open on opening day.
+- **Stations connected to the national railway**: Two major stations — Guangzhou Railway Station (Transfer to Line 2, Line 11, Line 14, & Line 22) and Guangzhou East Railway Station (广州东站) — needed special upgrades to link with the national rail system. This meant those stations could not fully open on opening day.
 - **Managing 26 transfer connections**: Designing a ring line with 26 different transfer connections is very complex. Engineers had to make sure passengers could easily move between Line 11 and all the other metro lines it meets.
 
 ## Route Snapshot
@@ -45,22 +45,22 @@ Guangzhou became the eighth city in China, and the first in the Greater Bay Area
 
 1. **Chisha** (赤沙)
 2. **Pazhou** (琶洲) 🔄 Line 8
-3. **Yuancun** (员村) 🔄 Line 5
+3. **Yuancun (Transfer to Line 11)** (员村) 🔄 Line 5
 4. **Tianhe Park** (天河公园) 🔄 Line 13, Line 21
 5. **Huajing Road** (华景路)
 6. **South China Normal University** (华师) 🔄 Line 3
 7. **Longkouxi** (龙口西)
 8. **Guangzhou East Railway Station** (广州东站) 🔄 Line 1, Line 3
-9. **Shahe** (沙河) 🔄 Line 6
+9. **Shahe (Transfer to Line 11)** (沙河) 🔄 Line 6
 10. **Yuntai Garden** (云台花园)
 11. **Dajinzhong Road** (大金钟路)
 12. **Guangzhou University of Chinese Medicine** (广中医)
 13. **Ziyuangang** (梓元岗)
-14. **Guangzhou Railway Station** (广州火车站) 🔄 Line 2, Line 5, Line 14
+14. **Guangzhou Railway Station (Transfer to Line 2, Line 11, Line 14, & Line 22)** (广州火车站) 🔄 Line 2, Line 5, Line 14
 15. **Liuhua** (流花)
 16. **Caihong Bridge** (彩虹桥) 🔄 Line 8, Line 13
-17. **Zhongshanba** (中山八) 🔄 Line 5
-18. **Ruyifang** (如意坊) 🔄 Line 6
+17. **Zhongshanba (Transfer to Line 11)** (中山八) 🔄 Line 5
+18. **Ruyifang (Transfer to Line 11)** (如意坊) 🔄 Line 6
 19. **Shiweitang** (石围塘)
 20. **Fangcun** (芳村) 🔄 Line 1, Line 22
 21. **Dachongkou** (大冲口)
@@ -77,7 +77,7 @@ Guangzhou became the eighth city in China, and the first in the Greater Bay Area
 
 ## Important Stations for Kids
 
-### 1) Guangzhou Railway Station (广州火车站)
+### 1) Guangzhou Railway Station (Transfer to Line 2, Line 11, Line 14, & Line 22) (广州火车站)
 
 This station connects the metro with the national railway, so passengers can reach many other cities in China.
 The station's design is themed around Canton porcelain — the beautiful hand-painted pottery that Guangzhou has been famous for for hundreds of years.
@@ -85,15 +85,15 @@ Here you can also transfer to Lines 2 and 5, making it one of the biggest transp
 
 ### 2) Pazhou Station (琶洲站)
 
-Pazhou is located near the Canton Fair complex — one of the world's largest trade fairs, where people from across the globe come to buy and sell goods.
+Pazhou (琶洲) is located near the Canton Fair complex — one of the world's largest trade fairs, where people from across the globe come to buy and sell goods.
 The station's design is themed around Cantonese folk dance, with colorful cultural decorations.
 Here you can also transfer to Lines 8 and 18.
 
 ### 3) Fangcun Station (芳村站)
 
-Fangcun is a major transfer hub in Liwan District, located near the Bai'etan arts and culture area.
+Fangcun (芳村) is a major transfer hub in Liwan District, located near the Bai'etan arts and culture area.
 Bai'etan (White Swan Lake) is a riverside area with museums, performance spaces, and parks.
-At Fangcun, you can switch to Line 1 and Line 22.
+At Fangcun (芳村), you can switch to Line 1 and Line 22.
 
 ## Fun Facts
 

@@ -32,8 +32,8 @@ Together with Line 10, it forms a giant "X" shape across Guangzhou.
 - **2017**: Government approves Line 12 as part of Guangzhou's third railway building plan.
 - **19 November 2018**: Full-line construction officially begins.
 - **2025, June 29**: West section and east section open together — 18 stations start running in two separate segments.
-- **2026, February 13**: Chigang station opens, linking the Eastern section to Line 8.
-- **Future**: The middle section (Jingtai to Donghu) is still being built and will connect the two halves when it is ready.
+- **2026, February 13**: Chigang (赤岗) station opens, linking the Eastern section to Line 8.
+- **Future**: The middle section (Jingtai to Donghu (Transfer to Line 10 & Line 12)) is still being built and will connect the two halves when it is ready.
 
 Line 12 is still growing. When the central section opens, it will be one of the longest diagonal metro lines in China.
 
@@ -57,8 +57,8 @@ Line 12 is still growing. When the central section opens, it will be one of the 
 ## Full Station List (Open as of May 2026)
 
 ### Western Section
-1. **Xunfenggang** (浔峰岗) 🔄 Line 6
-2. **Xunfenggang North** (浔峰岗北)
+1. **Xunfenggang (Transfer to Line 12)** (浔峰岗) 🔄 Line 6
+2. **Xunfenggang (Transfer to Line 12) North** (浔峰岗北)
 3. **Xizhou** (西洲)
 4. **Julong** (聚龙) 🔄 Line 8
 5. **Guangzhou Baiyun Railway Station** (广州白云站) 🔄 Line 22, Intercity Rail
@@ -76,11 +76,11 @@ Line 12 is still growing. When the central section opens, it will be one of the 
 6. **Beishan** (北山)
 7. **Guanzhou** (官洲) 🔄 Line 4
 8. **Higher Education Mega Center North** (大学城北) 🔄 Line 4
-9. **Higher Education Mega Center South** (大学城南) 🔄 Line 4, Line 7
+9. **Higher Education Mega Center South (Transfer to Line 7 & Line 12)** (大学城南) 🔄 Line 4, Line 7
 
 ## Important Stations for Kids
 
-### 1) Xunfenggang (浔峰岗)
+### 1) Xunfenggang (Transfer to Line 12) (浔峰岗)
 
 This is the northwest starting point of Line 12.
 Here you can also change to Line 6.
@@ -92,7 +92,7 @@ Ersha Island is a beautiful island in the Pearl River in the middle of the city.
 It is home to the Xinghai Concert Hall, where musicians perform great music, and the Guangdong Art Museum, full of paintings and sculptures.
 Before Line 12 opened, Ersha Island had no metro station at all. Line 12 gave it its very first one!
 
-### 3) Higher Education Mega Center South (大学城南)
+### 3) Higher Education Mega Center South (Transfer to Line 7 & Line 12) (大学城南)
 
 This is in Guangzhou's famous University Town — a place where many universities share one campus area.
 Thousands of students live and study here.

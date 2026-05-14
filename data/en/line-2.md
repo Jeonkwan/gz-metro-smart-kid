@@ -3,9 +3,9 @@
 ## Quick Intro
 
 Line 2 is Guangzhou's main north–south metro line, running entirely underground.
-It links two of the city's biggest railway stations: Guangzhou Railway Station in the north and Guangzhou South Railway Station in the south.
+It links two of the city's biggest railway stations: Guangzhou Railway Station (Transfer to Line 2, Line 11, Line 14, & Line 22) in the north and Guangzhou South Railway Station (广州南站) in the south.
 The full line opened on September 25, 2010, after more than ten years of building in stages.
-Today, 24 stations span about 31.4 kilometers from Jiahewanggang to Guangzhou South Railway Station.
+Today, 24 stations span about 31.4 kilometers from Jiahewanggang (嘉禾望岗) to Guangzhou South Railway Station (广州南站).
 
 ## Story Time
 
@@ -15,16 +15,16 @@ City planners wanted a fast rail line that would run north to south, connecting 
 Construction began in June 1999.
 The first section opened on December 29, 2002, letting riders travel underground for the first time along this route.
 The line kept growing, adding more stations year by year.
-In 2010, the line finally reached the brand-new Guangzhou South Railway Station — one of the biggest high-speed train hubs in southern China.
+In 2010, the line finally reached the brand-new Guangzhou South Railway Station (广州南站) — one of the biggest high-speed train hubs in southern China.
 Today, Line 2 carries over a million people every day and is one of the city's busiest routes.
 
 ## Time Story
 
 - **1999**: Construction on Line 2 began in June.
-- **2002**: The first section opened on December 29, from Sanyuanli to Xiaogang.
+- **2002**: The first section opened on December 29, from Sanyuanli (三元里) to Xiaogang (晓港).
 - **2003**: The line extended to reach more of the Pearl River area on June 28.
 - **2005**: Another extension opened on December 26, adding stations toward the south.
-- **2010**: On September 25, the full line from Jiahewanggang to Guangzhou South Railway Station opened.
+- **2010**: On September 25, the full line from Jiahewanggang (嘉禾望岗) to Guangzhou South Railway Station (广州南站) opened.
 
 Line 2 took more than ten years to reach its final shape.
 Each new stretch brought more people and more places closer together.
@@ -40,7 +40,7 @@ Each new stretch brought more people and more places closer together.
 - **Start area**: Jiahewanggang (嘉禾望岗), in the north in Baiyun District
 - **End area**: Guangzhou South Railway Station (广州南站), in the south in Panyu District
 - **Route role**: A north–south trunk line connecting two major railway hubs across four city districts
-- **Transfer value**: Connects with Line 1 and Line 12 at Gongyuanqian, Line 5 at Guangzhou Railway Station, Lines 7 and 22 at Guangzhou South Railway Station, and Line 8 at Changgang
+- **Transfer value**: Connects with Line 1 and Line 12 at Gongyuanqian (公园前), Line 5 at Guangzhou Railway Station (Transfer to Line 2, Line 11, Line 14, & Line 22), Lines 7 and 22 at Guangzhou South Railway Station (广州南站), and Line 8 at Changgang (昌岗)
 
 ## Full Station List
 
@@ -52,7 +52,7 @@ Each new stretch brought more people and more places closer together.
 6. **Baiyun Park** (白云公园)
 7. **Feixiang Park** (飞翔公园)
 8. **Sanyuanli** (三元里)
-9. **Guangzhou Railway Station** (广州火车站) 🔄 Line 5, Line 11, Line 14
+9. **Guangzhou Railway Station (Transfer to Line 2, Line 11, Line 14, & Line 22)** (广州火车站) 🔄 Line 5, Line 11, Line 14
 10. **Yuexiu Park** (越秀公园)
 11. **Sun Yat-sen Memorial Hall** (中山纪念堂) 🔄 Line 13
 12. **Gongyuanqian** (公园前) 🔄 Line 1, Line 12
@@ -73,12 +73,12 @@ Each new stretch brought more people and more places closer together.
 
 ### 1) Sun Yat-sen Memorial Hall (中山纪念堂)
 
-This station sits next to a very special building — the Sun Yat-sen Memorial Hall.
+This station sits next to a very special building — the Sun Yat-sen Memorial Hall (中山纪念堂).
 It was completed in 1931 to honor Dr. Sun Yat-sen, a famous Chinese leader who helped change China's history.
 The building has a beautiful blue tiled roof shaped like a large dome.
 It is one of the most recognizable landmarks in Guangzhou.
 
-### 2) Guangzhou Railway Station (广州站)
+### 2) Guangzhou Railway Station (Transfer to Line 2, Line 11, Line 14, & Line 22) (广州站)
 
 This is the big national train station in Guangzhou.
 Trains from cities all over China stop here.
@@ -97,7 +97,7 @@ The metro brings you right into the lower level of this enormous station.
 - Line 2 is about **31.4 kilometers** long and has **24 stations**, all underground.
 - Construction began in **1999** and the full line opened in **2010** — over 11 years of building!
 - In 2019, Line 2 had over **1.4 million** riders on a typical day.
-- Guangzhou South Railway Station has **28 platforms**, making it one of the biggest rail hubs in the world.
+- Guangzhou South Railway Station (广州南站) has **28 platforms**, making it one of the biggest rail hubs in the world.
 
 ## Word Helper
 
@@ -108,7 +108,7 @@ The metro brings you right into the lower level of this enormous station.
 ## Memory Check
 
 1. What two big railway stations does Line 2 connect?
-2. What famous landmark is right next to the Sun Yat-sen Memorial Hall station?
+2. What famous landmark is right next to the Sun Yat-sen Memorial Hall (中山纪念堂) station?
 3. In which year did the full Line 2 open from end to end?
 
 ## Photos

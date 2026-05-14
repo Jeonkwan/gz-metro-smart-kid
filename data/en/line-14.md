@@ -18,14 +18,14 @@ It served the Sino-Singapore Guangzhou Knowledge City — a brand-new area where
 The main line first opened on December 28, 2018, finally connecting Conghua to the metro network.
 For the first time, people could ride a metro all the way into the mountains.
 
-In 2025, Phase 2 opened, extending the line southward from Jiahewanggang to Lejia Road, making it even easier to reach the city center.
+In 2025, Phase 2 opened, extending the line southward from Jiahewanggang (嘉禾望岗) to Lejia Road, making it even easier to reach the city center.
 
 Today, Line 14 helps residents of Conghua, Huangpu, and Baiyun reach the heart of Guangzhou in about one hour.
 
 ## Time Story
 - 2013: Construction of Line 14 began.
-- 2017: The Knowledge City Branch opened on December 28, connecting Xinhe to Zhenlong.
-- 2018: The main line first opened on December 28, connecting Jiahewanggang to Dongfeng.
+- 2017: The Knowledge City Branch opened on December 28, connecting Xinhe to Zhenlong (镇龙).
+- 2018: The main line first opened on December 28, connecting Jiahewanggang (嘉禾望岗) to Dongfeng.
 - 2025: Phase 2 opened on September 29, extending the main line southward to Lejia Road.
 
 Line 14 continues to bridge the gap between the city center and the northeastern suburbs, making travel to Conghua and Knowledge City much faster.
@@ -38,9 +38,9 @@ Line 14 continues to bridge the gap between the city center and the northeastern
 ## Route Snapshot
 - **Start area**: Lejia Road (乐嘉路) — current southern terminus in Baiyun District
 - **End area**: Dongfeng (东风) — Conghua District
-- **Branch**: Xinhe to Zhenlong (Knowledge City Branch)
+- **Branch**: Xinhe to Zhenlong (镇龙) (Knowledge City Branch)
 - **Route role**: Connects central Guangzhou to the northeastern suburbs and mountainous areas of Conghua
-- **Transfer value**: Connects to Line 2 and Line 3 at Jiahewanggang; Line 12 at Xinshixu; Line 21 at Zhenlong; and future connection to Line 11 at Guangzhou Railway Station
+- **Transfer value**: Connects to Line 2 and Line 3 at Jiahewanggang (嘉禾望岗); Line 12 at Xinshixu; Line 21 at Zhenlong (镇龙); and future connection to Line 11 at Guangzhou Railway Station (Transfer to Line 2, Line 11, Line 14, & Line 22)
 
 ## Full Station List
 
@@ -80,7 +80,7 @@ Line 14 continues to bridge the gap between the city center and the northeastern
 
 ## Important Stations for Kids
 
-### 1) Jiahewanggang Station
+### 1) Jiahewanggang (嘉禾望岗) Station
 This busy station is where Line 14 used to start its suburban journey.
 Now it is an important stop where you can change to Line 2 or Line 3.
 Think of it as a big crossroads where many paths meet!
@@ -90,7 +90,7 @@ This is the last stop on the main line, located deep in the hills of Conghua Dis
 Conghua is famous for its hot springs, fresh mountain air, and beautiful scenery.
 People come here to soak in warm spring water and enjoy the peaceful countryside.
 
-### 3) Zhenlong Station (Knowledge City)
+### 3) Zhenlong (镇龙) Station (Knowledge City)
 This station is at the heart of the Sino-Singapore Guangzhou Knowledge City.
 It is a place where some of China's most exciting technology companies and universities work side by side.
 Engineers, scientists, and students all gather here to create the future!
