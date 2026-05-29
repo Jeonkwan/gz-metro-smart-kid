@@ -147,6 +147,12 @@ It is a great example of how metro and bus services can work together.
 - Photographer/Author: See Wikimedia Commons file page.
 - Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
 
+## Collector's Stamp
+
+![Line 5 Stamp](../generated_images/line-5-stamp.png)
+
+- **Description**: A minimalist blue ink stamp featuring the classic L2 train of Guangzhou Metro Line 5.
+
 ## Sources
 
 - Line 5 (Guangzhou Metro) - Wikipedia: https://en.wikipedia.org/wiki/Line_5_(Guangzhou_Metro)

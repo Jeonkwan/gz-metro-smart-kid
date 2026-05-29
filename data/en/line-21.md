@@ -135,6 +135,12 @@ It is surrounded by shops, libraries, and government buildings, making it a very
 - Photographer/Author: See Wikimedia Commons file page.
 - Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
 
+## Collector's Stamp
+
+![Line 21 Stamp](../generated_images/line-21-stamp.png)
+
+- **Description**: A minimalist blue ink stamp featuring the classic B8 train of Guangzhou Metro Line 21.
+
 ## Sources
 
 - Guangzhou Metro official website: https://www.gzmtr.com

@@ -147,6 +147,12 @@
 - 摄影师/作者：请查看 Wikimedia Commons 文件页。
 - 风险说明：低。来源为Wikimedia Commons开放授权资源，但外部链接可用性仍可能变化。
 
+## 收藏家印章
+
+![12号线印章](../generated_images/line-12-stamp.png)
+
+- **说明**：一款简约的蓝色墨水印章，展示了广州地铁12号线的经典A10型列车。
+
 ## 参考资料
 
 - 维基百科 — 广州地铁12号线：https://en.wikipedia.org/wiki/Line_12_(Guangzhou_Metro)

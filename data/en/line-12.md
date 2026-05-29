@@ -148,6 +148,12 @@ This station also connects to Lines 4 and 7, so students can get anywhere in the
 - Photographer/Author: See Wikimedia Commons file page.
 - Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
 
+## Collector's Stamp
+
+![Line 12 Stamp](../generated_images/line-12-stamp.png)
+
+- **Description**: A minimalist blue ink stamp featuring the classic A10 train of Guangzhou Metro Line 12.
+
 ## Sources
 
 - Wikipedia — Line 12 (Guangzhou Metro): https://en.wikipedia.org/wiki/Line_12_(Guangzhou_Metro)

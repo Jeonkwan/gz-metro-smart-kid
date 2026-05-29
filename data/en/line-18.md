@@ -107,6 +107,12 @@ Arriving here from Wanqingsha (万顷沙) on an express train takes only about 3
 - Photographer/Author: See Wikimedia Commons file page.
 - Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
 
+## Collector's Stamp
+
+![Line 18 Stamp](../generated_images/line-18-stamp.png)
+
+- **Description**: A minimalist blue ink stamp featuring the classic D train of Guangzhou Metro Line 18.
+
 ## Sources
 - Line 18 (Guangzhou Metro) - Wikipedia: https://en.wikipedia.org/wiki/Line_18_(Guangzhou_Metro)
 - Guangzhou City News - gz.gov.cn: https://www.gz.gov.cn/guangzhouinternational/home/citynews/content/post_7815911.html

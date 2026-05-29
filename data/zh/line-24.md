@@ -50,3 +50,9 @@
 - 来源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Exterior%20of%20A8%20Train%20(08x213),%20Guangzhou%20Metro%2020230701-A.jpg)
 - 摄影师/作者：请查看 Wikimedia Commons 文件页。
 - 风险说明：临时占位图。24号线尚未投入运营，目前尚无真实的24号线列车照片。这张广州地铁列车照片仅作为展示，直到官方24号线车辆图像发布。
+
+## 收藏家印章
+
+![24号线印章](../generated_images/line-24-stamp.png)
+
+- **说明**：一款简约的蓝色墨水印章，展示了广州地铁24号线的经典A8型列车。

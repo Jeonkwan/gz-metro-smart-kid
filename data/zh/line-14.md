@@ -130,6 +130,12 @@
 - 摄影师/作者：请查看 Wikimedia Commons 文件页。
 - 风险说明：低。来源为Wikimedia Commons开放授权资源，但外部链接可用性仍可能变化。
 
+## 收藏家印章
+
+![山区之旅印章](../generated_images/line-14-stamp.png)
+
+- **说明**：一款简约的蓝色墨水印章，展示了广州地铁山区之旅的经典B7型列车。
+
 ## 参考资料
 - 维基百科 — 广州地铁14号线：https://en.wikipedia.org/wiki/Line_14_(Guangzhou_Metro)
 - 广州地铁14号线 — 中国旅行指南：https://www.travelchinaguide.com/cityguides/guangdong/guangzhou/metro-line14.htm

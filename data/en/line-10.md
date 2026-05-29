@@ -127,6 +127,12 @@ At this station, you can also transfer to Line 11, the golden ring line.
 - Photographer/Author: See Wikimedia Commons file page.
 - Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
 
+## Collector's Stamp
+
+![Line 10 Stamp](../generated_images/line-10-stamp.png)
+
+- **Description**: A minimalist blue ink stamp featuring the classic B13 train of Guangzhou Metro Line 10.
+
 ## Sources
 
 - Line 10 (Guangzhou Metro) - Wikipedia: https://en.wikipedia.org/wiki/Line_10_(Guangzhou_Metro)

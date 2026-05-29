@@ -106,6 +106,12 @@
 - 摄影师/作者：请查看 Wikimedia Commons 文件页。
 - 风险说明：低。来源为Wikimedia Commons开放授权资源，但外部链接可用性仍可能变化。
 
+## 收藏家印章
+
+![速度冠军！印章](../generated_images/line-18-stamp.png)
+
+- **说明**：一款简约的蓝色墨水印章，展示了广州地铁速度冠军！的经典D型列车。
+
 ## 资料来源
 - Line 18 (Guangzhou Metro) - Wikipedia: https://en.wikipedia.org/wiki/Line_18_(Guangzhou_Metro)
 - 广州城市新闻 - gz.gov.cn: https://www.gz.gov.cn/guangzhouinternational/home/citynews/content/post_7815911.html

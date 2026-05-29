@@ -151,6 +151,12 @@ In the future, this station will also connect to Lines 16 and 20, making it an i
 - Photographer/Author: Fu Chaojun.
 - Risk note: Medium. Public web image from Nanfang Plus; licensing or reuse terms are not clearly stated on the page, and external link availability may change.
 
+## Collector's Stamp
+
+![Line 13 Stamp](../generated_images/line-13-stamp.png)
+
+- **Description**: A minimalist blue ink stamp featuring the classic A7 train of Guangzhou Metro Line 13.
+
 ## Sources
 
 - Wikipedia — Line 13 (Guangzhou Metro): https://en.wikipedia.org/wiki/Line_13_(Guangzhou_Metro)

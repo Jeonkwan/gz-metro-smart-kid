@@ -137,6 +137,12 @@ This station connects the metro all the way to the sea!
 - Photographer/Author: See Wikimedia Commons file page.
 - Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
 
+## Collector's Stamp
+
+![Line 4 Stamp](../generated_images/line-4-stamp.png)
+
+- **Description**: A minimalist blue ink stamp featuring the classic L5 train of Guangzhou Metro Line 4.
+
 ## Sources
 
 - Line 4 (Guangzhou Metro) - Wikipedia: https://en.wikipedia.org/wiki/Line_4_(Guangzhou_Metro)

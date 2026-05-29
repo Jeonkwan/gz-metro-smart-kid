@@ -115,6 +115,12 @@ Arriving here on Line 22 feels like a jump through time — from the ultra-moder
 - Photographer/Author: Pan Xingtianlu.
 - Risk note: Medium. Public web image from TrainNets; licensing or reuse terms are not clearly stated on the page, and external link availability may change.
 
+## Collector's Stamp
+
+![Line 22 Stamp](../generated_images/line-22-stamp.png)
+
+- **Description**: A minimalist blue ink stamp featuring the classic D train of Guangzhou Metro Line 22.
+
 ## Sources
 
 - Guangzhou Metro official website: https://www.gzmtr.com

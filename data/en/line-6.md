@@ -145,6 +145,12 @@ It is a great place to explore history from two different parts of the world in 
 - Photographer/Author: See Wikimedia Commons file page.
 - Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
 
+## Collector's Stamp
+
+![Line 6 Stamp](../generated_images/line-6-stamp.png)
+
+- **Description**: A minimalist blue ink stamp featuring the classic L3 train of Guangzhou Metro Line 6.
+
 ## Sources
 
 - Guangzhou Metro official site: https://www.gzmtr.com

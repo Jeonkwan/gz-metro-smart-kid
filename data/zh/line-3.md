@@ -149,6 +149,12 @@
 - 摄影师/作者：请查看 Wikimedia Commons 文件页。
 - 风险说明：低。来源为Wikimedia Commons开放授权资源，但外部链接可用性仍可能变化。
 
+## 收藏家印章
+
+![广州地铁3号线印章](../generated_images/line-3-stamp.png)
+
+- **说明**：一款简约的蓝色墨水印章，展示了广州地铁广州地铁3号线的经典B2型列车。
+
 ## 来源
 
 - 维基百科 - 广州地铁3号线：https://en.wikipedia.org/wiki/Line_3_(Guangzhou_Metro)

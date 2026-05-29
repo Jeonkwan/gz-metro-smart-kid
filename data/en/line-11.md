@@ -148,6 +148,12 @@ At Fangcun (芳村), you can switch to Line 1 and Line 22.
 - Photographer/Author: Source account 有我有料; photographer not credited on page.
 - Risk note: Medium. Public web image from Sohu; licensing or reuse terms are not clearly stated on the page, and external link availability may change.
 
+## Collector's Stamp
+
+![Line 11 Stamp](../generated_images/line-11-stamp.png)
+
+- **Description**: A minimalist blue ink stamp featuring the classic A9 train of Guangzhou Metro Line 11.
+
 ## Sources
 
 - Line 11 (Guangzhou Metro) - Wikipedia: https://en.wikipedia.org/wiki/Line_11_(Guangzhou_Metro)

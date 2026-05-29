@@ -128,6 +128,12 @@ Gaozeng (高增) is the link that ties Line 9 to the whole Guangzhou metro netwo
 - Photographer/Author: TouchTV; editor Liang Qiya.
 - Risk note: Medium. Public web image from Sohu; licensing or reuse terms are not clearly stated on the page, and external link availability may change.
 
+## Collector's Stamp
+
+![Line 9 Stamp](../generated_images/line-9-stamp.png)
+
+- **Description**: A minimalist blue ink stamp featuring the classic B6 train of Guangzhou Metro Line 9.
+
 ## Sources
 
 - Line 9 (Guangzhou Metro) - Wikipedia: https://en.wikipedia.org/wiki/Line_9_(Guangzhou_Metro)

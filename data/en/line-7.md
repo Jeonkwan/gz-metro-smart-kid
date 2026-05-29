@@ -135,6 +135,12 @@ You can transfer to Foshan Line 3 here.
 - Photographer/Author: See Wikimedia Commons file page.
 - Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
 
+## Collector's Stamp
+
+![Line 7 Stamp](../generated_images/line-7-stamp.png)
+
+- **Description**: A minimalist blue ink stamp featuring the classic B5 train of Guangzhou Metro Line 7.
+
 ## Sources
 
 - Guangzhou Metro official site: https://www.gzmtr.com

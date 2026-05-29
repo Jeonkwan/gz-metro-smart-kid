@@ -124,6 +124,12 @@ It is a busy hub connecting different parts of the city.
 - Photographer/Author: See Wikimedia Commons file page.
 - Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
 
+## Collector's Stamp
+
+![Line 8 Stamp](../generated_images/line-8-stamp.png)
+
+- **Description**: A minimalist blue ink stamp featuring the classic A6 train of Guangzhou Metro Line 8.
+
 ## Sources
 
 - Line 8 (Guangzhou Metro) - Wikipedia: https://en.wikipedia.org/wiki/Line_8_(Guangzhou_Metro)

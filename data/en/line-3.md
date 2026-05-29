@@ -149,6 +149,12 @@ It is very exciting to ride a metro train all the way to an airport!
 - Photographer/Author: See Wikimedia Commons file page.
 - Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
 
+## Collector's Stamp
+
+![Line 3 Stamp](../generated_images/line-3-stamp.png)
+
+- **Description**: A minimalist blue ink stamp featuring the classic B2 train of Guangzhou Metro Line 3.
+
 ## Sources
 
 - Line 3 (Guangzhou Metro) – Wikipedia: https://en.wikipedia.org/wiki/Line_3_(Guangzhou_Metro)

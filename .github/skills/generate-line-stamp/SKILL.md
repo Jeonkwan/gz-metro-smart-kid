@@ -16,7 +16,7 @@ To ensure the stamp is authentic to the specific train model, you **must** extra
 Use an AI image generator (like Gemini Flash Image) that supports image-to-image or image-referencing. Provide the reference URL(s) along with this specific prompt:
 
 > **Prompt Template:**
-> A square image featuring a minimalist blue ink stamp of the train shown in the reference image. The design is a single-tone blue color on a pure white background, mimicking the look of a traditional rubber stamp. The train's appearance (shape, windows, front design) should strictly follow the reference photo. The style should be clean and graphic from a 3/4 front perspective with a slight weathered texture. The overall composition is centered and square. Include the Chinese characters "[SPECIFIC LINE NAME IN CHINESE]" in a traditional stamp font.
+> A square image featuring a minimalist blue ink stamp of the train shown in the reference image. The design is a single-tone blue color on a clean white paper-textured background, mimicking the look of a traditional rubber stamp. The train's appearance (shape, windows, front design) should strictly follow the reference photo. The style should be clean and graphic from a 3/4 front perspective with a slight weathered texture. The overall composition is centered and square. Include the Chinese characters "[SPECIFIC LINE NAME IN CHINESE]" in a bold traditional stamp font, the train model name (e.g., "[TRAIN MODEL]型列车"), and the English text "GUANGZHOU METRO" at the bottom.
 
 **How to adapt the text:**
 Replace `[SPECIFIC LINE NAME IN CHINESE]` based on the line type:
@@ -26,9 +26,11 @@ Replace `[SPECIFIC LINE NAME IN CHINESE]` based on the line type:
 - **Guangfo Line**: "广佛线"
 - **Foshan Metro**: "佛山地铁[X]号线"
 
+Replace `[TRAIN MODEL]` with the train model from the line details (e.g., "A1", "B1", "L"). If unknown, omit the train model line.
+
 **Key Constraints:**
 - **Color**: Single-tone blue ink only.
-- **Background**: Pure white.
+- **Background**: Clean white with a subtle paper texture.
 - **Shape**: Square (1:1).
 - **Style**: Minimalist, weathered rubber stamp effect.
 

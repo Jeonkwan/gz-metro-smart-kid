@@ -131,6 +131,12 @@ Engineers, scientists, and students all gather here to create the future!
 - Photographer/Author: See Wikimedia Commons file page.
 - Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
 
+## Collector's Stamp
+
+![Line 14 Stamp](../generated_images/line-14-stamp.png)
+
+- **Description**: A minimalist blue ink stamp featuring the classic B7 train of Guangzhou Metro Line 14.
+
 ## Sources
 - Line 14 (Guangzhou Metro) - Wikipedia: https://en.wikipedia.org/wiki/Line_14_(Guangzhou_Metro)
 - Guangzhou Metro Line 14 - TravelChinaGuide: https://www.travelchinaguide.com/cityguides/guangdong/guangzhou/metro-line14.htm

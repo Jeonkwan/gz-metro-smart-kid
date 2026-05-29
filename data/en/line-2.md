@@ -131,6 +131,12 @@ The metro brings you right into the lower level of this enormous station.
 - Photographer/Author: See Wikimedia Commons file page.
 - Risk note: Low. Openly licensed source via Wikimedia Commons; external link availability may still change.
 
+## Collector's Stamp
+
+![Line 2 Stamp](../generated_images/line-2-stamp.png)
+
+- **Description**: A minimalist blue ink stamp featuring the classic A8 train of Guangzhou Metro Line 2.
+
 ## Sources
 
 - Line 2 (Guangzhou Metro) – Wikipedia: https://en.wikipedia.org/wiki/Line_2_(Guangzhou_Metro)
